@@ -1,0 +1,26 @@
+EV_VOLUMES_TEST: 
+    GRANULARITY: PERIOD_GRANULARITY
+    sales country: SALES_COUNTRY_CODE
+    vehicle production country: PRODUCTION_COUNTRY_CODE
+    VALUE: VALUE
+    DATE: DATE
+    FORECAST_RELEASE_DATE: FORECAST_RELEASE_DATE
+    MODEL_ID: MODEL_ID
+GEO_COUNTRY_TEST: 
+    REGION: REGION
+    COUNTRY_CODE: COUNTRY_CODE
+VEHICLE_SPEC_TEST: 
+    battery kwh : BATTERY
+    cell supplier: CELL_SUPPLIER
+    cathode chemistry: CATHODE
+    propulsion: PROPULTION
+    oem group: OEM_GROUP
+    brand: BRAND
+    global segment: GLOBAL_SEGMENT
+    fast-charging: FAST_CHARGING
+    FORECAST_RELEASE_DATE: FORECAST_RELEASE_DATE
+    MODEL_ID: MODEL_ID
+
+        
+
+

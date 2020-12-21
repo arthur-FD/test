@@ -9,40 +9,54 @@ from datetime import date
 from datetime import time
 from datetime import datetime
 import pycountry
-
-def numberOfDays(y, m):
-      leap = 0
-      if y% 400 == 0:
-         leap = 1
-      elif y % 100 == 0:
-         leap = 0
-      elif y% 4 == 0:
-         leap = 1
-      if m==2:
-         return 28 + leap
-      list = [1,3,5,7,8,10,12]
-      if m in list:
-         return 31
-      return 30
-
-def get_last_day_quarter(quarter,year):
-    if quarter==1:
-        return(date(year,3,31))
-    elif quarter==2:
-        return(date(year,6,30))
-    elif quarter==3:
-        return(date(year, 9,30))
-    elif quarter==4:
-        return(date(year,12,31))
-    else: return 'invalid input'
-
-def find_col(year,months_available):
-    return [col for col in months_available if str(year) in col]
+from utils import * 
 
 
 
+
+class ProcessingData: 
+    def __init__(self, ev_volume_csv_path=r'/mnt/c/Users/ArthurJacquemart/FIFTHDELTA/Engineering - Documents/Bart/Data/raw/ev_volume/10-31 Upload of PEV Master 2020-10-31.csv'):
+        self.ev_volumes_raw=pd.read_csv(ev_volume_csv_path,sep=';',decimal=',')
+        self.months_spelled_wrong={'maj':'may','okt':'oct'}
+        self.check_formating_months=0
+        self.check_col_names=0
+        self.clean_data=0
+        self.regex_year = r'^20[0-9]{2}$'
+        self.regex_month = r'^[a-z]{3}-[0-9]{2}$'
+        self.regex_quarter=r'^[0-9]{4}Q[1-4]{1}$'
+
+    def replacing_col_names(self):
+        columns=list(self.ev_volumes_raw.columns)
+        for i,col in enumerate(columns):
+            for weird_month, right_month in self.months_spelled_wrong.items():
+                if weird_month in col:
+                    columns[i]=col.replace(weird_month,right_month)
+        self.ev_volumes_raw.columns=columns
+        self.check_formating_months=1
+
+    def drop_unrelevent_row(self):
+        if self.check_formating_months==0:
+            self.replacing_col_names()
+            self.drop_unrelevent_row()
+        else:
+            self.ev_volumes_raw.replace(' ',numpy.nan,inplace=True)
+            self.ev_volumes_raw.dropna(how='all',inplace=True)
+            self.clean_data=1
+    def colums_names(self):
+        if self.clean_data==0:
+            self.drop_unrelevent_row()
+            self.colums_names()
+        else:
+            self.years_available=[col for col in elf.ev_volumes_raw.columns if re.search(self.regex_year, col)]
+            self.months_available=[col for col in elf.ev_volumes_raw.columns if re.search(self.regex_month, col)]
+            self.other_cols=[col  for col in registration_volumes_EV_columns if (col not in years_available and col not in months_available)]
+            self.check_col_names=1
+
+                
+
+
+            
 registration_volumes_EV=pd.read_csv(r'/mnt/c/Users/ArthurJacquemart/FIFTHDELTA/Engineering - Documents/Bart/Data/raw/ev_volume/10-31 Upload of PEV Master 2020-10-31.csv',sep=';',decimal=',')
-
 
 ##REPLACE U.K and USA CSQ REP
 

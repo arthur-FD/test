@@ -1,617 +1,617 @@
 BATTERY,CELL_SUPPLIER,CATHODE,PROPULTION,OEM_GROUP,BRAND,GLOBAL_SEGMENT,FAST_CHARGING,FORECAST_RELEASE_DATE,MODEL_ID
-"8,8",Panasonic-Sanyo,NMC,PHEV,VW Group,Audi,Car-C,,2020-12-18,"Audi A3 PHEV/PHEV/Car-C/8,8"
-"14,1",LG Chem,NMC,PHEV,VW Group,Audi,Car-F,,2020-12-18,"Audi A8 PHEV/PHEV/Car-F/14,1"
-"14,1",LG Chem,NMC,PHEV,VW Group,Audi,SUV-D,,2020-12-18,"Audi Q5 PHEV/PHEV/SUV-D/14,1"
-95,LG Chem,NMC,BEV,VW Group,Audi,SUV-E,CCS,2020-12-18,Audi e-tron Quattro EV/BEV/SUV-E/95
-"7,6",Samsung SDI,NMC,PHEV,BMW Group,BMW,Car-D,,2020-12-18,"BMW 330e PHEV/PHEV/Car-D/7,6"
-12,Samsung SDI,NMC,PHEV,BMW Group,BMW,Car-D,,2020-12-18,BMW 330e PHEV/PHEV/Car-D/12
-"9,2 / 12,0",Samsung SDI,NMC,PHEV,BMW Group,BMW,Car-E,,2020-12-18,"BMW 530e PHEV/PHEV/Car-E/9,2 / 12,0"
-32,Samsung SDI,NMC,BEV,BMW Group,BMW,Car-C,,2020-12-18,BMW Active-E EV/BEV/Car-C/32
-22/33/42,Samsung SDI,NMC,BEV,BMW Group,BMW,MPV-B,CCS,2020-12-18,BMW i3 EV / EREV/BEV/MPV-B/22/33/42
-"7,1 / 11,7",Samsung SDI,NMC,PHEV,BMW Group,BMW,SS,,2020-12-18,"BMW i8 PHEV/PHEV/SS/7,1 / 11,7"
-"9,2",Samsung SDI,NMC,PHEV,BMW Group,BMW,SUV-E,,2020-12-18,"BMW X5 40e PHEV/PHEV/SUV-E/9,2"
-"9,2",Samsung SDI,NMC,PHEV,BMW Group,BMW,Car-F,,2020-12-18,"BMW 740e PHEV/PHEV/Car-F/9,2"
-12,Samsung SDI,NMC,PHEV,BMW Group,BMW,Car-F,,2020-12-18,BMW 745e PHEV/PHEV/Car-F/12
-12,Samsung SDI,NMC,PHEV,BMW Group,BMW,SUV-D,,2020-12-18,BMW X3 30e PHEV/PHEV/SUV-D/12
-"23,8",Samsung SDI,NMC,PHEV,BMW Group,BMW,SUV-E,,2020-12-18,"BMW X5 45e PHEV/PHEV/SUV-E/23,8"
-30,Bollore,LMP,BEV,Other,Bollore,Car-B,,2020-12-18,Bollore Blue Car EV/BEV/Car-B/30
-"16 - 17,1",LG Chem,NMC,PHEV,GM,Cadillac,Car-C,,2020-12-18,"Cadillac ELR EREV/PHEV/Car-C/16 - 17,1"
-"18,4",LG Chem,NMC,PHEV,GM,Cadillac,Car-E,,2020-12-18,"Cadillac CT6 PHEV/PHEV/Car-E/18,4"
-60 / 66,LG Chem,NMC,BEV,GM,Chevrolet,MPV-B,CCS,2020-12-18,Chevrolet Bolt EV/BEV/MPV-B/60 / 66
-19,LG Chem,NMC,BEV,GM,Chevrolet,Car-B,CCS,2020-12-18,Chevrolet Spark EV/BEV/Car-B/19
-"16 - 17,1",LG Chem,NMC,PHEV,GM,Chevrolet,Car-C,,2020-12-18,"Chevrolet Volt EREV/PHEV/Car-C/16 - 17,1"
-"18,4",LG Chem,NMC,PHEV,GM,Chevrolet,Car-C,,2020-12-18,"Chevrolet Volt EREV/PHEV/Car-C/18,4"
-16,LG Chem,NMC,PHEV,FCA,Chrysler,MPV-E,,2020-12-18,Chrysler Pacifica PHEV/PHEV/MPV-E/16
-24,Samsung SDI,NMC,BEV,FCA,Fiat,Car-A,,2020-12-18,Fiat 500e EV/BEV/Car-A/24
-"20,1",Wanxiang 123 ,LFP,PHEV,Other,Fisker,Car-F,,2020-12-18,"Fisker Karma EREV/PHEV/Car-F/20,1"
-"7,6",Panasonic-Sanyo,NMC,PHEV,Ford,Ford,MPV-C,,2020-12-18,"Ford C-Max Energi PHEV/PHEV/MPV-C/7,6"
-23,LG Chem,NMC,BEV,Ford,Ford,Car-C,,2020-12-18,Ford Focus Electric EV/BEV/Car-C/23
-"7,6",Panasonic-Sanyo,NMC,PHEV,Ford,Ford,Car-D,,2020-12-18,"Ford Fusion Energi PHEV/PHEV/Car-D/7,6"
-"14,4",Samsung SDI,NMC,PHEV,Ford,Ford,SUV-C,,2020-12-18,"Ford Kuga / Escape PHEV/PHEV/SUV-C/14,4"
-9,GS Yuasa,LMO,PHEV,Honda Motor,Honda,Car-D,,2020-12-18,Honda Accord PHEV/PHEV/Car-D/9
-"25,5",Unknown,Unknown Li-Ion,BEV,Honda Motor,Honda,Car-D,CCS,2020-12-18,"Honda Clarity BEV/BEV/Car-D/25,5"
-17,Panasonic,NMC,PHEV,Honda Motor,Honda,Car-D,,2020-12-18,Honda Clarity PHEV/PHEV/Car-D/17
-14,Blue Energy,Unknown Li-Ion,FCEV,Honda Motor,Honda,Car-D,,2020-12-18,Honda Clarity FCEV/FCEV/Car-D/14
-24,Toshiba,Unknown Li-Ion,BEV,Honda Motor,Honda,MPV-A,,2020-12-18,Honda Fit EV/BEV/MPV-A/24
-42 / 67,LG Chem,NMC,BEV,Hyundai Motor,Hyundai,SUV-C,CCS,2020-12-18,Hyundai Kona EV/BEV/SUV-C/42 / 67
-"8,9",LG Chem,NMC,PHEV,Hyundai Motor,Hyundai,Car-C,,2020-12-18,"Hyundai Ioniq PHEV/PHEV/Car-C/8,9"
-28 / 42,LG Chem,NMC,BEV,Hyundai Motor,Hyundai,Car-C,CCS,2020-12-18,Hyundai Ioniq Electric EV/BEV/Car-C/28 / 42
-"9,8",LG Chem,NMC,PHEV,Hyundai Motor,Hyundai,Car-D,,2020-12-18,"Hyundai Sonata PHEV/PHEV/Car-D/9,8"
-"0,95",Unknown,LMP,FCEV,Hyundai Motor,Hyundai,SUV-D,,2020-12-18,"Hyundai Tucson / ix35 FCEV/FCEV/SUV-D/0,95"
-"1,56",Unknown,Unknown,FCEV,Hyundai Motor,Hyundai,SUV-D,,2020-12-18,"Hyundai Nexo FCEV/FCEV/SUV-D/1,56"
-90,LG Chem,NMC,BEV,Tata-JLR,Jaguar,SUV-D,CCS,2020-12-18,Jaguar i-Pace EV/BEV/SUV-D/90
-30,SK-Group,NMC,BEV,Hyundai Motor,Kia,MPV-B,ChaDeMo,2020-12-18,Kia Soul EV/BEV/MPV-B/30
-42 / 67,SK-Group,NMC,BEV,Hyundai Motor,Kia,MPV-C,CCS,2020-12-18,Kia e-Soul EV/BEV/MPV-C/42 / 67
-42 / 67,SK-Group,NMC,BEV,Hyundai Motor,Kia,SUV-C,CCS,2020-12-18,Kia Niro EV/BEV/SUV-C/42 / 67
-"8,9",SK-Group,NMC,PHEV,Hyundai Motor,Kia,SUV-C,,2020-12-18,"Kia Niro PHEV/PHEV/SUV-C/8,9"
-"9,8",LG Chem,NMC,PHEV,Hyundai Motor,Kia,Car-D,,2020-12-18,"Kia K5 / Optima PHEV/PHEV/Car-D/9,8"
-"13,1",Samsung SDI,NMC,PHEV,Tata-JLR,Range Rover,SUV-E,,2020-12-18,"Range Rover Sport PHEV/PHEV/SUV-E/13,1"
-"13,1",Samsung SDI,NMC,PHEV,Tata-JLR,Range Rover,SUV-E,,2020-12-18,"Range Rover PHEV/PHEV/SUV-E/13,1"
-"13,6",unknown,NMC,PHEV,Ford,Lincoln,SUV-E,,2020-12-18,"Lincoln Aviator PHEV/PHEV/SUV-E/13,6"
-28,Panasonic,NCA,BEV,Daimler AG,Mercedes-Benz,MPV-C,,2020-12-18,Mercedes B-Class EV/BEV/MPV-C/28
-"8,7",LG Chem,NMC,PHEV,Daimler AG,Mercedes-Benz,Car-D,,2020-12-18,"Mercedes C350e PHEV/PHEV/Car-D/8,7"
-"8,7",LG Chem,NMC,PHEV,Daimler AG,Mercedes-Benz,SUV-D,,2020-12-18,"Mercedes GLC350e PHEV/PHEV/SUV-D/8,7"
-"13,5",SK-Group,NMC,PHEV,Daimler AG,Mercedes-Benz,SUV-D,,2020-12-18,"Mercedes GLC300e/de PHEV/PHEV/SUV-D/13,5"
-"8,7",LG Chem,NMC,PHEV,Daimler AG,Mercedes-Benz,SUV-E,,2020-12-18,"Mercedes GLE500e PHEV/PHEV/SUV-E/8,7"
-"13,5",SK-Group,NMC,PHEV,Daimler AG,Mercedes-Benz,SUV-E,,2020-12-18,"Mercedes GLE560e PHEV/PHEV/SUV-E/13,5"
-"8,7",LG Chem,NMC,PHEV,Daimler AG,Mercedes-Benz,Car-F,,2020-12-18,"Mercedes S500e PHEV/PHEV/Car-F/8,7"
-"13,5",SK-Group,NMC,PHEV,Daimler AG,Mercedes-Benz,Car-F,,2020-12-18,"Mercedes S560e PHEV/PHEV/Car-F/13,5"
-"32,6",CATL,NMC,BEV,BMW Group,Mini,Car-B,CCS,2020-12-18,"Mini Cooper SE EV/BEV/Car-B/32,6"
-"7,7 / 9,7",Samsung SDI,NMC,PHEV,BMW Group,Mini,SUV-C,,2020-12-18,"Mini Countryman PHEV/PHEV/SUV-C/7,7 / 9,7"
-16,GS Yuasa,LTO,BEV,R-N-M Alliance,Mitsubishi,Car-A,ChaDeMo,2020-12-18,Mitsubishi I-Miev EV/BEV/Car-A/16
-12,GS Yuasa,LMO,PHEV,R-N-M Alliance,Mitsubishi,SUV-D,ChaDeMo,2020-12-18,Mitsubishi Outlander PHEV/PHEV/SUV-D/12
-24 / 30,AESC,LMO,BEV,R-N-M Alliance,Nissan,Car-C,ChaDeMo,2020-12-18,Nissan Leaf EV/BEV/Car-C/24 / 30
-40 / 62,AESC,NMC,BEV,R-N-M Alliance,Nissan,Car-C,ChaDeMo,2020-12-18,Nissan Leaf EV/BEV/Car-C/40 / 62
-"6,8",Panasonic-Sanyo,NMC,PHEV,VW Group,Porsche,SS,Optional,2020-12-18,"Porsche 918 PHEV/PHEV/SS/6,8"
-"10,8",Samsung SDI,NMC,PHEV,VW Group,Porsche,SUV-E,,2020-12-18,"Porsche Cayenne PHEV/PHEV/SUV-E/10,8"
-"14,1",Samsung SDI,NMC,PHEV,VW Group,Porsche,SUV-E,,2020-12-18,"Porsche Cayenne PHEV/PHEV/SUV-E/14,1"
-"9,4",Panasonic-Sanyo,NMC,PHEV,VW Group,Porsche,Car-F,,2020-12-18,"Porsche Panamera PHEV/PHEV/Car-F/9,4"
-"14,1",Samsung SDI,NMC,PHEV,VW Group,Porsche,Car-F,,2020-12-18,"Porsche Panamera PHEV/PHEV/Car-F/14,1"
-93 / 79,LG Chem,NMC,BEV,VW Group,Porsche,Car-F,CCS,2020-12-18,Porsche Taycan EV/BEV/Car-F/93 / 79
-"17,6",LG Chem,NMC,BEV,Daimler AG,Smart,Car-A,,2020-12-18,"Smart Fortwo EV/BEV/Car-A/17,6"
-"8,8",Panasonic,NCA,PHEV,Subaru Corp.,Subaru,SUV-C,,2020-12-18,"Subaru Crosstrek PHEV/PHEV/SUV-C/8,8"
-80 / 62,Panasonic,NCA,BEV,Tesla Inc.,Tesla,Car-D,Tesla SC,2020-12-18,Tesla Model 3/BEV/Car-D/80 / 62
-80,Panasonic,NCA,BEV,Tesla Inc.,Tesla,SUV-D,Tesla SC,2020-12-18,Tesla Model Y/BEV/SUV-D/80
-60/75/85/90/100,Panasonic,NCA,BEV,Tesla Inc.,Tesla,Car-E,Tesla SC,2020-12-18,Tesla Model S/BEV/Car-E/60/75/85/90/100
-60/75/90/100,Panasonic,NCA,BEV,Tesla Inc.,Tesla,SUV-E,Tesla SC,2020-12-18,Tesla Model X/BEV/SUV-E/60/75/90/100
-53,LG Chem,LCO,BEV,Tesla Inc.,Tesla,SS,,2020-12-18,Tesla Roadster/BEV/SS/53
-23,EnerDEL,Zebra,BEV,Other,Think,Car-A,,2020-12-18,Think City EV/BEV/Car-A/23
-"1,6",Panasonic,NiMH,FCEV,Toyota Motor Corp.,Toyota,Car-E,,2020-12-18,"Toyota Mirai FCEV/FCEV/Car-E/1,6"
-"4,4",Panasonic,NMC,PHEV,Toyota Motor Corp.,Toyota,Car-C,,2020-12-18,"Toyota Prius Gen-1 PHEV/PHEV/Car-C/4,4"
-"8,8",Panasonic,NMC,PHEV,Toyota Motor Corp.,Toyota,Car-C,,2020-12-18,"Toyota Prius Gen-2 PHEV/PHEV/Car-C/8,8"
-"41,8",Panasonic,NCA,BEV,Toyota Motor Corp.,Toyota,SUV-C,,2020-12-18,"Toyota RAV4 EV/BEV/SUV-C/41,8"
-"11,6",LG Chem,NMC,PHEV,Geely-Volvo Cars,Volvo,Car-D,,2020-12-18,"Volvo S60 PHEV/PHEV/Car-D/11,6"
-"10,4 / 11,6",LG Chem,NMC,PHEV,Geely-Volvo Cars,Volvo,SUV-D,,2020-12-18,"Volvo XC60 PHEV/PHEV/SUV-D/10,4 / 11,6"
-"9,2",CATL,NMC,PHEV,Geely-Volvo Cars,Volvo,Car-E,,2020-12-18,"Volvo S90 PHEV/PHEV/Car-E/9,2"
-"9,2 / 11,6",LG Chem,NMC,PHEV,Geely-Volvo Cars,Volvo,SUV-E,,2020-12-18,"Volvo XC90 PHEV/PHEV/SUV-E/9,2 / 11,6"
-"24,2",Panasonic-Sanyo,NMC,BEV,VW Group,VW,Car-C,CCS,2020-12-18,"VW e-Golf EV/BEV/Car-C/24,2"
-"35,8",Samsung SDI,NMC,BEV,VW Group,VW,Car-C,CCS,2020-12-18,"VW e-Golf EV/BEV/Car-C/35,8"
-"16,4",CATL,NMC,BEV,BAIC,Arcfox,Car-A,GB/T,2020-12-18,"BJEV ArcFox Lite EV/BEV/Car-A/16,4"
-"93,6",SK-Group,NMC,BEV,BAIC,Arcfox,SUV-D,GB/T,2020-12-18,"BJEV ArcFox Alpha-T EV/BEV/SUV-D/93,6"
-"30,4",CATL,NMC,BEV,BAIC,BJEV,Car-B,GB/T,2020-12-18,"BJEV E-Series EV/BEV/Car-B/30,4"
-48,Unknown,Unknown Li-Ion,BEV,BAIC,BJEV,SUV-B,GB/T,2020-12-18,BJEV EC5 / ET3 EV/BEV/SUV-B/48
-"20,3 / 30,7",CATL,NMC,BEV,BAIC,BJEV,Car-B,,2020-12-18,"BJEV EC-Series EV/BEV/Car-B/20,3 / 30,7"
-41,Unknown,NMC,BEV,BAIC,BJEV,Car-E,GB/T,2020-12-18,BJEV EH300 EV/BEV/Car-E/41
-38,CATL,NMC,BEV,BAIC,BJEV,Car-E,GB/T,2020-12-18,BJEV ES210 EV/BEV/Car-E/38
-38 / 45,CATL,NMC,BEV,BAIC,BJEV,Car-C,GB/T,2020-12-18,BJEV EU-Series EV/BEV/Car-C/38 / 45
-"53,6",CATL,NMC,BEV,BAIC,BJEV,Car-C,GB/T,2020-12-18,"BJEV EU-Series EV/BEV/Car-C/53,6"
-"60,2",CATL,NMC,BEV,BAIC,BJEV,Car-C,GB/T,2020-12-18,"BJEV EU-Series EV/BEV/Car-C/60,2"
-30/39/48/62,CATL,NMC,BEV,BAIC,BJEV,SUV-C,GB/T,2020-12-18,BJEV EX-Series EV /BEV/SUV-C/30/39/48/62
-"52,6",CATL,NMC,BEV,BAIC,BJEV,SUV-B,GB/T,2020-12-18,"BJEV EX3 EV/BEV/SUV-B/52,6"
-43,Unknown,Unknown Li-Ion,BEV,BAIC,BJEV,LCV,GB/T,2020-12-18,BJEV Weiwang 407 EV/BEV/LCV/43
-32,Hefei Guoxuan,LFP,BEV,BAIC,Changhe,LCV,,2020-12-18,Changhe EC100 EV/BEV/LCV/32
-27,Hefei Guoxuan,LFP,BEV,BAIC,Changhe,Car-A,,2020-12-18,Changhe EV3 EV/BEV/Car-A/27
-32,Hefei Guoxuan,LFP,BEV,BAIC,Changhe,MPV-B,,2020-12-18,Changhe X5E EV/BEV/MPV-B/32
-Unspec.,Unspec.,Unspec.,BEV,BAIC,Changhe,LCV,Unspec.,2020-12-18,Changhe Unspec. LCVs/BEV/LCV/Unspec.
-"52,9",Unknown,Unknown Li-Ion,BEV,BAIC,Foton,MPV-D,GB/T,2020-12-18,"Foton View EV/BEV/MPV-D/52,9"
-"11,4",Unknown,NMC,PHEV,BMW Group,BMW,Car-E,,2020-12-18,"BMW 530Le PHEV/PHEV/Car-E/11,4"
-13,CATL,NMC,PHEV,BMW Group,BMW,Car-E,,2020-12-18,BMW 530Le PHEV/PHEV/Car-E/13
-22/33/42,Samsung SDI,NMC,BEV,BMW Group,BMW,MPV-B,GB/T,2020-12-18,BMW i3 EV / EREV/BEV/MPV-B/22/33/42
-"10,7",CATL,NMC,PHEV,BMW Group,BMW,SUV-C,,2020-12-18,"BMW X1L 25e PHEV/PHEV/SUV-C/10,7"
-24,CATL,NMC,PHEV,BMW Group,BMW,SUV-C,,2020-12-18,BMW X1L 25e PHEV/PHEV/SUV-C/24
-"32,2",BYD,LFP,BEV,BYD,BYD,Car-A,GB/T,2020-12-18,"BYD e1 EV/BEV/Car-A/32,2"
-"47,3",BYD,NMC,BEV,BYD,BYD,Car-C,GB/T,2020-12-18,"BYD e2 HB EV/BEV/Car-C/47,3"
-"47,3",BYD,NMC,BEV,BYD,BYD,Car-C,GB/T,2020-12-18,"BYD e3 Sdn EV/BEV/Car-C/47,3"
-48,BYD,LFP,BEV,BYD,BYD,Car-C,GB/T,2020-12-18,BYD e5 300 EV/BEV/Car-C/48
-"60,5",BYD,NMC,BEV,BYD,BYD,Car-C,GB/T,2020-12-18,"BYD e5 450 EV/BEV/Car-C/60,5"
-61 / 82,BYD,LFP,BEV,BYD,BYD,MPV-D,GB/T,2020-12-18,BYD e6 EV/BEV/MPV-D/61 / 82
-16,BYD,LFP,PHEV,BYD,BYD,Car-C,,2020-12-18,BYD F3 DM PHEV/PHEV/Car-C/16
-48,BYD,LFP,BEV,BYD,BYD,Car-C,GB/T,2020-12-18,BYD Qin EV300/BEV/Car-C/48
-"60,5",BYD,NMC,BEV,BYD,BYD,Car-C,GB/T,2020-12-18,"BYD Qin EV450/BEV/Car-C/60,5"
-"56,4",BYD,NMC,BEV,BYD,BYD,Car-D,GB/T,2020-12-18,"BYD Qin Pro EV500/BEV/Car-D/56,4"
-"69,5",BYD,NMC,BEV,BYD,BYD,Car-D,GB/T,2020-12-18,"BYD Qin Pro EV600/BEV/Car-D/69,5"
-9,BYD,NMC,PHEV,BYD,BYD,Car-C,,2020-12-18,BYD Qin PHEV/PHEV/Car-C/9
-14,BYD,NMC,PHEV,BYD,BYD,Car-C,,2020-12-18,BYD Qin PHEV/PHEV/Car-C/14
-"14,4",BYD,NMC,PHEV,BYD,BYD,Car-D,,2020-12-18,"BYD Qin Pro PHEV/PHEV/Car-D/14,4"
-65 / 77,BYD,LFP,BEV,BYD,BYD,Car-E,GB/T,2020-12-18,BYD Han EV/BEV/Car-E/65 / 77
-22,BYD,NMC,PHEV,BYD,BYD,Car-E,,2020-12-18,BYD Han PHEV/PHEV/Car-E/22
-48,BYD,LFP,BEV,BYD,BYD,SUV-D,GB/T,2020-12-18,BYD Song E300 EV/BEV/SUV-D/48
-"59,1",BYD,NMC,BEV,BYD,BYD,SUV-D,GB/T,2020-12-18,"BYD Song EV400/EV500/BEV/SUV-D/59,1"
-"15,8",BYD,NMC,PHEV,BYD,BYD,SUV-D,,2020-12-18,"BYD Song PHEV/PHEV/SUV-D/15,8"
-71,BYD,NMC,BEV,BYD,BYD,SUV-D,GB/T,2020-12-18,BYD Song Pro EV/BEV/SUV-D/71
-"15,8",BYD,NMC,PHEV,BYD,BYD,SUV-D,,2020-12-18,"BYD Song Pro PHEV/PHEV/SUV-D/15,8"
-"15,8",BYD,NMC,PHEV,BYD,BYD,MPV-D,,2020-12-18,"BYD Song Max PHEV/PHEV/MPV-D/15,8"
-"59,1",BYD,NMC,PHEV,BYD,BYD,MPV-D,GB/T,2020-12-18,"BYD Song Max EV/PHEV/MPV-D/59,1"
-48,BYD,LFP,BEV,BYD,BYD,MPV-C,GB/T,2020-12-18,BYD M3 EV/BEV/MPV-C/48
-48,BYD,LFP,BEV,BYD,BYD,LCV,GB/T,2020-12-18,BYD T3 EV/BEV/LCV/48
-"18,4",BYD,LFP,PHEV,BYD,BYD,SUV-E,,2020-12-18,"BYD Tang PHEV/PHEV/SUV-E/18,4"
-24,BYD,NMC,PHEV,BYD,BYD,SUV-E,,2020-12-18,BYD Tang PHEV/PHEV/SUV-E/24
-"82,8",BYD,NMC,BEV,BYD,BYD,SUV-E,GB/T,2020-12-18,"BYD Tang EV/BEV/SUV-E/82,8"
-"42,6",BYD,LFP,BEV,BYD,BYD,SUV-C,GB/T,2020-12-18,"BYD Yuan EV360/BEV/SUV-C/42,6"
-53,BYD,NMC,BEV,BYD,BYD,SUV-C,GB/T,2020-12-18,BYD Yuan EV535/BEV/SUV-C/53
-"40,2",BYD,NMC,BEV,BYD,BYD,SUV-C,GB/T,2020-12-18,"BYD S2 EV/BEV/SUV-C/40,2"
-"30,7",CATL,NMC,BEV,Changan Automobile Group,Changan,Car-B,GB/T,2020-12-18,"Changan Benni EV/BEV/Car-B/30,7"
-"17,2",Farasis Energy,NMC,BEV,Changan Automobile Group,Changan,Car-A,,2020-12-18,"Changan Benni Mini-e EV/BEV/Car-A/17,2"
-"32,9",Unknown,NMC,BEV,Changan Automobile Group,Changan,Car-B,GB/T,2020-12-18,"Changan Ruiching ES30 EV/BEV/Car-B/32,9"
-"48,3",CALB,NMC,BEV,Changan Automobile Group,Changan,SUV-C,GB/T,2020-12-18,"Changan CS15 EV/BEV/SUV-C/48,3"
-"12,4",CATL,NMC,PHEV,Changan Automobile Group,Changan,SUV-D,,2020-12-18,"Changan CS75 PHEV/PHEV/SUV-D/12,4"
-53,BYD,NMC,BEV,Changan Automobile Group,Changan,SUV-C,GB/T,2020-12-18,Changan CS55 e-Rock EV/BEV/SUV-C/53
-"45,6",CATL,NMC,BEV,Changan Automobile Group,Changan,Car-C,GB/T,2020-12-18,"Changan Eado EV/BEV/Car-C/45,6"
-"52,6",CATL,NMC,BEV,Changan Automobile Group,Changan,Car-D,GB/T,2020-12-18,"Changan Eado EV/BEV/Car-D/52,6"
-"12,4",CATL,NMC,PHEV,Changan Automobile Group,Changan,Car-C,,2020-12-18,"Changan Eado PHEV/PHEV/Car-C/12,4"
-"52,6",CATL,NMC,BEV,Changan Automobile Group,Changan,Car-C,GB/T,2020-12-18,"Changan Eado ET EV/BEV/Car-C/52,6"
-"42,6",Lishen,NMC,BEV,Changan Automobile Group,Changan,MPV-B,GB/T,2020-12-18,"Changan Eulove EV/BEV/MPV-B/42,6"
-21,Unknown,NMC,BEV,Changan Automobile Group,Changan,Car-A,GB/T,2020-12-18,Changan Niou II EV/BEV/Car-A/21
-40,Unknown,Unknown Li-Ion,BEV,Changan Automobile Group,Changan,LCV,Unknown,2020-12-18,Changan F202 Minivan EV/BEV/LCV/40
-Unspec.,Unspec.,Unspec.,BEV,Changan Automobile Group,Changan,LCV,Unspec.,2020-12-18,Changan Unspec. LCVs/BEV/LCV/Unspec.
-53,Unknown,Unknown Li-Ion,BEV,Changan Automobile Group,Oushang,SUV-C,GB/T,2020-12-18,Oushang X5 EV/BEV/SUV-C/53
-70,Unknown,LFP,BEV,Changan Automobile Group,Oushang,SUV-D,GB/T,2020-12-18,Oushang X7 EV/BEV/SUV-D/70
-"56,7",Ankao Suzhou,LFP,BEV,Changan Automobile Group,Oushang,MPV-C,GB/T,2020-12-18,"Oushang A600 EV/BEV/MPV-C/56,7"
-"57,9",Unknown,LFP,BEV,Changan Automobile Group,Oushang,MPV-D,GB/T,2020-12-18,"Oushang Cosmos EV/BEV/MPV-D/57,9"
-"54,3",Tianjin EV Energies,NMC,BEV,Chery Automobile,Chery,Car-C,GB/T,2020-12-18,"Chery Arrizo 5E EV/BEV/Car-C/54,3"
-"9,2",Samsung SDI,NMC,PHEV,Chery Automobile,Chery,Car-D,,2020-12-18,"Chery Arrizo 7 PHEV /PHEV/Car-D/9,2"
-70 / 88,Unknown,Unknown Li-Ion,BEV,Chery Automobile,Chery,SUV-D,GB/T,2020-12-18,Chery Ant eQ5 EV/BEV/SUV-D/70 / 88
-"31,7",Wanxiang 123 ,NMC,BEV,Chery Automobile,Chery,Car-A,,2020-12-18,"Chery eQ EV/BEV/Car-A/31,7"
-"22,4",Wanxiang 123 ,LMO,BEV,Chery Automobile,Chery,Car-A,,2020-12-18,"Chery eQ EV/BEV/Car-A/22,4"
-35,CATL,NMC,BEV,Chery Automobile,Chery,Car-A,GB/T,2020-12-18,Chery eQ1 EV/BEV/Car-A/35
-32,Tianjin EV Energies,LFP,BEV,Chery Automobile,Chery,Car-A,,2020-12-18,Chery eQ1 EV/BEV/Car-A/32
-45,Unknown,Unknown,BEV,Chery Automobile,Chery,Car-B,GB/T,2020-12-18,Chery eQ2 EV/BEV/Car-B/45
-"22,3",China BAK,LFP,BEV,Chery Automobile,Chery,Car-A,,2020-12-18,"Chery QQ3 EV/BEV/Car-A/22,3"
-"22,3",China BAK,LFP,BEV,Chery Automobile,Chery,Car-A,,2020-12-18,"Chery Riich M1 EV/BEV/Car-A/22,3"
-49,Tianjin EV Energies,NMC,BEV,Chery Automobile,Chery,SUV-C,GB/T,2020-12-18,Chery Tiggo 3xe EV/BEV/SUV-C/49
-"53,6",Unknown,Unknown,BEV,Chery Automobile,Chery,SUV-C,GB/T,2020-12-18,"Chery Tiggo E EV/BEV/SUV-C/53,6"
-56,Unknown,Unknown,BEV,Chery Automobile,Jetour,SUV-D,GB/T,2020-12-18,Jetour X70S EV/BEV/SUV-D/56
-34,Unknown,Unknown,BEV,Chery Automobile,Karry,LCV,GB/T,2020-12-18,Chery Karry Yoyo EV/BEV/LCV/34
-"45,3",Shunzhihang Energy Technology,NMC,BEV,Chery Automobile,Karry,MPV-D,GB/T,2020-12-18,"Chery Karry K60 EV/BEV/MPV-D/45,3"
-Unspec.,Unspec.,Unspec.,BEV,Chery Automobile,Karry,LCV,Unspec.,2020-12-18,Chery Karry Unspec. LCVs/BEV/LCV/Unspec.
-"40,5",CATL,NMC,PHEV,CHJ Automotive,Li Xiang,SUV-E,,2020-12-18,"Li Xiang One EREV/PHEV/SUV-E/40,5"
-47,BYD,LFP,BEV,Daimler AG,Denza,MPV-C,GB/T,2020-12-18,Denza-BYD EV/BEV/MPV-C/47
-62,BYD,LFP,BEV,Daimler AG,Denza,MPV-C,GB/T,2020-12-18,Denza-BYD EV/BEV/MPV-C/62
-70,BYD,NMC,BEV,Daimler AG,Denza,MPV-C,GB/T,2020-12-18,Denza-BYD EV/BEV/MPV-C/70
-"82,8",BYD,NMC,BEV,Daimler AG,Denza,SUV-E,GB/T,2020-12-18,"Denza-BYD X EV/BEV/SUV-E/82,8"
-24,BYD,NMC,PHEV,Daimler AG,Denza,SUV-E,,2020-12-18,Denza-BYD X PHEV/PHEV/SUV-E/24
-"13,5",SK-Group,NMC,PHEV,Daimler AG,Mercedes-Benz,Car-E,,2020-12-18,"Mercedes E300e/de PHEV/PHEV/Car-E/13,5"
-80,CATL,NMC,BEV,Daimler AG,Mercedes-Benz,SUV-D,GB/T,2020-12-18,Mercedes EQC 400 EV/BEV/SUV-D/80
-"52,6",Unknown,Unknown Li-Ion,BEV,Dongfeng Motor,Fengguang,SUV-C,GB/T,2020-12-18,"Dongfeng Fengguang 580 E3 EV/BEV/SUV-C/52,6"
-"12,7",Unknown,NMC,PHEV,Dongfeng Motor,Fengguang,SUV-C,,2020-12-18,"Dongfeng Fengguang 580 E3 PHEV/PHEV/SUV-C/12,7"
-"20,5",AESC,LMO,BEV,Dongfeng Motor,Dongfeng,Car-A,GB/T,2020-12-18,"Dongfeng E30/E30L EV/BEV/Car-A/20,5"
-57,Unknown,Unknown Li-Ion,BEV,Dongfeng Motor,Dongfeng,PUP-D,GB/T,2020-12-18,Dongfeng-Nissan Rich-6 EV/BEV/PUP-D/57
-38 / 57,Sunwoda,NMC,BEV,Dongfeng Motor,Dongfeng,MPV-C,Unknown,2020-12-18,Dongfeng Succe/S50 EV/BEV/MPV-C/38 / 57
-22,China BAK,NMC,BEV,Dongfeng Motor,Dongfeng,Car-A,Unknown,2020-12-18,Dongfeng-Yulon Yulu EV2/BEV/Car-A/22
-"26,8",Unknown,NMC,BEV,Dongfeng Motor,Fengguang,SUV-A,GB/T,2020-12-18,"Dongfeng-Renault Fengguang E1 EV/BEV/SUV-A/26,8"
-"26,8",Unknown,NMC,BEV,Dongfeng Motor,Fengshen,SUV-A,GB/T,2020-12-18,"Dongfeng-Renault Fengshen EX1 EV/BEV/SUV-A/26,8"
-51,CATL,NMC,BEV,Dongfeng Motor,Fengshen,Car-D,GB/T,2020-12-18,Dongfeng Fengshen E60 / E70 EV/BEV/Car-D/51
-"47,7",Unknown,NMC,BEV,Dongfeng Motor,Fengshen,Car-D,GB/T,2020-12-18,"Dongfeng Fengshen Yixuan EV/BEV/Car-D/47,7"
-38 / 57,Sunwoda,NMC,BEV,Dongfeng Motor,Fengxing,Car-D,GB/T,2020-12-18,Dongfeng Fengxing Jingyi S50 EV/BEV/Car-D/38 / 57
-40,Unknown,Unknown Li-Ion,BEV,Dongfeng Motor,Fengxing,MPV-E,GB/T,2020-12-18,Dongfeng Fengxing Lingzhi M5 EV/BEV/MPV-E/40
-"35,6",Lishen,LFP,BEV,Dongfeng Motor,Horki,Car-C,Unknown,2020-12-18,"Dongfeng Horki 300E EV/BEV/Car-C/35,6"
-43 / 49,CATL,NMC,BEV,Dongfeng Motor,Jun Feng,Car-D,GB/T,2020-12-18,Dongfeng Jun Feng E17 EV/BEV/Car-D/43 / 49
-"31,8",Lishen,NMC,BEV,Dongfeng Motor,Jun Feng,Car-B,,2020-12-18,"Dongfeng Jun Feng ER30 EV/BEV/Car-B/31,8"
-40 / 45 / 60,Unknown,Unknown Li-Ion,BEV,Dongfeng Motor,Jun Feng,Car-C,GB/T,2020-12-18,Dongfeng Jun Feng EJ30 EV/BEV/Car-C/40 / 45 / 60
-"49,1",Lishen,NMC,BEV,Dongfeng Motor,Luxgen,SUV-C,GB/T,2020-12-18,"Yulon Luxgen U5 EV/BEV/SUV-C/49,1"
-24,AESC,LMO,BEV,Dongfeng Motor,Venucia,Car-C,GB/T,2020-12-18,Dongfeng-Nissan Venucia EV/BEV/Car-C/24
-60,AESC,NMC,BEV,Dongfeng Motor,Venucia,SUV-C,GB/T,2020-12-18,Dongfeng-Nissan Venucia T60 EV/BEV/SUV-C/60
-60,AESC,NMC,BEV,Dongfeng Motor,Venucia,Car-C,GB/T,2020-12-18,Dongfeng-Nissan Venucia D60 EV/BEV/Car-C/60
-"26,8",Unknown,NMC,BEV,Dongfeng Motor,Venucia,SUV-A,GB/T,2020-12-18,"Dongfeng-Nissan Venucia e30 EV/BEV/SUV-A/26,8"
-"38,2",Soundon,NMC,BEV,Dongfeng Motor,Xiaokang,LCV,GB/T,2020-12-18,"Dongfeng Xiaokang EC36 EV/BEV/LCV/38,2"
-"41,4",Unknown,Unknown Li-Ion,BEV,Dongfeng Motor,Xiaokang,LCV,,2020-12-18,"Dongfeng-Sokon EC35 EV/BEV/LCV/41,4"
-"28,8",Unknown,Unknown Li-Ion,BEV,FAW,Besturn,Car-C,GB/T,2020-12-18,"FAW Besturn B30 EV/BEV/Car-C/28,8"
-"52,5",CATL,NMC,BEV,FAW,Besturn,SUV-C,GB/T,2020-12-18,"FAW Besturn X40 EV/BEV/SUV-C/52,5"
-"52,5",CATL,NMC,BEV,FAW,Besturn,SUV-C,GB/T,2020-12-18,"FAW Besturn C105 EV/BEV/SUV-C/52,5"
-27,Wanxiang 123 ,Unknown Li-Ion,BEV,FAW,Haima,Car-C,Unknown,2020-12-18,FAW Haima @3 (M3) EV/BEV/Car-C/27
-"18,7",China BAK,NMC,BEV,FAW,Haima,Car-B,Unknown,2020-12-18,"FAW Haima Aishang (E1) EV/BEV/Car-B/18,7"
-52,Beijing iDrive,Unknown,BEV,FAW,Haima,LCV,Unknown,2020-12-18,FAW Haima Rongda EV/BEV/LCV/52
-"52,6",CATL,NMC,BEV,FAW,Hongqi,SUV-C,GB/T,2020-12-18,"FAW Hongqi E-HS3 EV/BEV/SUV-C/52,6"
-"12,8",Unknown,Unknown Li-Ion,PHEV,FAW,Hongqi,Car-F,,2020-12-18,"FAW Hongqi H7 PHEV/PHEV/Car-F/12,8"
-"32,2",Unknown,NMC,BEV,FAW,Junpai,Car-C,Unknown,2020-12-18,"FAW Junpai A70E/BEV/Car-C/32,2"
-52,Beijing iDrive,NMC,BEV,FAW,Senia,SUV-C,GB/T,2020-12-18,FAW Senia R7 EV/BEV/SUV-C/52
-"35,1",Tafel,NMC,BEV,FAW,Sitech,MPV-A,GB/T,2020-12-18,"FAW Sitech GEV / DEV1 EV/BEV/MPV-A/35,1"
-13,CATL,NMC,PHEV,FCA,Foat,SUV-C,,2020-12-18,FCA-GAC Foat Yuejie PHEV/PHEV/SUV-C/13
-18,Unknown,NMC,PHEV,FCA,Jeep,SUV-E,,2020-12-18,Jeep Grand Commander PHEV/PHEV/SUV-E/18
-"7,6",Panasonic-Sanyo,NMC,PHEV,Ford,Ford,Car-D,,2020-12-18,"Ford Mondeo Energi PHEV/PHEV/Car-D/7,6"
-55,Unknown,NMC,BEV,Ford,Ford,SUV-C,GB/T,2020-12-18,Ford-JMC Territory EV/BEV/SUV-C/55
-"48,2",Lishen,NMC,BEV,GAC,Leopaard,SUV-C,GB/T,2020-12-18,"GAC Leopaard CS9 EV/BEV/SUV-C/48,2"
-46,LG Chem,NMC,BEV,GAC,Trumpchi,SUV-C,GB/T,2020-12-18,GAC Trumpchi GS4 EV/BEV/SUV-C/46
-13,CATL,NMC,PHEV,GAC,Trumpchi,Car-C,,2020-12-18,GAC Trumpchi GA3S PHEV/PHEV/Car-C/13
-12,CATL,NMC,PHEV,GAC,Trumpchi,Car-E,,2020-12-18,GAC Trumpchi GA5 EREV/PHEV/Car-E/12
-"54,8",CATL,NMC,BEV,GAC,Trumpchi,SUV-C,GB/T,2020-12-18,"GAC Trumpchi GE3 EV/BEV/SUV-C/54,8"
-13,CATL,NMC,PHEV,GAC,Trumpchi,SUV-C,GB/T,2020-12-18,GAC Trumpchi GS4 PHEV/PHEV/SUV-C/13
-"58,8",CATL,NMC,BEV,GAC,Trumpchi,Car-D,GB/T,2020-12-18,"GAC Trumpchi Aion S EV/BEV/Car-D/58,8"
-59/73/93,CATL,NMC,BEV,GAC,Trumpchi,SUV-C,GB/T,2020-12-18,GAC Trumpchi Aion V EV/BEV/SUV-C/59/73/93
-73 / 93,CATL,NMC,BEV,GAC,Trumpchi,SUV-D,GB/T,2020-12-18,GAC Trumpchi Aion LX EV/BEV/SUV-D/73 / 93
-73 / 93,CATL,NMC,BEV,GAC-NIO,Hycan,SUV-E,GB/T,2020-12-18,Hycan 007 EV/BEV/SUV-E/73 / 93
-"11,3",Sunwoda,NMC,PHEV,Geely Auto Group,Emgrand,Car-C,,2020-12-18,"Geely Emgrand PHEV/PHEV/Car-C/11,3"
-41 / 52,CATL,NMC,BEV,Geely Auto Group,Emgrand,Car-C,GB/T,2020-12-18,Geely Emgrand EV/BEV/Car-C/41 / 52
-52,CATL,NMC,BEV,Geely Auto Group,Emgrand,SUV-C,GB/T,2020-12-18,Geely Emgrand GSE EV/BEV/SUV-C/52
-"11,3",Sunwoda,NMC,PHEV,Geely Auto Group,Emgrand,Car-D,,2020-12-18,"Geely Emgrand GL PHEV/PHEV/Car-D/11,3"
-"26,4",Lishen,NMC,BEV,Geely Auto Group,Geely,Car-A,GB/T,2020-12-18,"Geely / Kandi EK-2 Panda EV/BEV/Car-A/26,4"
-"11,3",CATL,NMC,PHEV,Geely Auto Group,Geely,Car-E,,2020-12-18,"Geely BoRui GE PHEV/PHEV/Car-E/11,3"
-"11,3",CATL,NMC,PHEV,Geely Auto Group,Geely,SUV-C,,2020-12-18,"Geely Bin Yue PHEV/PHEV/SUV-C/11,3"
-"11,3 / 15,5",CATL,NMC,PHEV,Geely Auto Group,Geely,SUV-D,,2020-12-18,"Geely Xin Yue (Star) PHEV/PHEV/SUV-D/11,3 / 15,5"
-"11,3",CATL,NMC,PHEV,Geely Auto Group,Geely,MPV-D,,2020-12-18,"Geely VP11 Jiaji PHEV/PHEV/MPV-D/11,3"
-"51,9 / 61,9",CATL,NMC,BEV,Geely Auto Group,Geometry,SUV-C,GB/T,2020-12-18,"Geely Geometry-C EV/BEV/SUV-C/51,9 / 61,9"
-"61,9",CATL,NMC,BEV,Geely Auto Group,Geometry,Car-D,GB/T,2020-12-18,"Geely Geometry-A EV/BEV/Car-D/61,9"
-9,CATL,NMC,PHEV,Geely Auto Group,Lynk & Co,SUV-C,,2020-12-18,Geely Lynk & Co 01 PHEV/PHEV/SUV-C/9
-9,CATL,NMC,PHEV,Geely Auto Group,Lynk & Co,Car-C,,2020-12-18,Geely Lynk & Co 02 PHEV/PHEV/Car-C/9
-9,CATL,NMC,PHEV,Geely Auto Group,Lynk & Co,Car-D,,2020-12-18,Geely Lynk & Co 03 PHEV/PHEV/Car-D/9
-9,CATL,NMC,PHEV,Geely Auto Group,Lynk & Co,SUV-B,,2020-12-18,Geely Lynk & Co 06 PHEV/PHEV/SUV-B/9
-45,Unknown,Unknown Li-Ion,BEV,Geely Auto Group,Maple,SUV-B,GB/T,2020-12-18,Geely Maple 30X EV/BEV/SUV-B/45
-50,Hefei Guoxuan,NMC,BEV,Geely Auto Group,Maple,MPV-D,GB/T,2020-12-18,Geely Maple 80V EV/BEV/MPV-D/50
-"18,6",Harbin Coslight,NMC,BEV,Geely Auto Group,ZhiDou,Car-A,,2020-12-18,"Geely ZhiDou D1/D2 EV/BEV/Car-A/18,6"
-23 / 33,DFDX,NMC,BEV,Geely Auto Group,ZhiDou,Car-A,,2020-12-18,Geely ZhiDou D3 EV/BEV/Car-A/23 / 33
-31,LG Chem,NMC,PHEV,Geely NECV Group,LEVC,LCV,ChaDeMo,2020-12-18,LEVC VN5 EREV/PHEV/LCV/31
-27,Unknown,NMC,PHEV,Geely-Volvo Cars,Polestar,SS,GB/T,2020-12-18,Polestar 1 PHEV/PHEV/SS/27
-78,CATL,NMC,BEV,Geely-Volvo Cars,Polestar,Car-D,GB/T,2020-12-18,Polestar 2 EV/BEV/Car-D/78
-24,EnerDEL,Unknown Li-Ion,BEV,Geely-Volvo Cars,Volvo,Car-C,,2020-12-18,Volvo C30 EV/BEV/Car-C/24
-8,Hefei Guoxuan,NMC,PHEV,Geely-Volvo Cars,Volvo,Car-D,,2020-12-18,Volvo S60L PHEV/PHEV/Car-D/8
-"9,2 / 11,8",Forever New Energy,NMC,PHEV,Geely-Volvo Cars,Volvo,SUV-D,,2020-12-18,"Volvo XC60 PHEV/PHEV/SUV-D/9,2 / 11,8"
-24,CATL,LFP,BEV,GM,Baojun,Car-A,GB/T,2020-12-18,GM-SAIC Baojun E50/E100/E200 EV/BEV/Car-A/24
-"18,4",LG Chem,NMC,PHEV,GM,Buick,Car-C,,2020-12-18,"Buick Velite 5 EREV/PHEV/Car-C/18,4"
-"9,5",LG Chem,NMC,PHEV,GM,Buick,Car-D,,2020-12-18,"Buick Velite 6 PHEV/PHEV/Car-D/9,5"
-35,Wanxiang 123 ,NMC,BEV,GM,Buick,Car-D,GB/T,2020-12-18,Buick Velite 6 EV/BEV/Car-D/35
-"55,6",LG Chem,NMC,BEV,GM,Buick,SUV-C,GB/T,2020-12-18,"Buick Velite 7 EV/BEV/SUV-C/55,6"
-55,unknown,NMC,BEV,GM,Chevrolet,Car-C,GB/T,2020-12-18,Chevrolet Menlo EV/BEV/Car-C/55
-42,Unknown,Unknown Li-Ion,BEV,GM,Wuling,MPV-C,GB/T,2020-12-18,Wuling RongGuang L EV/BEV/MPV-C/42
-"13,8",CATL,NMC,BEV,GM,Wuling,Car-A,,2020-12-18,"Wuling HongGuang Mini EV/BEV/Car-A/13,8"
-37,CATL,NMC,BEV,Great Wall,Great Wall,Car-C,GB/T,2020-12-18,Great Wall C30 EV/BEV/Car-C/37
-"32,9",CATL,NMC,BEV,Great Wall,Ora,Car-A,GB/T,2020-12-18,"Great Wall Ora R1 / Black Cat EV/BEV/Car-A/32,9"
-38,CATL,NMC,BEV,Great Wall,Ora,Car-A,GB/T,2020-12-18,Great Wall Ora R2 / White Cat EV/BEV/Car-A/38
-"51,6",Farasis Energy,NMC,BEV,Great Wall,Ora,SUV-C,GB/T,2020-12-18,"Great Wall Ora iQ5 EV/BEV/SUV-C/51,6"
-13,CATL,NMC,PHEV,Great Wall,WEY,SUV-E,,2020-12-18,Great Wall WEY VV7 PHEV/PHEV/SUV-E/13
-13,CATL,NMC,PHEV,Great Wall,WEY,SUV-D,,2020-12-18,Great Wall WEY P8 PHEV/PHEV/SUV-D/13
-46,CATL,NMC,BEV,Great Wall-Yogomo,Link Tour,SUV-B,GB/T,2020-12-18,Link Tour K-One EV/BEV/SUV-B/46
-37,Unknown,NMC,BEV,Great Wall-Yogomo,Link Tour,SUV-A,,2020-12-18,Link Tour C99 EV/BEV/SUV-A/37
-37,Hefei Guoxuan,NMC,BEV,Great Wall-Yogomo,Link Tour,SUV-A,,2020-12-18,Link Tour E-Series EV/BEV/SUV-A/37
-"36,2",Unknown,NMC,BEV,Guoji Zhijun Auto,Zedriv,Car-B,GB/T,2020-12-18,"Zedriv GC1 / GC2 EV/BEV/Car-B/36,2"
-"46,4",Unknown,NMC,BEV,Guoji Zhijun Auto,Zedriv,SUV-C,GB/T,2020-12-18,"Zedriv GX5 EV/BEV/SUV-C/46,4"
-43,Hefei Guoxuan,NMC,BEV,Hanteng Automobile,Hanteng,SUV-C,GB/T,2020-12-18,Hanteng X5 EV/BEV/SUV-C/43
-"13,1",Hefei Guoxuan,NMC,PHEV,Hanteng Automobile,Hanteng,SUV-D,,2020-12-18,"Hanteng X7 PHEV/PHEV/SUV-D/13,1"
-"30,8",Unknown,Unknown Li-Ion,BEV,Hanteng Automobile,Hanteng,Car-B,GB/T,2020-12-18,"Hanteng Xingfu e+ EV/BEV/Car-B/30,8"
-21,Tianjin Hawtai EVE Power Source,NMC,BEV,Hawtai Motor Group,Hawtai,Car-A,,2020-12-18,Hawtai EV160/BEV/Car-A/21
-22,Tianjin Hawtai EVE Power Source,NMC,BEV,Hawtai Motor Group,Hawtai,Car-A,,2020-12-18,Hawtai Lusheng S1 EV/BEV/Car-A/22
-"39,2",Tianjin Hawtai EVE Power Source,NMC,BEV,Hawtai Motor Group,Hawtai,Car-D,GB/T,2020-12-18,"Hawtai iEV230 EV/BEV/Car-D/39,2"
-"39,2",Lishen,LFP,BEV,Hawtai Motor Group,Hawtai,Car-D,GB/T,2020-12-18,"Hawtai Lusheng E70EV/BEV/Car-D/39,2"
-61,Optimum Nano,LFP,BEV,Hawtai Motor Group,Hawtai,SUV-C,GB/T,2020-12-18,Hawtai Santa Fe 5 EV380 EV/BEV/SUV-C/61
-"48,9",Tianjin Hawtai EVE Power Source,LFP,BEV,Hawtai Motor Group,Hawtai,SUV-C,GB/T,2020-12-18,"Hawtai xEV260 EV/BEV/SUV-C/48,9"
-13,CATL,NMC,PHEV,Honda Motor,Honda,SUV-C,,2020-12-18,Honda-GAC Shirui PHEV/PHEV/SUV-C/13
-"53,6",Neusoft Reach,NMC,BEV,Honda Motor,Honda,SUV-B,GB/T,2020-12-18,"Honda-GAC Everus VE-1 EV/BEV/SUV-B/53,6"
-"53,6",Neusoft Reach,NMC,BEV,Honda Motor,Honda,SUV-B,GB/T,2020-12-18,"Honda-Dongfeng Ciimo XN-V EV/BEV/SUV-B/53,6"
-"35,5",Anhui Zhouzhihang,NMC,BEV,Hozon Auto,Hozon,SUV-B,GB/T,2020-12-18,"Hozon Nezha N01 EV/BEV/SUV-B/35,5"
-55 / 70,CATL,Unknown Li-Ion,BEV,Hozon Auto,Hozon,SUV-C,GB/T,2020-12-18,Hozon Nezha U EV/BEV/SUV-C/55 / 70
-"36,6",Lishen,NMC,BEV,Hyundai Motor,Hyundai,Car-C,GB/T,2020-12-18,"Hyundai Elantra GS EV/BEV/Car-C/36,6"
-"12,9",CATL,NMC,PHEV,Hyundai Motor,Hyundai,Car-C,,2020-12-18,"Hyundai Elantra PHEV/PHEV/Car-C/12,9"
-"56,5",CATL,NMC,BEV,Hyundai Motor,Hyundai,Car-D,GB/T,2020-12-18,"Hyundai Lafesta EV/BEV/Car-D/56,5"
-"12,9",CATL,NMC,PHEV,Hyundai Motor,Hyundai,Car-D,,2020-12-18,"Hyundai Sonata PHEV/PHEV/Car-D/12,9"
-67,LG Chem,NMC,BEV,Hyundai Motor,Hyundai,SUV-C,GB/T,2020-12-18,Hyundai Encino (Kona) EV/BEV/SUV-C/67
-"12,9",CATL,NMC,PHEV,Hyundai Motor,Kia,Car-C,,2020-12-18,"Kia K3 / Forte PHEV/PHEV/Car-C/12,9"
-"56,5",CATL,NMC,BEV,Hyundai Motor,Kia,Car-C,GB/T,2020-12-18,"Kia K3 / Forte EV/BEV/Car-C/56,5"
-"12,9",CATL,NMC,PHEV,Hyundai Motor,Kia,Car-D,,2020-12-18,"Kia K5 / Optima PHEV/PHEV/Car-D/12,9"
-45,Lishen,NMC,BEV,Hyundai Motor,Kia,SUV-C,GB/T,2020-12-18,Kia KX3 EV/BEV/SUV-C/45
-23,Hefei Guoxuan,NMC,BEV,JAC Motors,JAC iEV,Car-B,,2020-12-18,JAC iEV-Series EV/BEV/Car-B/23
-"59,7",Hefei Guoxuan,NMC,BEV,JAC Motors,JAC iEV,Car-C,GB/T,2020-12-18,"JAC iEV A-Series EV/BEV/Car-C/59,7"
-"40,5",Hefei Guoxuan,LFP,BEV,JAC Motors,JAC iEV,Car-A,,2020-12-18,"JAC iEV6E EV/BEV/Car-A/40,5"
-"54,8 / 64,5",Hefei Guoxuan,NMC,BEV,JAC Motors,JAC iEV,Car-D,GB/T,2020-12-18,"JAC iC5 EV/BEV/Car-D/54,8 / 64,5"
-33,Samsung SDI,NCA,BEV,JAC Motors,JAC iEV,SUV-B,GB/T,2020-12-18,JAC iEV6S EV/BEV/SUV-B/33
-"42,8",Hefei Guoxuan,LFP,BEV,JAC Motors,JAC iEV,SUV-B,GB/T,2020-12-18,"JAC iEV7S EV/BEV/SUV-B/42,8"
-66,Lishen,NMC,BEV,JAC Motors,JAC iEV,SUV-C,GB/T,2020-12-18,JAC iEVS4 EV/BEV/SUV-C/66
-"15,4",Farasis Energy,NMC,BEV,Jiangling Motors,JMC,Car-A,,2020-12-18,"JMC E100 EV/BEV/Car-A/15,4"
-"19,9",Farasis Energy,NMC,BEV,Jiangling Motors,JMC,Car-B,,2020-12-18,"JMC E160 EV/BEV/Car-B/19,9"
-"24,7",First Battery,NMC,BEV,Jiangling Motors,JMC,Car-A,GB/T,2020-12-18,"JMC E180 EV/BEV/Car-A/24,7"
-"28,4",First Battery,NMC,BEV,Jiangling Motors,JMC,Car-A,GB/T,2020-12-18,"JMC E200 EV/BEV/Car-A/28,4"
-"33,7",China BAK,NMC,BEV,Jiangling Motors,JMC,Car-A,GB/T,2020-12-18,"JMC E200 EV/BEV/Car-A/33,7"
-"31,9",CENAT,NMC,BEV,Jiangling Motors,JMC,Car-B,GB/T,2020-12-18,"JMC E300 EV (EV3)/BEV/Car-B/31,9"
-"41,2",Lixing,NMC,BEV,Jiangling Motors,JMC,SUV-C,GB/T,2020-12-18,"JMC E400 EV (EX5)/BEV/SUV-C/41,2"
-55,Unknown,NMC,BEV,Jiangling Motors,JMC,SUV-C,GB/T,2020-12-18,JMC Landwind EV/BEV/SUV-C/55
-22,Beijing National,NMC,BEV,Lifan Group,Lifan,Car-B,,2020-12-18,Lifan 330 EV/BEV/Car-B/22
-33,Shandong Hengyu,NMC,BEV,Lifan Group,Lifan,Car-C,GB/T,2020-12-18,Lifan 620/650 EV/BEV/Car-C/33
-"60,5",Shandong Hengyu,NMC,BEV,Lifan Group,Lifan,Car-D,GB/T,2020-12-18,"Lifan 820 EV/BEV/Car-D/60,5"
-61,Shandong Hengyu,NMC,BEV,Lifan Group,Lifan,SUV-C,GB/T,2020-12-18,Lifan Maiwei EV/BEV/SUV-C/61
-70/84/100,CATL,NMC,BEV,NIO Inc.,Nio,SUV-E,GB/T,2020-12-18,Nio EC6 EV/BEV/SUV-E/70/84/100
-70 / 84,CATL,NMC,BEV,NIO Inc.,Nio,SUV-E,GB/T,2020-12-18,Nio ES6 EV/BEV/SUV-E/70 / 84
-70 / 84,CATL,NMC,BEV,NIO Inc.,Nio,SUV-E,GB/T,2020-12-18,Nio ES8 EV/BEV/SUV-E/70 / 84
-60 / 75,CATL,Unknown Li-Ion,BEV,Other,Aiways,SUV-D,GB/T,2020-12-18,Aiways U5 EV/BEV/SUV-D/60 / 75
-65,CATL,NMC,BEV,Other,Borgward,SUV-D,GB/T,2020-12-18,Borgward BXi7 EV/BEV/SUV-D/65
-Unspec.,Unspec.,Unspec.,BEV,Other,Brilliance,LCV,Unspec.,2020-12-18,Brilliance Unspec. LCVs/BEV/LCV/Unspec.
-45,Unknown,Unknown,BEV,Other,Brilliance Jinbei,LCV,unknown,2020-12-18,Brilliance Jinbei (SRM) X30 EV/BEV/LCV/45
-24,CATL,LFP,BEV,Other,Brilliance Zinoro,SUV-C,,2020-12-18,Brilliance Zinoro 1E EV/BEV/SUV-C/24
-"10,7",CATL,Unknown,PHEV,Other,Brilliance Zinoro,SUV-C,,2020-12-18,"Brilliance Zinoro 60H PHEV/PHEV/SUV-C/10,7"
-45,Unknown,Unknown Li-Ion,BEV,Other,Dayun,SUV-C,GB/T,2020-12-18,Dayun S171 EV/BEV/SUV-C/45
-39,Unknown,Unknown Li-Ion,BEV,Other,Dayun,SUV-B,GB/T,2020-12-18,Dayun Shuaihu ES3 EV/BEV/SUV-B/39
-22,Unknown,Unknown,BEV,Other,Enranger,Car-A,,2020-12-18,Weichai Enranger EX1 EV/BEV/Car-A/22
-Unspec.,Unspec.,Unspec.,BEV,Other,Golden Dragon,LCV,Unspec.,2020-12-18,Golden Dragon Unspec. LCVs/BEV/LCV/Unspec.
-Unspec.,Unspec.,Unspec.,BEV,Other,Guangxi Auto,LCV,Unspec.,2020-12-18,Guangxi Unspec. LCVs/BEV/LCV/Unspec.
-"73,9",Unknown,LFP,BEV,Other,Joylong,LCV,GB/T,2020-12-18,"Joylong EF-Series EV/BEV/LCV/73,9"
-Unspec.,Unspec.,Unspec.,BEV,Other,King Long,LCV,Unspec.,2020-12-18,King Long Unspec. LCVs/BEV/LCV/Unspec.
-"36,5 / 48,0",Unknown,Unknown Li-Ion,BEV,Other,Ling Pao,SS,GB/T,2020-12-18,"LeapMotor LP-S01 EV/BEV/SS/36,5 / 48,0"
-"37,1",Unknown,Unknown Li-Ion,BEV,Other,Ling Pao,Car-A,GB/T,2020-12-18,"LeapMotor T03  EV/BEV/Car-A/37,1"
-"17,7",Unknown,LFP,BEV,Other,Lingbox,Car-A,GB/T,2020-12-18,"Lingbao BOX EV/BEV/Car-A/17,7"
-78,Unknown,NMC,BEV,Other,Qiantu,SS,GB/T,2020-12-18,Qiantu Q50 EV/BEV/SS/78
-"53,7",CATL,NMC,BEV,Other,Quoros,Car-C,GB/T,2020-12-18,"Qoros 3 EV/BEV/Car-C/53,7"
-33,DFDX,NMC,BEV,Other,Red Star,Car-A,Unknown,2020-12-18,Red Star Noble / Hongxing X2 EV/BEV/Car-A/33
-Unspec.,Unspec.,Unspec.,BEV,Other,Ruichi,LCV,Unspec.,2020-12-18,Ruichi Unspec. LCVs/BEV/LCV/Unspec.
-32,Wuhu ETC,NMC,BEV,Other,Saleen,Car-A,GB/T,2020-12-18,Saleen Maimai EV/BEV/Car-A/32
-33,Unknown,Unknown Li-Ion,PHEV,Other,Seres (SF Motors),SUV-D,Unknown,2020-12-18,Seres SF5 EREV/PHEV/SUV-D/33
-90,Unknown,Unknown Li-Ion,BEV,Other,Seres (SF Motors),SUV-D,Unknown,2020-12-18,Seres SF5 EV/BEV/SUV-D/90
-55 / 66,Team Giant,Unknown Li-Ion,BEV,Other,Sinogold,MPV-D,GB/T,2020-12-18,Sinogold GM3 EV/BEV/MPV-D/55 / 66
-50,Unknown,Unknown,BEV,Other,Skywell,MPV-E,GB/T,2020-12-18,Skywell Chuangyezhe MPV EV/BEV/MPV-E/50
-40,Unknown,Unknown,BEV,Other,Skywell,LCV,Unknown,2020-12-18,Skywell D07 EV/BEV/LCV/40
-Unspec.,Unspec.,Unspec.,BEV,Other,Skywell,LCV,Unspec.,2020-12-18,Skywell Unspec. LCVs/BEV/LCV/Unspec.
-40,Unknown,Unknown,BEV,Other,Suda,Car-C,GB/T,2020-12-18,SD1 Yinse EV/BEV/Car-C/40
-Unspec.,Unspec.,Unspec.,BEV,Other,Wanxiang,LCV,Unspec.,2020-12-18,Wanxiang Unspec. LCVs/BEV/LCV/Unspec.
-20,Unknown,Unknown Li-Ion,BEV,Other,Yunque,MPV-B,Unknown,2020-12-18,Yunque / Lark Q1 EV/BEV/MPV-B/20
-Unspec.,Unspec.,Unspec.,BEV,Other,Zoomlion,LCV,Unspec.,2020-12-18,Zoomlion Unspec. LCVs/BEV/LCV/Unspec.
-49,CATL,NMC,BEV,PSA Group,Citroen,Car-D,GB/T,2020-12-18,Citroen-DFM Fukang ES500 EV/BEV/Car-D/49
-45 / 60,Unknown,Unknown Li-Ion,BEV,PSA Group,Citroen,Car-C,GB/T,2020-12-18,Citroen-DFM Elysee EV/BEV/Car-C/45 / 60
-"13,2",LG Chem,NMC,PHEV,PSA Group,Citroen,SUV-C,,2020-12-18,"Citroen C5 Aircross PHEV/PHEV/SUV-C/13,2"
-"45,2",Unknown,NMC,BEV,PSA Group,Peugeot,SUV-B,GB/T,2020-12-18,"Peugeot e-2008 EV/BEV/SUV-B/45,2"
-13,Unknown,Unknown,PHEV,PSA Group,Peugeot,SUV-C,,2020-12-18,Peugeot 4008 (3008) PHEV/PHEV/SUV-C/13
-13,CATL,NMC,PHEV,R-N-M Alliance,Mitsubishi,SUV-C,,2020-12-18,Mitsubishi-GAC Qizhi PHEV/PHEV/SUV-C/13
-"54,7",LG Chem,NMC,BEV,R-N-M Alliance,Mitsubishi,SUV-C,GB/T,2020-12-18,"Mitsubishi-GAC Eupheme EV/BEV/SUV-C/54,7"
-38,CATL,NMC,BEV,R-N-M Alliance,Nissan,Car-D,GB/T,2020-12-18,Nissan Sylphy EV/BEV/Car-D/38
-"26,8",Unknown,NMC,BEV,R-N-M Alliance,Renault,SUV-A,GB/T,2020-12-18,"Renault City K-ZE EV/BEV/SUV-A/26,8"
-"71,8",CITIC MGL,LFP,BEV,SAIC,Maxus,MPV-E,GB/T,2020-12-18,"SAIC Maxus EG10 EV/BEV/MPV-E/71,8"
-"61,1",CATL,NMC,BEV,SAIC,Maxus,MPV-E,GB/T,2020-12-18,"SAIC Maxus Euniq 5 / EG50 EV/BEV/MPV-E/61,1"
-15,Unknown,NMC,PHEV,SAIC,Maxus,MPV-E,,2020-12-18,SAIC Maxus Euniq 5 / EG50 PHEV/PHEV/MPV-E/15
-15,Unknown,NMC,PHEV,SAIC,Maxus,SUV-D,,2020-12-18,SAIC Maxus Euniq 6 / D60e PHEV/PHEV/SUV-D/15
-53 / 71,CATL,NMC,BEV,SAIC,Maxus,SUV-D,GB/T,2020-12-18,SAIC Maxus Euniq 6 / D60e EV/BEV/SUV-D/53 / 71
-Unspec.,Unspec.,Unspec.,BEV,SAIC,Maxus,LCV,Unspec.,2020-12-18,SAIC Maxus Unspec. LCVs/BEV/LCV/Unspec.
-"52,6",CATL,NMC,BEV,SAIC,MG,Car-C,GB/T,2020-12-18,"SAIC MG5 EV/BEV/Car-C/52,6"
-"9,1",Wanxiang 123 ,NMC,PHEV,SAIC,MG,Car-D,,2020-12-18,"SAIC MG6 PHEV/PHEV/Car-D/9,1"
-"44,9",CATL,NMC,BEV,SAIC,MG,SUV-C,GB/T,2020-12-18,"SAIC MG EZS EV/BEV/SUV-C/44,9"
-15,Unknown,NMC,PHEV,SAIC,MG,SUV-D,,2020-12-18,SAIC MG eHS PHEV/PHEV/SUV-D/15
-"22,4",Unknown,LFP,BEV,SAIC,Roewe,Car-A,GB/T,2020-12-18,"SAIC Roewe E50 EV/BEV/Car-A/22,4"
-27,CATL,NMC,BEV,SAIC,Roewe,Car-A,GB/T,2020-12-18,SAIC Roewe Clever EV/BEV/Car-A/27
-"11,8",Unknown,LFP,PHEV,SAIC,Roewe,Car-D,,2020-12-18,"SAIC Roewe e550 PHEV/PHEV/Car-D/11,8"
-"12,2",CATL,NMC,PHEV,SAIC,Roewe,Car-E,,2020-12-18,"SAIC Roewe e950 PHEV/PHEV/Car-E/12,2"
-"52,6",CATL,NMC,BEV,SAIC,Roewe,Car-C,GB/T,2020-12-18,"SAIC Roewe Ei5 EV/BEV/Car-C/52,6"
-"9,1",Wanxiang 123 ,NMC,PHEV,SAIC,Roewe,Car-D,,2020-12-18,"SAIC Roewe ei6 PHEV/PHEV/Car-D/9,1"
-65,Unknown,NMC,BEV,SAIC,Roewe,Car-D,GB/T,2020-12-18,SAIC Roewe ER6 EV/BEV/Car-D/65
-"48,3",Unknown,NMC,BEV,SAIC,Roewe,SUV-C,GB/T,2020-12-18,"SAIC Roewe eRX5 EV/BEV/SUV-C/48,3"
-"12,2",CATL,NMC,PHEV,SAIC,Roewe,SUV-C,,2020-12-18,"SAIC Roewe eRX5 PHEV/PHEV/SUV-C/12,2"
-"12,2",Unknown,NMC,PHEV,SAIC,Roewe,SUV-C,,2020-12-18,"SAIC Roewe eRX5 Max PHEV/PHEV/SUV-C/12,2"
-"52,6",CATL,NMC,BEV,SAIC,Roewe,SUV-D,GB/T,2020-12-18,"SAIC Roewe Marvel-X EV/BEV/SUV-D/52,6"
-72,ProLogium,Unknown Solid State,BEV,South East Motor,Enovate,SUV-D,GB/T,2020-12-18,Enovate ME7 EV/BEV/SUV-D/72
-21,Unknown,Unknown,BEV,South East Motor,Soueast,Car-A,Unknown,2020-12-18,Soueast Dearcc EV10/BEV/Car-A/21
-"43,1",Unknown,Unknown Li-Ion,BEV,South East Motor,Soueast,SUV-C,GB/T,2020-12-18,"Soueast DX3 EV/BEV/SUV-C/43,1"
-12,CATL,LFP,BEV,South East Motor,Soueast,Car-C,,2020-12-18,Soueast Lingyue V5/V3 EV/BEV/Car-C/12
-32,Hefei Guoxuan,LFP,BEV,Suzuki,Suzuki,MPV-A,Unknown,2020-12-18,Suzuki Beidouxing X5 EV/BEV/MPV-A/32
-62,LG Chem,NMC,BEV,Tesla Inc.,Tesla,Car-D,SC & GB/T,2020-12-18,Tesla Model 3/BEV/Car-D/62
-"54,3",Panasonic,NMC,BEV,Toyota Motor Corp.,Lexus,SUV-C,GB/T,2020-12-18,"Lexus UX300e/BEV/SUV-C/54,3"
-"58,8",CATL,NMC,BEV,Toyota Motor Corp.,Toyota,Car-D,GB/T,2020-12-18,"Toyota-GAC Leahead iA5 EV/BEV/Car-D/58,8"
-46,CATL,NMC,BEV,Toyota Motor Corp.,Toyota,SUV-C,GB/T,2020-12-18,Toyota-GAC Leahead iX4 EV/BEV/SUV-C/46
-"10,2",Panasonic,NCA,PHEV,Toyota Motor Corp.,Toyota,Car-C,,2020-12-18,"Toyota Corolla PHEV/PHEV/Car-C/10,2"
-8,Panasonic,NMC,PHEV,Toyota Motor Corp.,Toyota,Car-C,,2020-12-18,Toyota Levin PHEV/PHEV/Car-C/8
-"54,3",Panasonic,NCA,BEV,Toyota Motor Corp.,Toyota,SUV-C,GB/T,2020-12-18,"Toyota C-HR EV/BEV/SUV-C/54,3"
-"54,3",Panasonic,NCA,BEV,Toyota Motor Corp.,Toyota,SUV-C,GB/T,2020-12-18,"Toyota Izoa EV/BEV/SUV-C/54,3"
-Unspec.,Unspec.,Unspec.,BEV,Unspec.,Unspec.,LCV,Unspec.,2020-12-18,Unspec. LCVs/BEV/LCV/Unspec.
-12,LG Chem,NMC,PHEV,VW Group,Audi,Car-E,,2020-12-18,Audi A6L PHEV/PHEV/Car-E/12
-"14,1",LG Chem,NMC,PHEV,VW Group,Audi,Car-E,,2020-12-18,"Audi A6L PHEV/PHEV/Car-E/14,1"
-38,Unknown,NMC,BEV,VW Group,Audi,SUV-C,GB/T,2020-12-18,Audi Q2L e-tron EV/BEV/SUV-C/38
-14,Unknown,NMC,PHEV,VW Group,Audi,SUV-D,,2020-12-18,Audi Q5L PHEV/PHEV/SUV-D/14
-"17,3",Samsung SDI,NMC,PHEV,VW Group,Audi,SUV-E,,2020-12-18,"Audi Q7 PHEV/PHEV/SUV-E/17,3"
-"17,3",Samsung SDI,NMC,PHEV,VW Group,Bentley,SUV-F,,2020-12-18,"Bentley Bentayga PHEV/PHEV/SUV-F/17,3"
-40,Sinoev Battery System Co.,NMC,BEV,VW Group,Sol,SUV-B,GB/T,2020-12-18,Sol-JAC E20X EV/BEV/SUV-B/40
-"35,8",CATL,NMC,BEV,VW Group,VW,Car-C,GB/T,2020-12-18,"VW e-Lavida EV/BEV/Car-C/35,8"
-"35,8",CATL,NMC,BEV,VW Group,VW,Car-C,GB/T,2020-12-18,"VW e-Bora EV/BEV/Car-C/35,8"
-"35,8",Samsung SDI,NMC,BEV,VW Group,VW,Car-C,GB/T,2020-12-18,"VW e-Golf EV/BEV/Car-C/35,8"
-"18,7",Panasonic-Sanyo,NMC,BEV,VW Group,VW,Car-A,CCS,2020-12-18,"VW e-Up! EV/BEV/Car-A/18,7"
-"8,8",Panasonic-Sanyo,NMC,PHEV,VW Group,VW,Car-C,,2020-12-18,"VW Golf PHEV/PHEV/Car-C/8,8"
-"12,1",CATL,NMC,PHEV,VW Group,VW,Car-D,,2020-12-18,"VW Magotan PHEV/PHEV/Car-D/12,1"
-"12,1",CATL,NMC,PHEV,VW Group,VW,Car-D,,2020-12-18,"VW Passat PHEV/PHEV/Car-D/12,1"
-"13,1",Samsung SDI,NMC,PHEV,VW Group,VW,Car-D,,2020-12-18,"VW Passat PHEV/PHEV/Car-D/13,1"
-"12,1",CATL,NMC,PHEV,VW Group,VW,SUV-C,,2020-12-18,"VW Tayron PHEV/PHEV/SUV-C/12,1"
-"35,8",CATL,NMC,BEV,VW Group,VW,SUV-C,GB/T,2020-12-18,"VW e-Tharu EV/BEV/SUV-C/35,8"
-"12,1",CATL,NMC,PHEV,VW Group,VW,SUV-D,,2020-12-18,"VW Tiguan-L PHEV/PHEV/SUV-D/12,1"
-46/53/57/69,CATL,NMC,BEV,WM Motors,Weltmeister,SUV-C,GB/T,2020-12-18,Weltmeister EX5 EV/BEV/SUV-C/46/53/57/69
-69,CATL,NMC,BEV,WM Motors,Weltmeister,SUV-D,GB/T,2020-12-18,Weltmeister EX6 Plus EV/BEV/SUV-D/69
-"80,9",CATL,LFP,BEV,Xiaopeng,Xpeng,Car-E,GB/T,2020-12-18,"XPeng P7 EV/BEV/Car-E/80,9"
-"50,5 / 66,5",CATL,NMC,BEV,Xiaopeng,Xpeng,SUV-C,GB/T,2020-12-18,"XPeng G3 EV/BEV/SUV-C/50,5 / 66,5"
-17,Unknown,NMC,BEV,Yema Automobile,Levdeo,Car-A,,2020-12-18,Levdeo i3 EV/BEV/Car-A/17
-30,Unknown,NMC,BEV,Yema Automobile,Levdeo,Car-B,Unknown,2020-12-18,Levdeo i5 EV/BEV/Car-B/30
-"51,1",Unknown,Unknown,BEV,Yema Automobile,Levdeo,SUV-C,unknown,2020-12-18,"Levdeo i9 EV/BEV/SUV-C/51,1"
-47,Huizhou Blueway,NMC,BEV,Yema Automobile,Yema,MPV-D,Unknown,2020-12-18,Yema EC30 EV/BEV/MPV-D/47
-66,Soundun New Energy,NMC,BEV,Yema Automobile,Yema,SUV-C,GB/T,2020-12-18,Yema EC60 EV/BEV/SUV-C/66
-52,Wuhu ETC,LFP,BEV,Yema Automobile,Yema,SUV-D,Unknown,2020-12-18,Yema EC70 EV/BEV/SUV-D/52
-24 / 40,China BAK,NMC,BEV,Yudo Auto,Yudo,SUV-B,GB/T,2020-12-18,Yudo Pi1 EV/BEV/SUV-B/24 / 40
-40,Sinowatt,NMC,BEV,Yudo Auto,Yudo,SUV-C,GB/T,2020-12-18,Yudo Pi3 EV/BEV/SUV-C/40
-21,Lishen,NMC,BEV,Zhejiang Kandi ,Kandi,Car-A,,2020-12-18,Kandi K10 & K11 EV/BEV/Car-A/21
-20,Lishen,NMC,BEV,Zhejiang Kandi ,Kandi,Car-A,GB/T,2020-12-18,Kandi K12 Hawk EV/BEV/Car-A/20
-21,Lishen,NMC,BEV,Zhejiang Kandi ,Kandi,Car-B,,2020-12-18,Kandi K17 Cyclone EV/BEV/Car-B/21
-19,Lishen,NMC,BEV,Zhejiang Kandi ,Kandi,Car-A,,2020-12-18,Kandi K22 EV/BEV/Car-A/19
-42,Lishen,NMC,BEV,Zhejiang Kandi ,Kandi,Car-B,GB/T,2020-12-18,Kandi K27 EV/BEV/Car-B/42
-"41,5",Lishen,NMC,BEV,Zhejiang Kandi ,Kandi,SUV-B,GB/T,2020-12-18,"Kandi K28 (EX3) EV/BEV/SUV-B/41,5"
-15,CALB,Unknown Li-Ion,BEV,Zotye,Zotye,SUV-B,,2020-12-18,Zotye 5008 / T11 EV/BEV/SUV-B/15
-12,Harbin Coslight,LFP,BEV,Zotye,Zotye,Car-A,,2020-12-18,Zotye E20 EV/BEV/Car-A/12
-"24,5",Huizhou EV Energy,NMC,BEV,Zotye,Zotye,Car-A,,2020-12-18,"Zotye E200 EV/BEV/Car-A/24,5"
-32,Hefei Guoxuan,NMC,BEV,Zotye,Zotye,SUV-B,GB/T,2020-12-18,Zotye T200 EV/BEV/SUV-B/32
-43,Hefei Guoxuan,NMC,BEV,Zotye,Zotye,SUV-C,GB/T,2020-12-18,Zotye T300 EV/BEV/SUV-C/43
-22,China BAK,NMC,BEV,Zotye,Zotye,Car-A,,2020-12-18,Zotye Z100 / Cloud EV/BEV/Car-A/22
-39,Tianjin EV Energies,NMC,BEV,Zotye,Zotye,Car-D,GB/T,2020-12-18,Zotye Z500 EV/BEV/Car-D/39
-"17,6",Tianjin EV Energies,NMC,BEV,Zotye,Zotye,Car-A,,2020-12-18,"Zotye Zhi Ma E30 EV/BEV/Car-A/17,6"
-22/33/42,Samsung SDI,NMC,BEV,BMW Group,BMW,MPV-B,ChaDeMo,2020-12-18,BMW i3 EV / EREV/BEV/MPV-B/22/33/42
-"7,7 / 9,7",Samsung SDI,NMC,PHEV,BMW Group,BMW,MPV-C,,2020-12-18,"BMW 225xe PHEV/PHEV/MPV-C/7,7 / 9,7"
-"11,4",Unknown,NMC,PHEV,FCA,Jeep,SUV-B,,2020-12-18,"Jeep Renegade PHEV/PHEV/SUV-B/11,4"
-"13,5",SK-Group,NMC,PHEV,Daimler AG,Mercedes-Benz,Car-D,,2020-12-18,"Mercedes C300e/de PHEV/PHEV/Car-D/13,5"
-"8,7",LG Chem,NMC,PHEV,Daimler AG,Mercedes-Benz,Car-E,,2020-12-18,"Mercedes E350e PHEV/PHEV/Car-E/8,7"
-80,LG Chem,NMC,BEV,Daimler AG,Mercedes-Benz,SUV-D,CCS,2020-12-18,Mercedes EQC 400 EV/BEV/SUV-D/80
-16,GS Yuasa,LTO,BEV,R-N-M Alliance,Mitsubishi,MPV-A,ChaDeMo,2020-12-18,Mitsubishi Minicab Miev EV/BEV/MPV-A/16
-16,GS Yuasa,LTO,BEV,R-N-M Alliance,Mitsubishi,LCV,ChaDeMo,2020-12-18,Mitsubishi Minicab Miev Truck EV/BEV/LCV/16
-24 / 40,AESC,NMC,BEV,R-N-M Alliance,Nissan,LCV,ChaDeMo,2020-12-18,Nissan e-NV200 EV/BEV/LCV/24 / 40
-50,CATL,NMC,BEV,PSA Group,Peugeot,Car-B,CCS,2020-12-18,Peugeot e-208 EV/BEV/Car-B/50
-50,CATL,NMC,BEV,PSA Group,Peugeot,SUV-B,CCS,2020-12-18,Peugeot e-2008 EV/BEV/SUV-B/50
-33,Samsung SDI,NMC,BEV,Deutsche Post DHL Group,StreetScooter,LCV,,2020-12-18,StreetScooter Work EV/BEV/LCV/33
-"8,8",Panasonic,NMC,PHEV,Toyota Motor Corp.,Toyota,Car-C,ChaDeMo,2020-12-18,"Toyota Prius Gen-2 PHEV/PHEV/Car-C/8,8"
-"18,1",Panasonic,NMC,PHEV,Toyota Motor Corp.,Toyota,SUV-C,,2020-12-18,"Toyota RAV4 PHEV/PHEV/SUV-C/18,1"
-"10,7",LG Chem,NMC,PHEV,Geely-Volvo Cars,Volvo,SUV-C,,2020-12-18,"Volvo XC40 PHEV/PHEV/SUV-C/10,7"
-"10,4 / 11,6",LG Chem,NMC,PHEV,Geely-Volvo Cars,Volvo,Car-D,,2020-12-18,"Volvo V60 PHEV/PHEV/Car-D/10,4 / 11,6"
-"10,4 / 11,6",LG Chem,NMC,PHEV,Geely-Volvo Cars,Volvo,Car-E,,2020-12-18,"Volvo V90 PHEV/PHEV/Car-E/10,4 / 11,6"
-"14,1",LG Chem,NMC,PHEV,VW Group,Audi,Car-E,,2020-12-18,"Audi A6 PHEV/PHEV/Car-E/14,1"
-"14,1",LG Chem,NMC,PHEV,VW Group,Audi,Car-E,,2020-12-18,"Audi A7 PHEV/PHEV/Car-E/14,1"
-"71,5",Samsung SDI,NMC,BEV,VW Group,Audi,SUV-E,CCS,2020-12-18,"Audi e-tron Quattro EV/BEV/SUV-E/71,5"
-"82,8",BYD,NMC,BEV,BYD,BYD,SUV-E,CCS,2020-12-18,"BYD Tang EV/BEV/SUV-E/82,8"
-"9,7",Samsung SDI,NMC,PHEV,BMW Group,BMW,SUV-C,,2020-12-18,"BMW X1 25e PHEV/PHEV/SUV-C/9,7"
-"9,7",Samsung SDI,NMC,PHEV,BMW Group,BMW,SUV-C,,2020-12-18,"BMW X2 25e PHEV/PHEV/SUV-C/9,7"
-"22,5",GS Yuasa,LMO,BEV,PSA Group,Citroen,MPV-C,ChaDeMo,2020-12-18,"Citroen Berlingo Multispace EV/BEV/MPV-C/22,5"
-"22,5",GS Yuasa,LMO,BEV,PSA Group,Citroen,LCV,ChaDeMo,2020-12-18,"Citroen Berlingo EV/BEV/LCV/22,5"
-16,GS Yuasa,LTO,BEV,PSA Group,Citroen,Car-A,ChaDeMo,2020-12-18,Citroen C-Zero EV/BEV/Car-A/16
-50,CATL,NMC,BEV,PSA Group,DS,SUV-B,CCS,2020-12-18,DS-3 Crossback EV/BEV/SUV-B/50
-"13,2",LG Chem,NMC,PHEV,PSA Group,DS,SUV-D,,2020-12-18,"DS-7 Crossback PHEV/PHEV/SUV-D/13,2"
-"13,6",unknown,NMC,PHEV,Ford,Ford,SUV-E,,2020-12-18,"Ford Explorer PHEV/PHEV/SUV-E/13,6"
-"13,6",Unknown,NMC,PHEV,Ford,Ford,MPV-D,,2020-12-18,"Ford Tourneo Custom PHEV/PHEV/MPV-D/13,6"
-"13,6",Unknown,NMC,PHEV,Ford,Ford,LCV,,2020-12-18,"Ford Transit Custom PHEV/PHEV/LCV/13,6"
-53 / 72,CITIC MGL,LFP,BEV,SAIC,Maxus,LCV,CCS,2020-12-18,SAIC Maxus EV80/BEV/LCV/53 / 72
-"44,9",CATL,NMC,BEV,SAIC,MG,SUV-C,CCS,2020-12-18,"SAIC MG EZS EV/BEV/SUV-C/44,9"
-31,LG Chem,NMC,PHEV,Geely NECV Group,LEVC,MPV-E,ChaDeMo,2020-12-18,LEVC TX EREV/PHEV/MPV-E/31
-"35,5",Panasonic,Unknown Li-Ion,BEV,Honda Motor,Honda,Car-B,CCS,2020-12-18,"Honda e EV/BEV/Car-B/35,5"
-67,SK-Group,NMC,BEV,Hyundai Motor,Hyundai,SUV-C,CCS,2020-12-18,Hyundai Kona EV/BEV/SUV-C/67
-42,LG Chem,NMC,BEV,Hyundai Motor,Hyundai,SUV-C,CCS,2020-12-18,Hyundai Kona EV/BEV/SUV-C/42
-"28,2",FZ Sonick,Zebra,BEV,FCA,Iveco,LCV,,2020-12-18,"Iveco Daily Electric EV/BEV/LCV/28,2"
-"42,8",Hefei Guoxuan,LFP,BEV,JAC Motors,JAC iEV,SUV-B,Unknown,2020-12-18,"JAC iEV7S EV/BEV/SUV-B/42,8"
-"11,4",Unknown,NMC,PHEV,FCA,Jeep,SUV-C,,2020-12-18,"Jeep Compass PHEV/PHEV/SUV-C/11,4"
-"8,9",LG Chem,NMC,PHEV,Hyundai Motor,Kia,Car-C,,2020-12-18,"Kia Ceed PHEV/PHEV/Car-C/8,9"
-"35,8",Samsung SDI,NMC,BEV,VW Group,MAN,LCV,CCS,2020-12-18,"MAN e-TGE EV/BEV/LCV/35,8"
-"35,5",Panasonic,Unknown Li-Ion,BEV,Mazda,Mazda,SUV-C,CCS,2020-12-18,"Mazda MX-30 EV/BEV/SUV-C/35,5"
-"15,6",LG Chem,NMC,PHEV,Daimler AG,Mercedes-Benz,Car-C,CCS,2020-12-18,"Mercedes A250e PHEV/PHEV/Car-C/15,6"
-"15,6",LG Chem,NMC,PHEV,Daimler AG,Mercedes-Benz,Car-D,CCS,2020-12-18,"Mercedes CLA250e PHEV/PHEV/Car-D/15,6"
-"15,6",SK-Group,NMC,PHEV,Daimler AG,Mercedes-Benz,MPV-C,CCS,2020-12-18,"Mercedes B250e PHEV/PHEV/MPV-C/15,6"
-"31,2",LG Chem,NMC,PHEV,Daimler AG,Mercedes-Benz,SUV-E,CCS,2020-12-18,"Mercedes GLE350e/de PHEV/PHEV/SUV-E/31,2"
-100,Unknown,Unknown Li-Ion,BEV,Daimler AG,Mercedes-Benz,MPV-E,CCS,2020-12-18,Mercedes EQV EV/BEV/MPV-E/100
-"41,4",FZ SoNick,Zebra,BEV,Daimler AG,Mercedes-Benz,LCV,,2020-12-18,"Mercedes eVito Van EV/BEV/LCV/41,4"
-12,Unknown,Unknown,BEV,Other,Mia,Car-A,,2020-12-18,Mia Electric EV/BEV/Car-A/12
-24 / 40,AESC,NMC,BEV,R-N-M Alliance,Nissan,MPV-C,ChaDeMo,2020-12-18,Nissan e-NV200 Evalia EV/BEV/MPV-C/24 / 40
-"16 - 17,1",LG Chem,NMC,PHEV,GM,Opel / Vauxhall,Car-C,,2020-12-18,"Opel / Vxh Ampera EREV/PHEV/Car-C/16 - 17,1"
-50,CATL,NMC,BEV,PSA Group,Opel / Vauxhall,Car-B,CCS,2020-12-18,Opel/Vxh. Corsa EV/BEV/Car-B/50
-60,LG Chem,NMC,BEV,PSA Group,Opel / Vauxhall,MPV-B,CCS,2020-12-18,Opel/Vxh. Ampera-e EV/BEV/MPV-B/60
-"13,2",LG Chem,NMC,PHEV,PSA Group,Opel / Vauxhall,SUV-C,,2020-12-18,"Opel/Vxh. Grandland X PHEV/PHEV/SUV-C/13,2"
-16,GS Yuasa,LTO,BEV,PSA Group,Peugeot,Car-A,ChaDeMo,2020-12-18,Peugeot iOn EV/BEV/Car-A/16
-"13,2",LG Chem,NMC,PHEV,PSA Group,Peugeot,Car-D,,2020-12-18,"Peugeot 508 PHEV/PHEV/Car-D/13,2"
-"13,2",LG Chem,NMC,PHEV,PSA Group,Peugeot,SUV-C,,2020-12-18,"Peugeot 3008 PHEV/PHEV/SUV-C/13,2"
-"22,5",GS Yuasa,LMO,BEV,PSA Group,Peugeot,LCV,ChaDeMo,2020-12-18,"Peugeot Partner EV/BEV/LCV/22,5"
-"22,5",GS Yuasa,LMO,BEV,PSA Group,Peugeot,MPV-C,ChaDeMo,2020-12-18,"Peugeot Partner Tepee EV/BEV/MPV-C/22,5"
-27,Unknown,NMC,PHEV,Geely-Volvo Cars,Polestar,SS,CCS,2020-12-18,Polestar 1 PHEV/PHEV/SS/27
-78,CATL,NMC,BEV,Geely-Volvo Cars,Polestar,Car-D,CCS,2020-12-18,Polestar 2 EV/BEV/Car-D/78
-22,LG Chem,LMO,BEV,R-N-M Alliance,Renault,Car-C,,2020-12-18,Renault Fluence EV/BEV/Car-C/22
-22,AESC,LMO,BEV,R-N-M Alliance,Renault,LCV,,2020-12-18,Renault Kangoo EV/BEV/LCV/22
-33,LG Chem,NMC,BEV,R-N-M Alliance,Renault,LCV,,2020-12-18,Renault Kangoo EV/BEV/LCV/33
-"6,1",LG Chem,LMO,BEV,R-N-M Alliance,Renault,QC,,2020-12-18,"Renault Twizy EV/BEV/QC/6,1"
-33,LG Chem,NMC,BEV,R-N-M Alliance,Renault,LCV,,2020-12-18,Renault Master EV/BEV/LCV/33
-"53,3",LG Chem,NMC,BEV,R-N-M Alliance,Renault,Car-B,CCS,2020-12-18,"Renault Zoe EV/BEV/Car-B/53,3"
-22 / 41,LG Chem,NMC,BEV,R-N-M Alliance,Renault,Car-B,Type-2 AC,2020-12-18,Renault Zoe EV/BEV/Car-B/22 / 41
-35,CATL,Unknown Li-Ion,BEV,SAIC,Maxus,LCV,CCS,2020-12-18,SAIC Maxus EV30/BEV/LCV/35
-"36,8",LG Chem,NMC,BEV,VW Group,Seat,Car-A,CCS,2020-12-18,"Seat e-Mii EV/BEV/Car-A/36,8"
-"17,6",LG Chem,NMC,BEV,Daimler AG,Smart,Car-A,,2020-12-18,"Smart Forfour EV/BEV/Car-A/17,6"
-"36,8",LG Chem,NMC,BEV,VW Group,Skoda,Car-A,CCS,2020-12-18,"Skoda Citigo-e EV/BEV/Car-A/36,8"
-"13,1",Samsung SDI,NMC,PHEV,VW Group,Skoda,Car-D,,2020-12-18,"Skoda Superb PHEV/PHEV/Car-D/13,1"
-"18,1",Panasonic,NMC,PHEV,Suzuki,Suzuki,SUV-C,,2020-12-18,"Suzuki Across PHEV/PHEV/SUV-C/18,1"
-80 / 62,Panasonic,NCA,BEV,Tesla Inc.,Tesla,Car-D,SC & CCS,2020-12-18,Tesla Model 3/BEV/Car-D/80 / 62
-"11,2",LG Chem,NMC,PHEV,Geely-Volvo Cars,Volvo,Car-D,,2020-12-18,"Volvo V60 PHEV/PHEV/Car-D/11,2"
-62,LG Chem,NMC,BEV,VW Group,VW,Car-C,CCS,2020-12-18,VW ID.3 EV/BEV/Car-C/62
-"36,8",LG Chem,NMC,BEV,VW Group,VW,Car-A,CCS,2020-12-18,"VW e-Up! EV/BEV/Car-A/36,8"
-"9,9",Panasonic-Sanyo,NMC,PHEV,VW Group,VW,Car-D,,2020-12-18,"VW Passat PHEV/PHEV/Car-D/9,9"
-"35,8",Samsung SDI,NMC,BEV,VW Group,VW,LCV,CCS,2020-12-18,"VW e-Crafter EV/BEV/LCV/35,8"
-61 / 82,BYD,LFP,BEV,BYD,BYD,MPV-D,BYD,2020-12-18,BYD e6 EV/BEV/MPV-D/61 / 82
-50 / 75,CATL,NMC,BEV,PSA Group,Citroen,LCV,CCS,2020-12-18,Citroen e-Jumpy EV/BEV/LCV/50 / 75
-47 / 79,Unknown,Unknown Li-Ion,BEV,FCA,Fiat,LCV,CCS,2020-12-18,Fiat Ducato EV/BEV/LCV/47 / 79
-15,Unknown,Unknown,BEV,Other,Goupil,LSV,,2020-12-18,Goupil EV/BEV/LSV/15
-"8,9",LG Chem,NMC,PHEV,Hyundai Motor,Kia,Car-C,,2020-12-18,"Kia XCeed PHEV/PHEV/Car-C/8,9"
-"15,6",LG Chem,NMC,PHEV,Daimler AG,Mercedes-Benz,SUV-C,CCS,2020-12-18,"Mercedes GLA250e PHEV/PHEV/SUV-C/15,6"
-"41,4",FZ SoNick,Zebra,BEV,Daimler AG,Mercedes-Benz,MPV-E,,2020-12-18,"Mercedes eVito Tourer EV/BEV/MPV-E/41,4"
-100,Unknown,Unknown Li-Ion,BEV,Daimler AG,Mercedes-Benz,MPV-E,CCS,2020-12-18,Mercedes eVito Tourer EV/BEV/MPV-E/100
-55,Unknown,Unknown Li-Ion,BEV,Daimler AG,Mercedes-Benz,LCV,CCS,2020-12-18,Mercedes eSprinter Van EV/BEV/LCV/55
-50 / 75,CATL,NMC,BEV,PSA Group,Opel / Vauxhall,LCV,CCS,2020-12-18,Opel/Vxh. Vivaro EV/BEV/LCV/50 / 75
-"53,3",LG Chem,NMC,BEV,R-N-M Alliance,Renault,LCV,CCS,2020-12-18,"Renault Zoe EV/BEV/LCV/53,3"
-"9,8",LG Chem,NMC,PHEV,R-N-M Alliance,Renault,Car-C,,2020-12-18,"Renault Megane PHEV/PHEV/Car-C/9,8"
-"9,8",LG Chem,NMC,PHEV,R-N-M Alliance,Renault,SUV-B,,2020-12-18,"Renault Captur PHEV/PHEV/SUV-B/9,8"
-"20,4",Sony,Unknown Li-Ion,BEV,Deutsche Post DHL Group,StreetScooter,LCV,,2020-12-18,"StreetScooter Work EV/BEV/LCV/20,4"
-"18,7",Panasonic-Sanyo,NMC,BEV,VW Group,VW,LCV,CCS,2020-12-18,"VW e-Up! EV/BEV/LCV/18,7"
-"37,3 / 74,6",Unknown,Unknown Li-Ion,BEV,VW Group,VW,LCV,CCS,2020-12-18,"VW e-Transporter EV/BEV/LCV/37,3 / 74,6"
-65,Unknown,Unknown Li-Ion,BEV,Other,Aiways,SUV-D,CCS,2020-12-18,Aiways U5 EV/BEV/SUV-D/65
-30,Bollore,LMP,BEV,Other,Bollore,SUV-B,,2020-12-18,Bollore Blue Summer EV/BEV/SUV-B/30
-50 / 75,Unknown,NMC,BEV,PSA Group,Citroen,MPV-D,CCS,2020-12-18,Citroen e-SpaceTourer EV/BEV/MPV-D/50 / 75
-16,GS Yuasa,LTO,BEV,PSA Group,Citroen,LCV,ChaDeMo,2020-12-18,Citroen C-Zero EV/BEV/LCV/16
-30,Bollore,LMP,BEV,PSA Group,Citroen,SUV-B,,2020-12-18,Citroen e-Mehari EV/BEV/SUV-B/30
-50,CATL,NMC,BEV,PSA Group,Citroen,Car-C,CCS,2020-12-18,Citroen e-C4 EV/BEV/Car-C/50
-50,CATL,NMC,BEV,PSA Group,DS,LCV,CCS,2020-12-18,DS-3 Crossback EV/BEV/LCV/50
-42 / 67,LG Chem,NMC,BEV,Hyundai Motor,Hyundai,LCV,CCS,2020-12-18,Hyundai Kona EV/BEV/LCV/42 / 67
-"8,9",LG Chem,NMC,PHEV,Hyundai Motor,Kia,Car-C,,2020-12-18,"Kia Xceed PHEV/PHEV/Car-C/8,9"
-42 / 67,SK-Group,NMC,BEV,Hyundai Motor,Kia,LCV,CCS,2020-12-18,Kia Niro EV/BEV/LCV/42 / 67
-40 / 62,AESC,NMC,BEV,R-N-M Alliance,Nissan,LCV,ChaDeMo,2020-12-18,Nissan Leaf EV/BEV/LCV/40 / 62
-50,CATL,NMC,BEV,PSA Group,Opel / Vauxhall,LCV,CCS,2020-12-18,Opel/Vxh. Corsa EV/BEV/LCV/50
-16,GS Yuasa,LTO,BEV,PSA Group,Peugeot,LCV,ChaDeMo,2020-12-18,Peugeot iOn EV/BEV/LCV/16
-50 / 75,CATL,NMC,BEV,PSA Group,Peugeot,LCV,CCS,2020-12-18,Peugeot e-Expert EV/BEV/LCV/50 / 75
-50 / 75,CATL,NMC,BEV,PSA Group,Peugeot,MPV-D,CCS,2020-12-18,Peugeot e-Traveller EV/BEV/MPV-D/50 / 75
-50,CATL,NMC,BEV,PSA Group,Peugeot,LCV,CCS,2020-12-18,Peugeot e-208 EV/BEV/LCV/50
-22 / 41,LG Chem,NMC,BEV,R-N-M Alliance,Renault,LCV,Type-2 AC,2020-12-18,Renault Zoe EV/BEV/LCV/22 / 41
-"36,8",LG Chem,NMC,BEV,VW Group,Seat,LCV,CCS,2020-12-18,"Seat e-Mii EV/BEV/LCV/36,8"
-"36,8",LG Chem,NMC,BEV,VW Group,VW,LCV,CCS,2020-12-18,"VW e-Up! EV/BEV/LCV/36,8"
-"14,1",LG Chem,NMC,PHEV,VW Group,Audi,SUV-C,,2020-12-18,"Audi Q3 PHEV/PHEV/SUV-C/14,1"
-"17,9",LG Chem,NMC,PHEV,VW Group,Audi,SUV-E,,2020-12-18,"Audi Q8 PHEV/PHEV/SUV-E/17,9"
-80,CATL,NMC,BEV,BMW Group,BMW,SUV-D,CCS,2020-12-18,BMW iX3 EV/BEV/SUV-D/80
-"13,5",SK-Group,NMC,FCEV,Daimler AG,Mercedes-Benz,SUV-D,,2020-12-18,"Mercedes GLC F-Cell/FCEV/SUV-D/13,5"
-"13,5",SK-Group,NMC,PHEV,Daimler AG,Mercedes-Benz,SS,,2020-12-18,"Mercedes AMG GT73 PHEV/PHEV/SS/13,5"
-50 / 75,CATL,NMC,BEV,PSA Group,Opel / Vauxhall,MPV-D,CCS,2020-12-18,Opel/Vxh. Zafira Life EV/BEV/MPV-D/50 / 75
-"13,1",Samsung SDI,NMC,PHEV,VW Group,Seat,Car-C,,2020-12-18,"Seat Leon PHEV/PHEV/Car-C/13,1"
-"13,1",Samsung SDI,NMC,PHEV,VW Group,Seat,SUV-C,,2020-12-18,"Seat Cupra Formentor PHEV/PHEV/SUV-C/13,1"
-"13,1",Samsung SDI,NMC,PHEV,VW Group,Seat,SUV-D,,2020-12-18,"Seat Tarraco PHEV/PHEV/SUV-D/13,1"
-"13,1",Samsung SDI,NMC,PHEV,VW Group,VW,Car-C,,2020-12-18,"VW Golf PHEV/PHEV/Car-C/13,1"
-"13,1",Samsung SDI,NMC,PHEV,VW Group,VW,Car-D,,2020-12-18,"VW Arteon PHEV/PHEV/Car-D/13,1"
-"13,1",Samsung SDI,NMC,PHEV,VW Group,VW,SUV-D,,2020-12-18,"VW Tiguan PHEV/PHEV/SUV-D/13,1"
-"14,1",Samsung SDI,NMC,PHEV,VW Group,VW,SUV-E,,2020-12-18,"VW Touareg PHEV/PHEV/SUV-E/14,1"
-"13,1",Samsung SDI,NMC,PHEV,VW Group,VW,MPV-C,,2020-12-18,"VW Touran PHEV/PHEV/MPV-C/13,1"
-"37,3",Unknown,Unknown Li-Ion,BEV,VW Group,VW,LCV,CCS,2020-12-18,"VW e-Caddy EV/BEV/LCV/37,3"
-"15,6",LG Chem,NMC,PHEV,Daimler AG,Mercedes-Benz,Car-C,CCS,2020-12-18,"Mercedes CLA250e PHEV/PHEV/Car-C/15,6"
-12,GS Yuasa,LMO,PHEV,R-N-M Alliance,Mitsubishi,LCV,ChaDeMo,2020-12-18,Mitsubishi Outlander PHEV/PHEV/LCV/12
-"13,1",Samsung SDI,NMC,PHEV,VW Group,Seat,SUV-C,,2020-12-18,"Seat Ateca PHEV/PHEV/SUV-C/13,1"
-80,Panasonic,NCA,BEV,Tesla Inc.,Tesla,SUV-D,SC & CCS,2020-12-18,Tesla Model Y/BEV/SUV-D/80
-78,LG Chem,NMC,BEV,Geely-Volvo Cars,Volvo,SUV-C,CCS,2020-12-18,Volvo XC40 EV/BEV/SUV-C/78
-"8,9",SK-Group,NMC,PHEV,Hyundai Motor,Kia,LCV,,2020-12-18,"Kia Niro PHEV/PHEV/LCV/8,9"
-"54,3",Panasonic,NMC,BEV,Toyota Motor Corp.,Lexus,SUV-C,CCS,2020-12-18,"Lexus UX300e/BEV/SUV-C/54,3"
-"35,8",Samsung SDI,NMC,BEV,VW Group,VW,LCV,CCS,2020-12-18,"VW e-Golf EV/BEV/LCV/35,8"
-"13,6",unknown,NMC,PHEV,Ford,Ford,MPV-D,,2020-12-18,"Ford Tourneo Custom PHEV/PHEV/MPV-D/13,6"
-"13,6",unknown,NMC,PHEV,Ford,Ford,LCV,,2020-12-18,"Ford Transit Custom PHEV/PHEV/LCV/13,6"
-33,Samsung SDI,NMC,BEV,Deutsche Post DHL Group,StreetScooter,LCV,,2020-12-18,Streetscooter Work EV/BEV/LCV/33
-82,Unknown,NMC,BEV,VW Group,Seat,Car-C,CCS,2020-12-18,Seat Cupra El-Born EV/BEV/Car-C/82
-"10,4 / 11,6",LG Chem,NMC,PHEV,Geely-Volvo Cars,Volvo,LCV,,2020-12-18,"Volvo XC60 PHEV/PHEV/LCV/10,4 / 11,6"
-42,Unknown,NMC,BEV,FCA,Fiat,Car-A,CCS,2020-12-18,Fiat 500e EV/BEV/Car-A/42
-47 / 79,Unknown,Unknown Li-Ion,BEV,FCA,Fiat,MPV-E,CCS,2020-12-18,Fiat Ducato EV/BEV/MPV-E/47 / 79
-"32,9",CATL,NMC,BEV,Great Wall,Ora,Car-A,CCS,2020-12-18,"Great Wall Ora R1 EV/BEV/Car-A/32,9"
-42 / 67,SK-Group,NMC,BEV,Hyundai Motor,Kia,LCV,CCS,2020-12-18,Kia e-Soul EV/BEV/LCV/42 / 67
-28 / 42,LG Chem,NMC,BEV,Hyundai Motor,Hyundai,Car-C,ChaDeMo,2020-12-18,Hyundai Ioniq Electric EV/BEV/Car-C/28 / 42
-"58,8",SK-Group,NMC,BEV,Hyundai Motor,Hyundai,LCV,,2020-12-18,"Hyundai Porter EV/BEV/LCV/58,8"
-"16,3",SK-Group,NMC,BEV,Hyundai Motor,Kia,MPV-A,ChaDeMo,2020-12-18,"Kia Ray EV/BEV/MPV-A/16,3"
-"58,8",SK-Group,NMC,BEV,Hyundai Motor,Kia,LCV,,2020-12-18,"Kia Bongo EV/BEV/LCV/58,8"
-22,AESC,LMO,BEV,R-N-M Alliance,Samsung,Car-C,Type-2 AC,2020-12-18,Samsung SM3 EV/BEV/Car-C/22
-67,LG Chem,NMC,BEV,Hyundai Motor,Hyundai,SUV-C,CCS,2020-12-18,Hyundai Kona EV/BEV/SUV-C/67
-"13,6",Unknown,NMC,PHEV,Ford,Ford,LCV,,2020-12-18,"Ford Transit Van PHEV/PHEV/LCV/13,6"
-"16 - 17,1",LG Chem,NMC,PHEV,GM,Holden,Car-C,,2020-12-18,"Holden Volt EREV/PHEV/Car-C/16 - 17,1"
-93 / 79,LG Chem,NMC,BEV,VW Group,Porsche,Car-E,CCS,2020-12-18,Porsche Taycan EV/BEV/Car-E/93 / 79
-"13,1",Samsung SDI,NMC,PHEV,VW Group,Skoda,Car-C,,2020-12-18,"Skoda Octavia PHEV/PHEV/Car-C/13,1"
-67,Unknown,Unknown,BEV,JAC Motors,JAC iEV,PUP-D,Unknown,2020-12-18,JAC iEV330P EV/BEV/PUP-D/67
-"50,5 / 66,5",CATL,NMC,BEV,Xiaopeng,Xpeng,SUV-C,GB/T,2020-12-18,"Xpeng G3 EV/BEV/SUV-C/50,5 / 66,5"
-"17,6",E-One Moly,LFP,BEV,Other,Luxgen,MPV-E,,2020-12-18,"Yulon Luxgen M7 EV/BEV/MPV-E/17,6"
-33,Unknown,Unknown,BEV,Other,Luxgen,Car-C,GB/T,2020-12-18,Yulon Luxgen S3 EV/BEV/Car-C/33
-"13,5",SK-Group,NMC,PHEV,Daimler AG,Mercedes-Benz,Car-E,,2020-12-18,"Mercedes e300e/de PHEV/PHEV/Car-E/13,5"
-45,Unknown,Unknown Li-Ion,BEV,Geely Auto Group,Maple,SUV-B,GB/T,2020-12-18,Geely Maple 30x EV/BEV/SUV-B/45
-51,CATL,NMC,BEV,Dongfeng Motor,Fengshen,Car-D,GB/T,2020-12-18,Dongfeng Fengshen E70 EV/BEV/Car-D/51
-48,BYD,LFP,BEV,BYD,BYD,LCV,Unknown,2020-12-18,BYD T3 EV/BEV/LCV/48
-95,LG Chem,NMC,BEV,VW Group,Audi,SUV-E,CCS,2020-12-18,Audi e-Tron Quattro EV/BEV/SUV-E/95
-71,BYD,NMC,BEV,BYD,BYD,SUV-D,Unknown,2020-12-18,BYD Song Pro EV/BEV/SUV-D/71
-10,Unknown,LFP,BEV,Mahindra & Mahindra,Mahindra,LSV,,2020-12-18,Mahindra e2o EV/BEV/LSV/10
-19,Unknown,Unknown,BEV,Mahindra & Mahindra,Mahindra,Car-B,,2020-12-18,Mahindra e-Verito EV/BEV/Car-B/19
-"16,2",Unknown,NMC,BEV,Tata Motors,Tata,Car-B,,2020-12-18,"Tata Tigor / Tiago EV/BEV/Car-B/16,2"
-"30,2",Unknown,Unknown Li-Ion,BEV,Tata Motors,Tata,SUV-B,,2020-12-18,"Tata Nexon EV/BEV/SUV-B/30,2"
-17,Unknown,Unknown Li-Ion,BEV,Other,FOMM,Car-A,,2020-12-18,FOMM One EV/BEV/Car-A/17
-53,BYD,NMC,BEV,BYD,BYD,SUV-C,Unknown,2020-12-18,BYD Yuan EV535/BEV/SUV-C/53
-"47,3",BYD,NMC,BEV,BYD,BYD,Car-C,GB/T,2020-12-18,"BYD e3 sdn EV/BEV/Car-C/47,3"
-53,BYD,NMC,BEV,BYD,BYD,SUV-B,GB/T,2020-12-18,BYD Yuan EV535/BEV/SUV-B/53
-"52,6",CATL,NMC,BEV,Changan Automobile Group,Changan,Car-C,Unknown,2020-12-18,"Changan Eado EV/BEV/Car-C/52,6"
+"8,8",Panasonic-Sanyo,NMC,PHEV,VW Group,Audi,Car-C,,2020-12-21,"Audi A3 PHEV/PHEV/Car-C/8,8"
+"14,1",LG Chem,NMC,PHEV,VW Group,Audi,Car-F,,2020-12-21,"Audi A8 PHEV/PHEV/Car-F/14,1"
+"14,1",LG Chem,NMC,PHEV,VW Group,Audi,SUV-D,,2020-12-21,"Audi Q5 PHEV/PHEV/SUV-D/14,1"
+95,LG Chem,NMC,BEV,VW Group,Audi,SUV-E,CCS,2020-12-21,Audi e-tron Quattro EV/BEV/SUV-E/95
+"7,6",Samsung SDI,NMC,PHEV,BMW Group,BMW,Car-D,,2020-12-21,"BMW 330e PHEV/PHEV/Car-D/7,6"
+12,Samsung SDI,NMC,PHEV,BMW Group,BMW,Car-D,,2020-12-21,BMW 330e PHEV/PHEV/Car-D/12
+"9,2 / 12,0",Samsung SDI,NMC,PHEV,BMW Group,BMW,Car-E,,2020-12-21,"BMW 530e PHEV/PHEV/Car-E/9,2 / 12,0"
+32,Samsung SDI,NMC,BEV,BMW Group,BMW,Car-C,,2020-12-21,BMW Active-E EV/BEV/Car-C/32
+22/33/42,Samsung SDI,NMC,BEV,BMW Group,BMW,MPV-B,CCS,2020-12-21,BMW i3 EV / EREV/BEV/MPV-B/22/33/42
+"7,1 / 11,7",Samsung SDI,NMC,PHEV,BMW Group,BMW,SS,,2020-12-21,"BMW i8 PHEV/PHEV/SS/7,1 / 11,7"
+"9,2",Samsung SDI,NMC,PHEV,BMW Group,BMW,SUV-E,,2020-12-21,"BMW X5 40e PHEV/PHEV/SUV-E/9,2"
+"9,2",Samsung SDI,NMC,PHEV,BMW Group,BMW,Car-F,,2020-12-21,"BMW 740e PHEV/PHEV/Car-F/9,2"
+12,Samsung SDI,NMC,PHEV,BMW Group,BMW,Car-F,,2020-12-21,BMW 745e PHEV/PHEV/Car-F/12
+12,Samsung SDI,NMC,PHEV,BMW Group,BMW,SUV-D,,2020-12-21,BMW X3 30e PHEV/PHEV/SUV-D/12
+"23,8",Samsung SDI,NMC,PHEV,BMW Group,BMW,SUV-E,,2020-12-21,"BMW X5 45e PHEV/PHEV/SUV-E/23,8"
+30,Bollore,LMP,BEV,Other,Bollore,Car-B,,2020-12-21,Bollore Blue Car EV/BEV/Car-B/30
+"16 - 17,1",LG Chem,NMC,PHEV,GM,Cadillac,Car-C,,2020-12-21,"Cadillac ELR EREV/PHEV/Car-C/16 - 17,1"
+"18,4",LG Chem,NMC,PHEV,GM,Cadillac,Car-E,,2020-12-21,"Cadillac CT6 PHEV/PHEV/Car-E/18,4"
+60 / 66,LG Chem,NMC,BEV,GM,Chevrolet,MPV-B,CCS,2020-12-21,Chevrolet Bolt EV/BEV/MPV-B/60 / 66
+19,LG Chem,NMC,BEV,GM,Chevrolet,Car-B,CCS,2020-12-21,Chevrolet Spark EV/BEV/Car-B/19
+"16 - 17,1",LG Chem,NMC,PHEV,GM,Chevrolet,Car-C,,2020-12-21,"Chevrolet Volt EREV/PHEV/Car-C/16 - 17,1"
+"18,4",LG Chem,NMC,PHEV,GM,Chevrolet,Car-C,,2020-12-21,"Chevrolet Volt EREV/PHEV/Car-C/18,4"
+16,LG Chem,NMC,PHEV,FCA,Chrysler,MPV-E,,2020-12-21,Chrysler Pacifica PHEV/PHEV/MPV-E/16
+24,Samsung SDI,NMC,BEV,FCA,Fiat,Car-A,,2020-12-21,Fiat 500e EV/BEV/Car-A/24
+"20,1",Wanxiang 123 ,LFP,PHEV,Other,Fisker,Car-F,,2020-12-21,"Fisker Karma EREV/PHEV/Car-F/20,1"
+"7,6",Panasonic-Sanyo,NMC,PHEV,Ford,Ford,MPV-C,,2020-12-21,"Ford C-Max Energi PHEV/PHEV/MPV-C/7,6"
+23,LG Chem,NMC,BEV,Ford,Ford,Car-C,,2020-12-21,Ford Focus Electric EV/BEV/Car-C/23
+"7,6",Panasonic-Sanyo,NMC,PHEV,Ford,Ford,Car-D,,2020-12-21,"Ford Fusion Energi PHEV/PHEV/Car-D/7,6"
+"14,4",Samsung SDI,NMC,PHEV,Ford,Ford,SUV-C,,2020-12-21,"Ford Kuga / Escape PHEV/PHEV/SUV-C/14,4"
+9,GS Yuasa,LMO,PHEV,Honda Motor,Honda,Car-D,,2020-12-21,Honda Accord PHEV/PHEV/Car-D/9
+"25,5",Unknown,Unknown Li-Ion,BEV,Honda Motor,Honda,Car-D,CCS,2020-12-21,"Honda Clarity BEV/BEV/Car-D/25,5"
+17,Panasonic,NMC,PHEV,Honda Motor,Honda,Car-D,,2020-12-21,Honda Clarity PHEV/PHEV/Car-D/17
+14,Blue Energy,Unknown Li-Ion,FCEV,Honda Motor,Honda,Car-D,,2020-12-21,Honda Clarity FCEV/FCEV/Car-D/14
+24,Toshiba,Unknown Li-Ion,BEV,Honda Motor,Honda,MPV-A,,2020-12-21,Honda Fit EV/BEV/MPV-A/24
+42 / 67,LG Chem,NMC,BEV,Hyundai Motor,Hyundai,SUV-C,CCS,2020-12-21,Hyundai Kona EV/BEV/SUV-C/42 / 67
+"8,9",LG Chem,NMC,PHEV,Hyundai Motor,Hyundai,Car-C,,2020-12-21,"Hyundai Ioniq PHEV/PHEV/Car-C/8,9"
+28 / 42,LG Chem,NMC,BEV,Hyundai Motor,Hyundai,Car-C,CCS,2020-12-21,Hyundai Ioniq Electric EV/BEV/Car-C/28 / 42
+"9,8",LG Chem,NMC,PHEV,Hyundai Motor,Hyundai,Car-D,,2020-12-21,"Hyundai Sonata PHEV/PHEV/Car-D/9,8"
+"0,95",Unknown,LMP,FCEV,Hyundai Motor,Hyundai,SUV-D,,2020-12-21,"Hyundai Tucson / ix35 FCEV/FCEV/SUV-D/0,95"
+"1,56",Unknown,Unknown,FCEV,Hyundai Motor,Hyundai,SUV-D,,2020-12-21,"Hyundai Nexo FCEV/FCEV/SUV-D/1,56"
+90,LG Chem,NMC,BEV,Tata-JLR,Jaguar,SUV-D,CCS,2020-12-21,Jaguar i-Pace EV/BEV/SUV-D/90
+30,SK-Group,NMC,BEV,Hyundai Motor,Kia,MPV-B,ChaDeMo,2020-12-21,Kia Soul EV/BEV/MPV-B/30
+42 / 67,SK-Group,NMC,BEV,Hyundai Motor,Kia,MPV-C,CCS,2020-12-21,Kia e-Soul EV/BEV/MPV-C/42 / 67
+42 / 67,SK-Group,NMC,BEV,Hyundai Motor,Kia,SUV-C,CCS,2020-12-21,Kia Niro EV/BEV/SUV-C/42 / 67
+"8,9",SK-Group,NMC,PHEV,Hyundai Motor,Kia,SUV-C,,2020-12-21,"Kia Niro PHEV/PHEV/SUV-C/8,9"
+"9,8",LG Chem,NMC,PHEV,Hyundai Motor,Kia,Car-D,,2020-12-21,"Kia K5 / Optima PHEV/PHEV/Car-D/9,8"
+"13,1",Samsung SDI,NMC,PHEV,Tata-JLR,Range Rover,SUV-E,,2020-12-21,"Range Rover Sport PHEV/PHEV/SUV-E/13,1"
+"13,1",Samsung SDI,NMC,PHEV,Tata-JLR,Range Rover,SUV-E,,2020-12-21,"Range Rover PHEV/PHEV/SUV-E/13,1"
+"13,6",unknown,NMC,PHEV,Ford,Lincoln,SUV-E,,2020-12-21,"Lincoln Aviator PHEV/PHEV/SUV-E/13,6"
+28,Panasonic,NCA,BEV,Daimler AG,Mercedes-Benz,MPV-C,,2020-12-21,Mercedes B-Class EV/BEV/MPV-C/28
+"8,7",LG Chem,NMC,PHEV,Daimler AG,Mercedes-Benz,Car-D,,2020-12-21,"Mercedes C350e PHEV/PHEV/Car-D/8,7"
+"8,7",LG Chem,NMC,PHEV,Daimler AG,Mercedes-Benz,SUV-D,,2020-12-21,"Mercedes GLC350e PHEV/PHEV/SUV-D/8,7"
+"13,5",SK-Group,NMC,PHEV,Daimler AG,Mercedes-Benz,SUV-D,,2020-12-21,"Mercedes GLC300e/de PHEV/PHEV/SUV-D/13,5"
+"8,7",LG Chem,NMC,PHEV,Daimler AG,Mercedes-Benz,SUV-E,,2020-12-21,"Mercedes GLE500e PHEV/PHEV/SUV-E/8,7"
+"13,5",SK-Group,NMC,PHEV,Daimler AG,Mercedes-Benz,SUV-E,,2020-12-21,"Mercedes GLE560e PHEV/PHEV/SUV-E/13,5"
+"8,7",LG Chem,NMC,PHEV,Daimler AG,Mercedes-Benz,Car-F,,2020-12-21,"Mercedes S500e PHEV/PHEV/Car-F/8,7"
+"13,5",SK-Group,NMC,PHEV,Daimler AG,Mercedes-Benz,Car-F,,2020-12-21,"Mercedes S560e PHEV/PHEV/Car-F/13,5"
+"32,6",CATL,NMC,BEV,BMW Group,Mini,Car-B,CCS,2020-12-21,"Mini Cooper SE EV/BEV/Car-B/32,6"
+"7,7 / 9,7",Samsung SDI,NMC,PHEV,BMW Group,Mini,SUV-C,,2020-12-21,"Mini Countryman PHEV/PHEV/SUV-C/7,7 / 9,7"
+16,GS Yuasa,LTO,BEV,R-N-M Alliance,Mitsubishi,Car-A,ChaDeMo,2020-12-21,Mitsubishi I-Miev EV/BEV/Car-A/16
+12,GS Yuasa,LMO,PHEV,R-N-M Alliance,Mitsubishi,SUV-D,ChaDeMo,2020-12-21,Mitsubishi Outlander PHEV/PHEV/SUV-D/12
+24 / 30,AESC,LMO,BEV,R-N-M Alliance,Nissan,Car-C,ChaDeMo,2020-12-21,Nissan Leaf EV/BEV/Car-C/24 / 30
+40 / 62,AESC,NMC,BEV,R-N-M Alliance,Nissan,Car-C,ChaDeMo,2020-12-21,Nissan Leaf EV/BEV/Car-C/40 / 62
+"6,8",Panasonic-Sanyo,NMC,PHEV,VW Group,Porsche,SS,Optional,2020-12-21,"Porsche 918 PHEV/PHEV/SS/6,8"
+"10,8",Samsung SDI,NMC,PHEV,VW Group,Porsche,SUV-E,,2020-12-21,"Porsche Cayenne PHEV/PHEV/SUV-E/10,8"
+"14,1",Samsung SDI,NMC,PHEV,VW Group,Porsche,SUV-E,,2020-12-21,"Porsche Cayenne PHEV/PHEV/SUV-E/14,1"
+"9,4",Panasonic-Sanyo,NMC,PHEV,VW Group,Porsche,Car-F,,2020-12-21,"Porsche Panamera PHEV/PHEV/Car-F/9,4"
+"14,1",Samsung SDI,NMC,PHEV,VW Group,Porsche,Car-F,,2020-12-21,"Porsche Panamera PHEV/PHEV/Car-F/14,1"
+93 / 79,LG Chem,NMC,BEV,VW Group,Porsche,Car-F,CCS,2020-12-21,Porsche Taycan EV/BEV/Car-F/93 / 79
+"17,6",LG Chem,NMC,BEV,Daimler AG,Smart,Car-A,,2020-12-21,"Smart Fortwo EV/BEV/Car-A/17,6"
+"8,8",Panasonic,NCA,PHEV,Subaru Corp.,Subaru,SUV-C,,2020-12-21,"Subaru Crosstrek PHEV/PHEV/SUV-C/8,8"
+80 / 62,Panasonic,NCA,BEV,Tesla Inc.,Tesla,Car-D,Tesla SC,2020-12-21,Tesla Model 3/BEV/Car-D/80 / 62
+80,Panasonic,NCA,BEV,Tesla Inc.,Tesla,SUV-D,Tesla SC,2020-12-21,Tesla Model Y/BEV/SUV-D/80
+60/75/85/90/100,Panasonic,NCA,BEV,Tesla Inc.,Tesla,Car-E,Tesla SC,2020-12-21,Tesla Model S/BEV/Car-E/60/75/85/90/100
+60/75/90/100,Panasonic,NCA,BEV,Tesla Inc.,Tesla,SUV-E,Tesla SC,2020-12-21,Tesla Model X/BEV/SUV-E/60/75/90/100
+53,LG Chem,LCO,BEV,Tesla Inc.,Tesla,SS,,2020-12-21,Tesla Roadster/BEV/SS/53
+23,EnerDEL,Zebra,BEV,Other,Think,Car-A,,2020-12-21,Think City EV/BEV/Car-A/23
+"1,6",Panasonic,NiMH,FCEV,Toyota Motor Corp.,Toyota,Car-E,,2020-12-21,"Toyota Mirai FCEV/FCEV/Car-E/1,6"
+"4,4",Panasonic,NMC,PHEV,Toyota Motor Corp.,Toyota,Car-C,,2020-12-21,"Toyota Prius Gen-1 PHEV/PHEV/Car-C/4,4"
+"8,8",Panasonic,NMC,PHEV,Toyota Motor Corp.,Toyota,Car-C,,2020-12-21,"Toyota Prius Gen-2 PHEV/PHEV/Car-C/8,8"
+"41,8",Panasonic,NCA,BEV,Toyota Motor Corp.,Toyota,SUV-C,,2020-12-21,"Toyota RAV4 EV/BEV/SUV-C/41,8"
+"11,6",LG Chem,NMC,PHEV,Geely-Volvo Cars,Volvo,Car-D,,2020-12-21,"Volvo S60 PHEV/PHEV/Car-D/11,6"
+"10,4 / 11,6",LG Chem,NMC,PHEV,Geely-Volvo Cars,Volvo,SUV-D,,2020-12-21,"Volvo XC60 PHEV/PHEV/SUV-D/10,4 / 11,6"
+"9,2",CATL,NMC,PHEV,Geely-Volvo Cars,Volvo,Car-E,,2020-12-21,"Volvo S90 PHEV/PHEV/Car-E/9,2"
+"9,2 / 11,6",LG Chem,NMC,PHEV,Geely-Volvo Cars,Volvo,SUV-E,,2020-12-21,"Volvo XC90 PHEV/PHEV/SUV-E/9,2 / 11,6"
+"24,2",Panasonic-Sanyo,NMC,BEV,VW Group,VW,Car-C,CCS,2020-12-21,"VW e-Golf EV/BEV/Car-C/24,2"
+"35,8",Samsung SDI,NMC,BEV,VW Group,VW,Car-C,CCS,2020-12-21,"VW e-Golf EV/BEV/Car-C/35,8"
+"16,4",CATL,NMC,BEV,BAIC,Arcfox,Car-A,GB/T,2020-12-21,"BJEV ArcFox Lite EV/BEV/Car-A/16,4"
+"93,6",SK-Group,NMC,BEV,BAIC,Arcfox,SUV-D,GB/T,2020-12-21,"BJEV ArcFox Alpha-T EV/BEV/SUV-D/93,6"
+"30,4",CATL,NMC,BEV,BAIC,BJEV,Car-B,GB/T,2020-12-21,"BJEV E-Series EV/BEV/Car-B/30,4"
+48,Unknown,Unknown Li-Ion,BEV,BAIC,BJEV,SUV-B,GB/T,2020-12-21,BJEV EC5 / ET3 EV/BEV/SUV-B/48
+"20,3 / 30,7",CATL,NMC,BEV,BAIC,BJEV,Car-B,,2020-12-21,"BJEV EC-Series EV/BEV/Car-B/20,3 / 30,7"
+41,Unknown,NMC,BEV,BAIC,BJEV,Car-E,GB/T,2020-12-21,BJEV EH300 EV/BEV/Car-E/41
+38,CATL,NMC,BEV,BAIC,BJEV,Car-E,GB/T,2020-12-21,BJEV ES210 EV/BEV/Car-E/38
+38 / 45,CATL,NMC,BEV,BAIC,BJEV,Car-C,GB/T,2020-12-21,BJEV EU-Series EV/BEV/Car-C/38 / 45
+"53,6",CATL,NMC,BEV,BAIC,BJEV,Car-C,GB/T,2020-12-21,"BJEV EU-Series EV/BEV/Car-C/53,6"
+"60,2",CATL,NMC,BEV,BAIC,BJEV,Car-C,GB/T,2020-12-21,"BJEV EU-Series EV/BEV/Car-C/60,2"
+30/39/48/62,CATL,NMC,BEV,BAIC,BJEV,SUV-C,GB/T,2020-12-21,BJEV EX-Series EV /BEV/SUV-C/30/39/48/62
+"52,6",CATL,NMC,BEV,BAIC,BJEV,SUV-B,GB/T,2020-12-21,"BJEV EX3 EV/BEV/SUV-B/52,6"
+43,Unknown,Unknown Li-Ion,BEV,BAIC,BJEV,LCV,GB/T,2020-12-21,BJEV Weiwang 407 EV/BEV/LCV/43
+32,Hefei Guoxuan,LFP,BEV,BAIC,Changhe,LCV,,2020-12-21,Changhe EC100 EV/BEV/LCV/32
+27,Hefei Guoxuan,LFP,BEV,BAIC,Changhe,Car-A,,2020-12-21,Changhe EV3 EV/BEV/Car-A/27
+32,Hefei Guoxuan,LFP,BEV,BAIC,Changhe,MPV-B,,2020-12-21,Changhe X5E EV/BEV/MPV-B/32
+Unspec.,Unspec.,Unspec.,BEV,BAIC,Changhe,LCV,Unspec.,2020-12-21,Changhe Unspec. LCVs/BEV/LCV/Unspec.
+"52,9",Unknown,Unknown Li-Ion,BEV,BAIC,Foton,MPV-D,GB/T,2020-12-21,"Foton View EV/BEV/MPV-D/52,9"
+"11,4",Unknown,NMC,PHEV,BMW Group,BMW,Car-E,,2020-12-21,"BMW 530Le PHEV/PHEV/Car-E/11,4"
+13,CATL,NMC,PHEV,BMW Group,BMW,Car-E,,2020-12-21,BMW 530Le PHEV/PHEV/Car-E/13
+22/33/42,Samsung SDI,NMC,BEV,BMW Group,BMW,MPV-B,GB/T,2020-12-21,BMW i3 EV / EREV/BEV/MPV-B/22/33/42
+"10,7",CATL,NMC,PHEV,BMW Group,BMW,SUV-C,,2020-12-21,"BMW X1L 25e PHEV/PHEV/SUV-C/10,7"
+24,CATL,NMC,PHEV,BMW Group,BMW,SUV-C,,2020-12-21,BMW X1L 25e PHEV/PHEV/SUV-C/24
+"32,2",BYD,LFP,BEV,BYD,BYD,Car-A,GB/T,2020-12-21,"BYD e1 EV/BEV/Car-A/32,2"
+"47,3",BYD,NMC,BEV,BYD,BYD,Car-C,GB/T,2020-12-21,"BYD e2 HB EV/BEV/Car-C/47,3"
+"47,3",BYD,NMC,BEV,BYD,BYD,Car-C,GB/T,2020-12-21,"BYD e3 Sdn EV/BEV/Car-C/47,3"
+48,BYD,LFP,BEV,BYD,BYD,Car-C,GB/T,2020-12-21,BYD e5 300 EV/BEV/Car-C/48
+"60,5",BYD,NMC,BEV,BYD,BYD,Car-C,GB/T,2020-12-21,"BYD e5 450 EV/BEV/Car-C/60,5"
+61 / 82,BYD,LFP,BEV,BYD,BYD,MPV-D,GB/T,2020-12-21,BYD e6 EV/BEV/MPV-D/61 / 82
+16,BYD,LFP,PHEV,BYD,BYD,Car-C,,2020-12-21,BYD F3 DM PHEV/PHEV/Car-C/16
+48,BYD,LFP,BEV,BYD,BYD,Car-C,GB/T,2020-12-21,BYD Qin EV300/BEV/Car-C/48
+"60,5",BYD,NMC,BEV,BYD,BYD,Car-C,GB/T,2020-12-21,"BYD Qin EV450/BEV/Car-C/60,5"
+"56,4",BYD,NMC,BEV,BYD,BYD,Car-D,GB/T,2020-12-21,"BYD Qin Pro EV500/BEV/Car-D/56,4"
+"69,5",BYD,NMC,BEV,BYD,BYD,Car-D,GB/T,2020-12-21,"BYD Qin Pro EV600/BEV/Car-D/69,5"
+9,BYD,NMC,PHEV,BYD,BYD,Car-C,,2020-12-21,BYD Qin PHEV/PHEV/Car-C/9
+14,BYD,NMC,PHEV,BYD,BYD,Car-C,,2020-12-21,BYD Qin PHEV/PHEV/Car-C/14
+"14,4",BYD,NMC,PHEV,BYD,BYD,Car-D,,2020-12-21,"BYD Qin Pro PHEV/PHEV/Car-D/14,4"
+65 / 77,BYD,LFP,BEV,BYD,BYD,Car-E,GB/T,2020-12-21,BYD Han EV/BEV/Car-E/65 / 77
+22,BYD,NMC,PHEV,BYD,BYD,Car-E,,2020-12-21,BYD Han PHEV/PHEV/Car-E/22
+48,BYD,LFP,BEV,BYD,BYD,SUV-D,GB/T,2020-12-21,BYD Song E300 EV/BEV/SUV-D/48
+"59,1",BYD,NMC,BEV,BYD,BYD,SUV-D,GB/T,2020-12-21,"BYD Song EV400/EV500/BEV/SUV-D/59,1"
+"15,8",BYD,NMC,PHEV,BYD,BYD,SUV-D,,2020-12-21,"BYD Song PHEV/PHEV/SUV-D/15,8"
+71,BYD,NMC,BEV,BYD,BYD,SUV-D,GB/T,2020-12-21,BYD Song Pro EV/BEV/SUV-D/71
+"15,8",BYD,NMC,PHEV,BYD,BYD,SUV-D,,2020-12-21,"BYD Song Pro PHEV/PHEV/SUV-D/15,8"
+"15,8",BYD,NMC,PHEV,BYD,BYD,MPV-D,,2020-12-21,"BYD Song Max PHEV/PHEV/MPV-D/15,8"
+"59,1",BYD,NMC,PHEV,BYD,BYD,MPV-D,GB/T,2020-12-21,"BYD Song Max EV/PHEV/MPV-D/59,1"
+48,BYD,LFP,BEV,BYD,BYD,MPV-C,GB/T,2020-12-21,BYD M3 EV/BEV/MPV-C/48
+48,BYD,LFP,BEV,BYD,BYD,LCV,GB/T,2020-12-21,BYD T3 EV/BEV/LCV/48
+"18,4",BYD,LFP,PHEV,BYD,BYD,SUV-E,,2020-12-21,"BYD Tang PHEV/PHEV/SUV-E/18,4"
+24,BYD,NMC,PHEV,BYD,BYD,SUV-E,,2020-12-21,BYD Tang PHEV/PHEV/SUV-E/24
+"82,8",BYD,NMC,BEV,BYD,BYD,SUV-E,GB/T,2020-12-21,"BYD Tang EV/BEV/SUV-E/82,8"
+"42,6",BYD,LFP,BEV,BYD,BYD,SUV-C,GB/T,2020-12-21,"BYD Yuan EV360/BEV/SUV-C/42,6"
+53,BYD,NMC,BEV,BYD,BYD,SUV-C,GB/T,2020-12-21,BYD Yuan EV535/BEV/SUV-C/53
+"40,2",BYD,NMC,BEV,BYD,BYD,SUV-C,GB/T,2020-12-21,"BYD S2 EV/BEV/SUV-C/40,2"
+"30,7",CATL,NMC,BEV,Changan Automobile Group,Changan,Car-B,GB/T,2020-12-21,"Changan Benni EV/BEV/Car-B/30,7"
+"17,2",Farasis Energy,NMC,BEV,Changan Automobile Group,Changan,Car-A,,2020-12-21,"Changan Benni Mini-e EV/BEV/Car-A/17,2"
+"32,9",Unknown,NMC,BEV,Changan Automobile Group,Changan,Car-B,GB/T,2020-12-21,"Changan Ruiching ES30 EV/BEV/Car-B/32,9"
+"48,3",CALB,NMC,BEV,Changan Automobile Group,Changan,SUV-C,GB/T,2020-12-21,"Changan CS15 EV/BEV/SUV-C/48,3"
+"12,4",CATL,NMC,PHEV,Changan Automobile Group,Changan,SUV-D,,2020-12-21,"Changan CS75 PHEV/PHEV/SUV-D/12,4"
+53,BYD,NMC,BEV,Changan Automobile Group,Changan,SUV-C,GB/T,2020-12-21,Changan CS55 e-Rock EV/BEV/SUV-C/53
+"45,6",CATL,NMC,BEV,Changan Automobile Group,Changan,Car-C,GB/T,2020-12-21,"Changan Eado EV/BEV/Car-C/45,6"
+"52,6",CATL,NMC,BEV,Changan Automobile Group,Changan,Car-D,GB/T,2020-12-21,"Changan Eado EV/BEV/Car-D/52,6"
+"12,4",CATL,NMC,PHEV,Changan Automobile Group,Changan,Car-C,,2020-12-21,"Changan Eado PHEV/PHEV/Car-C/12,4"
+"52,6",CATL,NMC,BEV,Changan Automobile Group,Changan,Car-C,GB/T,2020-12-21,"Changan Eado ET EV/BEV/Car-C/52,6"
+"42,6",Lishen,NMC,BEV,Changan Automobile Group,Changan,MPV-B,GB/T,2020-12-21,"Changan Eulove EV/BEV/MPV-B/42,6"
+21,Unknown,NMC,BEV,Changan Automobile Group,Changan,Car-A,GB/T,2020-12-21,Changan Niou II EV/BEV/Car-A/21
+40,Unknown,Unknown Li-Ion,BEV,Changan Automobile Group,Changan,LCV,Unknown,2020-12-21,Changan F202 Minivan EV/BEV/LCV/40
+Unspec.,Unspec.,Unspec.,BEV,Changan Automobile Group,Changan,LCV,Unspec.,2020-12-21,Changan Unspec. LCVs/BEV/LCV/Unspec.
+53,Unknown,Unknown Li-Ion,BEV,Changan Automobile Group,Oushang,SUV-C,GB/T,2020-12-21,Oushang X5 EV/BEV/SUV-C/53
+70,Unknown,LFP,BEV,Changan Automobile Group,Oushang,SUV-D,GB/T,2020-12-21,Oushang X7 EV/BEV/SUV-D/70
+"56,7",Ankao Suzhou,LFP,BEV,Changan Automobile Group,Oushang,MPV-C,GB/T,2020-12-21,"Oushang A600 EV/BEV/MPV-C/56,7"
+"57,9",Unknown,LFP,BEV,Changan Automobile Group,Oushang,MPV-D,GB/T,2020-12-21,"Oushang Cosmos EV/BEV/MPV-D/57,9"
+"54,3",Tianjin EV Energies,NMC,BEV,Chery Automobile,Chery,Car-C,GB/T,2020-12-21,"Chery Arrizo 5E EV/BEV/Car-C/54,3"
+"9,2",Samsung SDI,NMC,PHEV,Chery Automobile,Chery,Car-D,,2020-12-21,"Chery Arrizo 7 PHEV /PHEV/Car-D/9,2"
+70 / 88,Unknown,Unknown Li-Ion,BEV,Chery Automobile,Chery,SUV-D,GB/T,2020-12-21,Chery Ant eQ5 EV/BEV/SUV-D/70 / 88
+"31,7",Wanxiang 123 ,NMC,BEV,Chery Automobile,Chery,Car-A,,2020-12-21,"Chery eQ EV/BEV/Car-A/31,7"
+"22,4",Wanxiang 123 ,LMO,BEV,Chery Automobile,Chery,Car-A,,2020-12-21,"Chery eQ EV/BEV/Car-A/22,4"
+35,CATL,NMC,BEV,Chery Automobile,Chery,Car-A,GB/T,2020-12-21,Chery eQ1 EV/BEV/Car-A/35
+32,Tianjin EV Energies,LFP,BEV,Chery Automobile,Chery,Car-A,,2020-12-21,Chery eQ1 EV/BEV/Car-A/32
+45,Unknown,Unknown,BEV,Chery Automobile,Chery,Car-B,GB/T,2020-12-21,Chery eQ2 EV/BEV/Car-B/45
+"22,3",China BAK,LFP,BEV,Chery Automobile,Chery,Car-A,,2020-12-21,"Chery QQ3 EV/BEV/Car-A/22,3"
+"22,3",China BAK,LFP,BEV,Chery Automobile,Chery,Car-A,,2020-12-21,"Chery Riich M1 EV/BEV/Car-A/22,3"
+49,Tianjin EV Energies,NMC,BEV,Chery Automobile,Chery,SUV-C,GB/T,2020-12-21,Chery Tiggo 3xe EV/BEV/SUV-C/49
+"53,6",Unknown,Unknown,BEV,Chery Automobile,Chery,SUV-C,GB/T,2020-12-21,"Chery Tiggo E EV/BEV/SUV-C/53,6"
+56,Unknown,Unknown,BEV,Chery Automobile,Jetour,SUV-D,GB/T,2020-12-21,Jetour X70S EV/BEV/SUV-D/56
+34,Unknown,Unknown,BEV,Chery Automobile,Karry,LCV,GB/T,2020-12-21,Chery Karry Yoyo EV/BEV/LCV/34
+"45,3",Shunzhihang Energy Technology,NMC,BEV,Chery Automobile,Karry,MPV-D,GB/T,2020-12-21,"Chery Karry K60 EV/BEV/MPV-D/45,3"
+Unspec.,Unspec.,Unspec.,BEV,Chery Automobile,Karry,LCV,Unspec.,2020-12-21,Chery Karry Unspec. LCVs/BEV/LCV/Unspec.
+"40,5",CATL,NMC,PHEV,CHJ Automotive,Li Xiang,SUV-E,,2020-12-21,"Li Xiang One EREV/PHEV/SUV-E/40,5"
+47,BYD,LFP,BEV,Daimler AG,Denza,MPV-C,GB/T,2020-12-21,Denza-BYD EV/BEV/MPV-C/47
+62,BYD,LFP,BEV,Daimler AG,Denza,MPV-C,GB/T,2020-12-21,Denza-BYD EV/BEV/MPV-C/62
+70,BYD,NMC,BEV,Daimler AG,Denza,MPV-C,GB/T,2020-12-21,Denza-BYD EV/BEV/MPV-C/70
+"82,8",BYD,NMC,BEV,Daimler AG,Denza,SUV-E,GB/T,2020-12-21,"Denza-BYD X EV/BEV/SUV-E/82,8"
+24,BYD,NMC,PHEV,Daimler AG,Denza,SUV-E,,2020-12-21,Denza-BYD X PHEV/PHEV/SUV-E/24
+"13,5",SK-Group,NMC,PHEV,Daimler AG,Mercedes-Benz,Car-E,,2020-12-21,"Mercedes E300e/de PHEV/PHEV/Car-E/13,5"
+80,CATL,NMC,BEV,Daimler AG,Mercedes-Benz,SUV-D,GB/T,2020-12-21,Mercedes EQC 400 EV/BEV/SUV-D/80
+"52,6",Unknown,Unknown Li-Ion,BEV,Dongfeng Motor,Fengguang,SUV-C,GB/T,2020-12-21,"Dongfeng Fengguang 580 E3 EV/BEV/SUV-C/52,6"
+"12,7",Unknown,NMC,PHEV,Dongfeng Motor,Fengguang,SUV-C,,2020-12-21,"Dongfeng Fengguang 580 E3 PHEV/PHEV/SUV-C/12,7"
+"20,5",AESC,LMO,BEV,Dongfeng Motor,Dongfeng,Car-A,GB/T,2020-12-21,"Dongfeng E30/E30L EV/BEV/Car-A/20,5"
+57,Unknown,Unknown Li-Ion,BEV,Dongfeng Motor,Dongfeng,PUP-D,GB/T,2020-12-21,Dongfeng-Nissan Rich-6 EV/BEV/PUP-D/57
+38 / 57,Sunwoda,NMC,BEV,Dongfeng Motor,Dongfeng,MPV-C,Unknown,2020-12-21,Dongfeng Succe/S50 EV/BEV/MPV-C/38 / 57
+22,China BAK,NMC,BEV,Dongfeng Motor,Dongfeng,Car-A,Unknown,2020-12-21,Dongfeng-Yulon Yulu EV2/BEV/Car-A/22
+"26,8",Unknown,NMC,BEV,Dongfeng Motor,Fengguang,SUV-A,GB/T,2020-12-21,"Dongfeng-Renault Fengguang E1 EV/BEV/SUV-A/26,8"
+"26,8",Unknown,NMC,BEV,Dongfeng Motor,Fengshen,SUV-A,GB/T,2020-12-21,"Dongfeng-Renault Fengshen EX1 EV/BEV/SUV-A/26,8"
+51,CATL,NMC,BEV,Dongfeng Motor,Fengshen,Car-D,GB/T,2020-12-21,Dongfeng Fengshen E60 / E70 EV/BEV/Car-D/51
+"47,7",Unknown,NMC,BEV,Dongfeng Motor,Fengshen,Car-D,GB/T,2020-12-21,"Dongfeng Fengshen Yixuan EV/BEV/Car-D/47,7"
+38 / 57,Sunwoda,NMC,BEV,Dongfeng Motor,Fengxing,Car-D,GB/T,2020-12-21,Dongfeng Fengxing Jingyi S50 EV/BEV/Car-D/38 / 57
+40,Unknown,Unknown Li-Ion,BEV,Dongfeng Motor,Fengxing,MPV-E,GB/T,2020-12-21,Dongfeng Fengxing Lingzhi M5 EV/BEV/MPV-E/40
+"35,6",Lishen,LFP,BEV,Dongfeng Motor,Horki,Car-C,Unknown,2020-12-21,"Dongfeng Horki 300E EV/BEV/Car-C/35,6"
+43 / 49,CATL,NMC,BEV,Dongfeng Motor,Jun Feng,Car-D,GB/T,2020-12-21,Dongfeng Jun Feng E17 EV/BEV/Car-D/43 / 49
+"31,8",Lishen,NMC,BEV,Dongfeng Motor,Jun Feng,Car-B,,2020-12-21,"Dongfeng Jun Feng ER30 EV/BEV/Car-B/31,8"
+40 / 45 / 60,Unknown,Unknown Li-Ion,BEV,Dongfeng Motor,Jun Feng,Car-C,GB/T,2020-12-21,Dongfeng Jun Feng EJ30 EV/BEV/Car-C/40 / 45 / 60
+"49,1",Lishen,NMC,BEV,Dongfeng Motor,Luxgen,SUV-C,GB/T,2020-12-21,"Yulon Luxgen U5 EV/BEV/SUV-C/49,1"
+24,AESC,LMO,BEV,Dongfeng Motor,Venucia,Car-C,GB/T,2020-12-21,Dongfeng-Nissan Venucia EV/BEV/Car-C/24
+60,AESC,NMC,BEV,Dongfeng Motor,Venucia,SUV-C,GB/T,2020-12-21,Dongfeng-Nissan Venucia T60 EV/BEV/SUV-C/60
+60,AESC,NMC,BEV,Dongfeng Motor,Venucia,Car-C,GB/T,2020-12-21,Dongfeng-Nissan Venucia D60 EV/BEV/Car-C/60
+"26,8",Unknown,NMC,BEV,Dongfeng Motor,Venucia,SUV-A,GB/T,2020-12-21,"Dongfeng-Nissan Venucia e30 EV/BEV/SUV-A/26,8"
+"38,2",Soundon,NMC,BEV,Dongfeng Motor,Xiaokang,LCV,GB/T,2020-12-21,"Dongfeng Xiaokang EC36 EV/BEV/LCV/38,2"
+"41,4",Unknown,Unknown Li-Ion,BEV,Dongfeng Motor,Xiaokang,LCV,,2020-12-21,"Dongfeng-Sokon EC35 EV/BEV/LCV/41,4"
+"28,8",Unknown,Unknown Li-Ion,BEV,FAW,Besturn,Car-C,GB/T,2020-12-21,"FAW Besturn B30 EV/BEV/Car-C/28,8"
+"52,5",CATL,NMC,BEV,FAW,Besturn,SUV-C,GB/T,2020-12-21,"FAW Besturn X40 EV/BEV/SUV-C/52,5"
+"52,5",CATL,NMC,BEV,FAW,Besturn,SUV-C,GB/T,2020-12-21,"FAW Besturn C105 EV/BEV/SUV-C/52,5"
+27,Wanxiang 123 ,Unknown Li-Ion,BEV,FAW,Haima,Car-C,Unknown,2020-12-21,FAW Haima @3 (M3) EV/BEV/Car-C/27
+"18,7",China BAK,NMC,BEV,FAW,Haima,Car-B,Unknown,2020-12-21,"FAW Haima Aishang (E1) EV/BEV/Car-B/18,7"
+52,Beijing iDrive,Unknown,BEV,FAW,Haima,LCV,Unknown,2020-12-21,FAW Haima Rongda EV/BEV/LCV/52
+"52,6",CATL,NMC,BEV,FAW,Hongqi,SUV-C,GB/T,2020-12-21,"FAW Hongqi E-HS3 EV/BEV/SUV-C/52,6"
+"12,8",Unknown,Unknown Li-Ion,PHEV,FAW,Hongqi,Car-F,,2020-12-21,"FAW Hongqi H7 PHEV/PHEV/Car-F/12,8"
+"32,2",Unknown,NMC,BEV,FAW,Junpai,Car-C,Unknown,2020-12-21,"FAW Junpai A70E/BEV/Car-C/32,2"
+52,Beijing iDrive,NMC,BEV,FAW,Senia,SUV-C,GB/T,2020-12-21,FAW Senia R7 EV/BEV/SUV-C/52
+"35,1",Tafel,NMC,BEV,FAW,Sitech,MPV-A,GB/T,2020-12-21,"FAW Sitech GEV / DEV1 EV/BEV/MPV-A/35,1"
+13,CATL,NMC,PHEV,FCA,Foat,SUV-C,,2020-12-21,FCA-GAC Foat Yuejie PHEV/PHEV/SUV-C/13
+18,Unknown,NMC,PHEV,FCA,Jeep,SUV-E,,2020-12-21,Jeep Grand Commander PHEV/PHEV/SUV-E/18
+"7,6",Panasonic-Sanyo,NMC,PHEV,Ford,Ford,Car-D,,2020-12-21,"Ford Mondeo Energi PHEV/PHEV/Car-D/7,6"
+55,Unknown,NMC,BEV,Ford,Ford,SUV-C,GB/T,2020-12-21,Ford-JMC Territory EV/BEV/SUV-C/55
+"48,2",Lishen,NMC,BEV,GAC,Leopaard,SUV-C,GB/T,2020-12-21,"GAC Leopaard CS9 EV/BEV/SUV-C/48,2"
+46,LG Chem,NMC,BEV,GAC,Trumpchi,SUV-C,GB/T,2020-12-21,GAC Trumpchi GS4 EV/BEV/SUV-C/46
+13,CATL,NMC,PHEV,GAC,Trumpchi,Car-C,,2020-12-21,GAC Trumpchi GA3S PHEV/PHEV/Car-C/13
+12,CATL,NMC,PHEV,GAC,Trumpchi,Car-E,,2020-12-21,GAC Trumpchi GA5 EREV/PHEV/Car-E/12
+"54,8",CATL,NMC,BEV,GAC,Trumpchi,SUV-C,GB/T,2020-12-21,"GAC Trumpchi GE3 EV/BEV/SUV-C/54,8"
+13,CATL,NMC,PHEV,GAC,Trumpchi,SUV-C,GB/T,2020-12-21,GAC Trumpchi GS4 PHEV/PHEV/SUV-C/13
+"58,8",CATL,NMC,BEV,GAC,Trumpchi,Car-D,GB/T,2020-12-21,"GAC Trumpchi Aion S EV/BEV/Car-D/58,8"
+59/73/93,CATL,NMC,BEV,GAC,Trumpchi,SUV-C,GB/T,2020-12-21,GAC Trumpchi Aion V EV/BEV/SUV-C/59/73/93
+73 / 93,CATL,NMC,BEV,GAC,Trumpchi,SUV-D,GB/T,2020-12-21,GAC Trumpchi Aion LX EV/BEV/SUV-D/73 / 93
+73 / 93,CATL,NMC,BEV,GAC-NIO,Hycan,SUV-E,GB/T,2020-12-21,Hycan 007 EV/BEV/SUV-E/73 / 93
+"11,3",Sunwoda,NMC,PHEV,Geely Auto Group,Emgrand,Car-C,,2020-12-21,"Geely Emgrand PHEV/PHEV/Car-C/11,3"
+41 / 52,CATL,NMC,BEV,Geely Auto Group,Emgrand,Car-C,GB/T,2020-12-21,Geely Emgrand EV/BEV/Car-C/41 / 52
+52,CATL,NMC,BEV,Geely Auto Group,Emgrand,SUV-C,GB/T,2020-12-21,Geely Emgrand GSE EV/BEV/SUV-C/52
+"11,3",Sunwoda,NMC,PHEV,Geely Auto Group,Emgrand,Car-D,,2020-12-21,"Geely Emgrand GL PHEV/PHEV/Car-D/11,3"
+"26,4",Lishen,NMC,BEV,Geely Auto Group,Geely,Car-A,GB/T,2020-12-21,"Geely / Kandi EK-2 Panda EV/BEV/Car-A/26,4"
+"11,3",CATL,NMC,PHEV,Geely Auto Group,Geely,Car-E,,2020-12-21,"Geely BoRui GE PHEV/PHEV/Car-E/11,3"
+"11,3",CATL,NMC,PHEV,Geely Auto Group,Geely,SUV-C,,2020-12-21,"Geely Bin Yue PHEV/PHEV/SUV-C/11,3"
+"11,3 / 15,5",CATL,NMC,PHEV,Geely Auto Group,Geely,SUV-D,,2020-12-21,"Geely Xin Yue (Star) PHEV/PHEV/SUV-D/11,3 / 15,5"
+"11,3",CATL,NMC,PHEV,Geely Auto Group,Geely,MPV-D,,2020-12-21,"Geely VP11 Jiaji PHEV/PHEV/MPV-D/11,3"
+"51,9 / 61,9",CATL,NMC,BEV,Geely Auto Group,Geometry,SUV-C,GB/T,2020-12-21,"Geely Geometry-C EV/BEV/SUV-C/51,9 / 61,9"
+"61,9",CATL,NMC,BEV,Geely Auto Group,Geometry,Car-D,GB/T,2020-12-21,"Geely Geometry-A EV/BEV/Car-D/61,9"
+9,CATL,NMC,PHEV,Geely Auto Group,Lynk & Co,SUV-C,,2020-12-21,Geely Lynk & Co 01 PHEV/PHEV/SUV-C/9
+9,CATL,NMC,PHEV,Geely Auto Group,Lynk & Co,Car-C,,2020-12-21,Geely Lynk & Co 02 PHEV/PHEV/Car-C/9
+9,CATL,NMC,PHEV,Geely Auto Group,Lynk & Co,Car-D,,2020-12-21,Geely Lynk & Co 03 PHEV/PHEV/Car-D/9
+9,CATL,NMC,PHEV,Geely Auto Group,Lynk & Co,SUV-B,,2020-12-21,Geely Lynk & Co 06 PHEV/PHEV/SUV-B/9
+45,Unknown,Unknown Li-Ion,BEV,Geely Auto Group,Maple,SUV-B,GB/T,2020-12-21,Geely Maple 30X EV/BEV/SUV-B/45
+50,Hefei Guoxuan,NMC,BEV,Geely Auto Group,Maple,MPV-D,GB/T,2020-12-21,Geely Maple 80V EV/BEV/MPV-D/50
+"18,6",Harbin Coslight,NMC,BEV,Geely Auto Group,ZhiDou,Car-A,,2020-12-21,"Geely ZhiDou D1/D2 EV/BEV/Car-A/18,6"
+23 / 33,DFDX,NMC,BEV,Geely Auto Group,ZhiDou,Car-A,,2020-12-21,Geely ZhiDou D3 EV/BEV/Car-A/23 / 33
+31,LG Chem,NMC,PHEV,Geely NECV Group,LEVC,LCV,ChaDeMo,2020-12-21,LEVC VN5 EREV/PHEV/LCV/31
+27,Unknown,NMC,PHEV,Geely-Volvo Cars,Polestar,SS,GB/T,2020-12-21,Polestar 1 PHEV/PHEV/SS/27
+78,CATL,NMC,BEV,Geely-Volvo Cars,Polestar,Car-D,GB/T,2020-12-21,Polestar 2 EV/BEV/Car-D/78
+24,EnerDEL,Unknown Li-Ion,BEV,Geely-Volvo Cars,Volvo,Car-C,,2020-12-21,Volvo C30 EV/BEV/Car-C/24
+8,Hefei Guoxuan,NMC,PHEV,Geely-Volvo Cars,Volvo,Car-D,,2020-12-21,Volvo S60L PHEV/PHEV/Car-D/8
+"9,2 / 11,8",Forever New Energy,NMC,PHEV,Geely-Volvo Cars,Volvo,SUV-D,,2020-12-21,"Volvo XC60 PHEV/PHEV/SUV-D/9,2 / 11,8"
+24,CATL,LFP,BEV,GM,Baojun,Car-A,GB/T,2020-12-21,GM-SAIC Baojun E50/E100/E200 EV/BEV/Car-A/24
+"18,4",LG Chem,NMC,PHEV,GM,Buick,Car-C,,2020-12-21,"Buick Velite 5 EREV/PHEV/Car-C/18,4"
+"9,5",LG Chem,NMC,PHEV,GM,Buick,Car-D,,2020-12-21,"Buick Velite 6 PHEV/PHEV/Car-D/9,5"
+35,Wanxiang 123 ,NMC,BEV,GM,Buick,Car-D,GB/T,2020-12-21,Buick Velite 6 EV/BEV/Car-D/35
+"55,6",LG Chem,NMC,BEV,GM,Buick,SUV-C,GB/T,2020-12-21,"Buick Velite 7 EV/BEV/SUV-C/55,6"
+55,unknown,NMC,BEV,GM,Chevrolet,Car-C,GB/T,2020-12-21,Chevrolet Menlo EV/BEV/Car-C/55
+42,Unknown,Unknown Li-Ion,BEV,GM,Wuling,MPV-C,GB/T,2020-12-21,Wuling RongGuang L EV/BEV/MPV-C/42
+"13,8",CATL,NMC,BEV,GM,Wuling,Car-A,,2020-12-21,"Wuling HongGuang Mini EV/BEV/Car-A/13,8"
+37,CATL,NMC,BEV,Great Wall,Great Wall,Car-C,GB/T,2020-12-21,Great Wall C30 EV/BEV/Car-C/37
+"32,9",CATL,NMC,BEV,Great Wall,Ora,Car-A,GB/T,2020-12-21,"Great Wall Ora R1 / Black Cat EV/BEV/Car-A/32,9"
+38,CATL,NMC,BEV,Great Wall,Ora,Car-A,GB/T,2020-12-21,Great Wall Ora R2 / White Cat EV/BEV/Car-A/38
+"51,6",Farasis Energy,NMC,BEV,Great Wall,Ora,SUV-C,GB/T,2020-12-21,"Great Wall Ora iQ5 EV/BEV/SUV-C/51,6"
+13,CATL,NMC,PHEV,Great Wall,WEY,SUV-E,,2020-12-21,Great Wall WEY VV7 PHEV/PHEV/SUV-E/13
+13,CATL,NMC,PHEV,Great Wall,WEY,SUV-D,,2020-12-21,Great Wall WEY P8 PHEV/PHEV/SUV-D/13
+46,CATL,NMC,BEV,Great Wall-Yogomo,Link Tour,SUV-B,GB/T,2020-12-21,Link Tour K-One EV/BEV/SUV-B/46
+37,Unknown,NMC,BEV,Great Wall-Yogomo,Link Tour,SUV-A,,2020-12-21,Link Tour C99 EV/BEV/SUV-A/37
+37,Hefei Guoxuan,NMC,BEV,Great Wall-Yogomo,Link Tour,SUV-A,,2020-12-21,Link Tour E-Series EV/BEV/SUV-A/37
+"36,2",Unknown,NMC,BEV,Guoji Zhijun Auto,Zedriv,Car-B,GB/T,2020-12-21,"Zedriv GC1 / GC2 EV/BEV/Car-B/36,2"
+"46,4",Unknown,NMC,BEV,Guoji Zhijun Auto,Zedriv,SUV-C,GB/T,2020-12-21,"Zedriv GX5 EV/BEV/SUV-C/46,4"
+43,Hefei Guoxuan,NMC,BEV,Hanteng Automobile,Hanteng,SUV-C,GB/T,2020-12-21,Hanteng X5 EV/BEV/SUV-C/43
+"13,1",Hefei Guoxuan,NMC,PHEV,Hanteng Automobile,Hanteng,SUV-D,,2020-12-21,"Hanteng X7 PHEV/PHEV/SUV-D/13,1"
+"30,8",Unknown,Unknown Li-Ion,BEV,Hanteng Automobile,Hanteng,Car-B,GB/T,2020-12-21,"Hanteng Xingfu e+ EV/BEV/Car-B/30,8"
+21,Tianjin Hawtai EVE Power Source,NMC,BEV,Hawtai Motor Group,Hawtai,Car-A,,2020-12-21,Hawtai EV160/BEV/Car-A/21
+22,Tianjin Hawtai EVE Power Source,NMC,BEV,Hawtai Motor Group,Hawtai,Car-A,,2020-12-21,Hawtai Lusheng S1 EV/BEV/Car-A/22
+"39,2",Tianjin Hawtai EVE Power Source,NMC,BEV,Hawtai Motor Group,Hawtai,Car-D,GB/T,2020-12-21,"Hawtai iEV230 EV/BEV/Car-D/39,2"
+"39,2",Lishen,LFP,BEV,Hawtai Motor Group,Hawtai,Car-D,GB/T,2020-12-21,"Hawtai Lusheng E70EV/BEV/Car-D/39,2"
+61,Optimum Nano,LFP,BEV,Hawtai Motor Group,Hawtai,SUV-C,GB/T,2020-12-21,Hawtai Santa Fe 5 EV380 EV/BEV/SUV-C/61
+"48,9",Tianjin Hawtai EVE Power Source,LFP,BEV,Hawtai Motor Group,Hawtai,SUV-C,GB/T,2020-12-21,"Hawtai xEV260 EV/BEV/SUV-C/48,9"
+13,CATL,NMC,PHEV,Honda Motor,Honda,SUV-C,,2020-12-21,Honda-GAC Shirui PHEV/PHEV/SUV-C/13
+"53,6",Neusoft Reach,NMC,BEV,Honda Motor,Honda,SUV-B,GB/T,2020-12-21,"Honda-GAC Everus VE-1 EV/BEV/SUV-B/53,6"
+"53,6",Neusoft Reach,NMC,BEV,Honda Motor,Honda,SUV-B,GB/T,2020-12-21,"Honda-Dongfeng Ciimo XN-V EV/BEV/SUV-B/53,6"
+"35,5",Anhui Zhouzhihang,NMC,BEV,Hozon Auto,Hozon,SUV-B,GB/T,2020-12-21,"Hozon Nezha N01 EV/BEV/SUV-B/35,5"
+55 / 70,CATL,Unknown Li-Ion,BEV,Hozon Auto,Hozon,SUV-C,GB/T,2020-12-21,Hozon Nezha U EV/BEV/SUV-C/55 / 70
+"36,6",Lishen,NMC,BEV,Hyundai Motor,Hyundai,Car-C,GB/T,2020-12-21,"Hyundai Elantra GS EV/BEV/Car-C/36,6"
+"12,9",CATL,NMC,PHEV,Hyundai Motor,Hyundai,Car-C,,2020-12-21,"Hyundai Elantra PHEV/PHEV/Car-C/12,9"
+"56,5",CATL,NMC,BEV,Hyundai Motor,Hyundai,Car-D,GB/T,2020-12-21,"Hyundai Lafesta EV/BEV/Car-D/56,5"
+"12,9",CATL,NMC,PHEV,Hyundai Motor,Hyundai,Car-D,,2020-12-21,"Hyundai Sonata PHEV/PHEV/Car-D/12,9"
+67,LG Chem,NMC,BEV,Hyundai Motor,Hyundai,SUV-C,GB/T,2020-12-21,Hyundai Encino (Kona) EV/BEV/SUV-C/67
+"12,9",CATL,NMC,PHEV,Hyundai Motor,Kia,Car-C,,2020-12-21,"Kia K3 / Forte PHEV/PHEV/Car-C/12,9"
+"56,5",CATL,NMC,BEV,Hyundai Motor,Kia,Car-C,GB/T,2020-12-21,"Kia K3 / Forte EV/BEV/Car-C/56,5"
+"12,9",CATL,NMC,PHEV,Hyundai Motor,Kia,Car-D,,2020-12-21,"Kia K5 / Optima PHEV/PHEV/Car-D/12,9"
+45,Lishen,NMC,BEV,Hyundai Motor,Kia,SUV-C,GB/T,2020-12-21,Kia KX3 EV/BEV/SUV-C/45
+23,Hefei Guoxuan,NMC,BEV,JAC Motors,JAC iEV,Car-B,,2020-12-21,JAC iEV-Series EV/BEV/Car-B/23
+"59,7",Hefei Guoxuan,NMC,BEV,JAC Motors,JAC iEV,Car-C,GB/T,2020-12-21,"JAC iEV A-Series EV/BEV/Car-C/59,7"
+"40,5",Hefei Guoxuan,LFP,BEV,JAC Motors,JAC iEV,Car-A,,2020-12-21,"JAC iEV6E EV/BEV/Car-A/40,5"
+"54,8 / 64,5",Hefei Guoxuan,NMC,BEV,JAC Motors,JAC iEV,Car-D,GB/T,2020-12-21,"JAC iC5 EV/BEV/Car-D/54,8 / 64,5"
+33,Samsung SDI,NCA,BEV,JAC Motors,JAC iEV,SUV-B,GB/T,2020-12-21,JAC iEV6S EV/BEV/SUV-B/33
+"42,8",Hefei Guoxuan,LFP,BEV,JAC Motors,JAC iEV,SUV-B,GB/T,2020-12-21,"JAC iEV7S EV/BEV/SUV-B/42,8"
+66,Lishen,NMC,BEV,JAC Motors,JAC iEV,SUV-C,GB/T,2020-12-21,JAC iEVS4 EV/BEV/SUV-C/66
+"15,4",Farasis Energy,NMC,BEV,Jiangling Motors,JMC,Car-A,,2020-12-21,"JMC E100 EV/BEV/Car-A/15,4"
+"19,9",Farasis Energy,NMC,BEV,Jiangling Motors,JMC,Car-B,,2020-12-21,"JMC E160 EV/BEV/Car-B/19,9"
+"24,7",First Battery,NMC,BEV,Jiangling Motors,JMC,Car-A,GB/T,2020-12-21,"JMC E180 EV/BEV/Car-A/24,7"
+"28,4",First Battery,NMC,BEV,Jiangling Motors,JMC,Car-A,GB/T,2020-12-21,"JMC E200 EV/BEV/Car-A/28,4"
+"33,7",China BAK,NMC,BEV,Jiangling Motors,JMC,Car-A,GB/T,2020-12-21,"JMC E200 EV/BEV/Car-A/33,7"
+"31,9",CENAT,NMC,BEV,Jiangling Motors,JMC,Car-B,GB/T,2020-12-21,"JMC E300 EV (EV3)/BEV/Car-B/31,9"
+"41,2",Lixing,NMC,BEV,Jiangling Motors,JMC,SUV-C,GB/T,2020-12-21,"JMC E400 EV (EX5)/BEV/SUV-C/41,2"
+55,Unknown,NMC,BEV,Jiangling Motors,JMC,SUV-C,GB/T,2020-12-21,JMC Landwind EV/BEV/SUV-C/55
+22,Beijing National,NMC,BEV,Lifan Group,Lifan,Car-B,,2020-12-21,Lifan 330 EV/BEV/Car-B/22
+33,Shandong Hengyu,NMC,BEV,Lifan Group,Lifan,Car-C,GB/T,2020-12-21,Lifan 620/650 EV/BEV/Car-C/33
+"60,5",Shandong Hengyu,NMC,BEV,Lifan Group,Lifan,Car-D,GB/T,2020-12-21,"Lifan 820 EV/BEV/Car-D/60,5"
+61,Shandong Hengyu,NMC,BEV,Lifan Group,Lifan,SUV-C,GB/T,2020-12-21,Lifan Maiwei EV/BEV/SUV-C/61
+70/84/100,CATL,NMC,BEV,NIO Inc.,Nio,SUV-E,GB/T,2020-12-21,Nio EC6 EV/BEV/SUV-E/70/84/100
+70 / 84,CATL,NMC,BEV,NIO Inc.,Nio,SUV-E,GB/T,2020-12-21,Nio ES6 EV/BEV/SUV-E/70 / 84
+70 / 84,CATL,NMC,BEV,NIO Inc.,Nio,SUV-E,GB/T,2020-12-21,Nio ES8 EV/BEV/SUV-E/70 / 84
+60 / 75,CATL,Unknown Li-Ion,BEV,Other,Aiways,SUV-D,GB/T,2020-12-21,Aiways U5 EV/BEV/SUV-D/60 / 75
+65,CATL,NMC,BEV,Other,Borgward,SUV-D,GB/T,2020-12-21,Borgward BXi7 EV/BEV/SUV-D/65
+Unspec.,Unspec.,Unspec.,BEV,Other,Brilliance,LCV,Unspec.,2020-12-21,Brilliance Unspec. LCVs/BEV/LCV/Unspec.
+45,Unknown,Unknown,BEV,Other,Brilliance Jinbei,LCV,unknown,2020-12-21,Brilliance Jinbei (SRM) X30 EV/BEV/LCV/45
+24,CATL,LFP,BEV,Other,Brilliance Zinoro,SUV-C,,2020-12-21,Brilliance Zinoro 1E EV/BEV/SUV-C/24
+"10,7",CATL,Unknown,PHEV,Other,Brilliance Zinoro,SUV-C,,2020-12-21,"Brilliance Zinoro 60H PHEV/PHEV/SUV-C/10,7"
+45,Unknown,Unknown Li-Ion,BEV,Other,Dayun,SUV-C,GB/T,2020-12-21,Dayun S171 EV/BEV/SUV-C/45
+39,Unknown,Unknown Li-Ion,BEV,Other,Dayun,SUV-B,GB/T,2020-12-21,Dayun Shuaihu ES3 EV/BEV/SUV-B/39
+22,Unknown,Unknown,BEV,Other,Enranger,Car-A,,2020-12-21,Weichai Enranger EX1 EV/BEV/Car-A/22
+Unspec.,Unspec.,Unspec.,BEV,Other,Golden Dragon,LCV,Unspec.,2020-12-21,Golden Dragon Unspec. LCVs/BEV/LCV/Unspec.
+Unspec.,Unspec.,Unspec.,BEV,Other,Guangxi Auto,LCV,Unspec.,2020-12-21,Guangxi Unspec. LCVs/BEV/LCV/Unspec.
+"73,9",Unknown,LFP,BEV,Other,Joylong,LCV,GB/T,2020-12-21,"Joylong EF-Series EV/BEV/LCV/73,9"
+Unspec.,Unspec.,Unspec.,BEV,Other,King Long,LCV,Unspec.,2020-12-21,King Long Unspec. LCVs/BEV/LCV/Unspec.
+"36,5 / 48,0",Unknown,Unknown Li-Ion,BEV,Other,Ling Pao,SS,GB/T,2020-12-21,"LeapMotor LP-S01 EV/BEV/SS/36,5 / 48,0"
+"37,1",Unknown,Unknown Li-Ion,BEV,Other,Ling Pao,Car-A,GB/T,2020-12-21,"LeapMotor T03  EV/BEV/Car-A/37,1"
+"17,7",Unknown,LFP,BEV,Other,Lingbox,Car-A,GB/T,2020-12-21,"Lingbao BOX EV/BEV/Car-A/17,7"
+78,Unknown,NMC,BEV,Other,Qiantu,SS,GB/T,2020-12-21,Qiantu Q50 EV/BEV/SS/78
+"53,7",CATL,NMC,BEV,Other,Quoros,Car-C,GB/T,2020-12-21,"Qoros 3 EV/BEV/Car-C/53,7"
+33,DFDX,NMC,BEV,Other,Red Star,Car-A,Unknown,2020-12-21,Red Star Noble / Hongxing X2 EV/BEV/Car-A/33
+Unspec.,Unspec.,Unspec.,BEV,Other,Ruichi,LCV,Unspec.,2020-12-21,Ruichi Unspec. LCVs/BEV/LCV/Unspec.
+32,Wuhu ETC,NMC,BEV,Other,Saleen,Car-A,GB/T,2020-12-21,Saleen Maimai EV/BEV/Car-A/32
+33,Unknown,Unknown Li-Ion,PHEV,Other,Seres (SF Motors),SUV-D,Unknown,2020-12-21,Seres SF5 EREV/PHEV/SUV-D/33
+90,Unknown,Unknown Li-Ion,BEV,Other,Seres (SF Motors),SUV-D,Unknown,2020-12-21,Seres SF5 EV/BEV/SUV-D/90
+55 / 66,Team Giant,Unknown Li-Ion,BEV,Other,Sinogold,MPV-D,GB/T,2020-12-21,Sinogold GM3 EV/BEV/MPV-D/55 / 66
+50,Unknown,Unknown,BEV,Other,Skywell,MPV-E,GB/T,2020-12-21,Skywell Chuangyezhe MPV EV/BEV/MPV-E/50
+40,Unknown,Unknown,BEV,Other,Skywell,LCV,Unknown,2020-12-21,Skywell D07 EV/BEV/LCV/40
+Unspec.,Unspec.,Unspec.,BEV,Other,Skywell,LCV,Unspec.,2020-12-21,Skywell Unspec. LCVs/BEV/LCV/Unspec.
+40,Unknown,Unknown,BEV,Other,Suda,Car-C,GB/T,2020-12-21,SD1 Yinse EV/BEV/Car-C/40
+Unspec.,Unspec.,Unspec.,BEV,Other,Wanxiang,LCV,Unspec.,2020-12-21,Wanxiang Unspec. LCVs/BEV/LCV/Unspec.
+20,Unknown,Unknown Li-Ion,BEV,Other,Yunque,MPV-B,Unknown,2020-12-21,Yunque / Lark Q1 EV/BEV/MPV-B/20
+Unspec.,Unspec.,Unspec.,BEV,Other,Zoomlion,LCV,Unspec.,2020-12-21,Zoomlion Unspec. LCVs/BEV/LCV/Unspec.
+49,CATL,NMC,BEV,PSA Group,Citroen,Car-D,GB/T,2020-12-21,Citroen-DFM Fukang ES500 EV/BEV/Car-D/49
+45 / 60,Unknown,Unknown Li-Ion,BEV,PSA Group,Citroen,Car-C,GB/T,2020-12-21,Citroen-DFM Elysee EV/BEV/Car-C/45 / 60
+"13,2",LG Chem,NMC,PHEV,PSA Group,Citroen,SUV-C,,2020-12-21,"Citroen C5 Aircross PHEV/PHEV/SUV-C/13,2"
+"45,2",Unknown,NMC,BEV,PSA Group,Peugeot,SUV-B,GB/T,2020-12-21,"Peugeot e-2008 EV/BEV/SUV-B/45,2"
+13,Unknown,Unknown,PHEV,PSA Group,Peugeot,SUV-C,,2020-12-21,Peugeot 4008 (3008) PHEV/PHEV/SUV-C/13
+13,CATL,NMC,PHEV,R-N-M Alliance,Mitsubishi,SUV-C,,2020-12-21,Mitsubishi-GAC Qizhi PHEV/PHEV/SUV-C/13
+"54,7",LG Chem,NMC,BEV,R-N-M Alliance,Mitsubishi,SUV-C,GB/T,2020-12-21,"Mitsubishi-GAC Eupheme EV/BEV/SUV-C/54,7"
+38,CATL,NMC,BEV,R-N-M Alliance,Nissan,Car-D,GB/T,2020-12-21,Nissan Sylphy EV/BEV/Car-D/38
+"26,8",Unknown,NMC,BEV,R-N-M Alliance,Renault,SUV-A,GB/T,2020-12-21,"Renault City K-ZE EV/BEV/SUV-A/26,8"
+"71,8",CITIC MGL,LFP,BEV,SAIC,Maxus,MPV-E,GB/T,2020-12-21,"SAIC Maxus EG10 EV/BEV/MPV-E/71,8"
+"61,1",CATL,NMC,BEV,SAIC,Maxus,MPV-E,GB/T,2020-12-21,"SAIC Maxus Euniq 5 / EG50 EV/BEV/MPV-E/61,1"
+15,Unknown,NMC,PHEV,SAIC,Maxus,MPV-E,,2020-12-21,SAIC Maxus Euniq 5 / EG50 PHEV/PHEV/MPV-E/15
+15,Unknown,NMC,PHEV,SAIC,Maxus,SUV-D,,2020-12-21,SAIC Maxus Euniq 6 / D60e PHEV/PHEV/SUV-D/15
+53 / 71,CATL,NMC,BEV,SAIC,Maxus,SUV-D,GB/T,2020-12-21,SAIC Maxus Euniq 6 / D60e EV/BEV/SUV-D/53 / 71
+Unspec.,Unspec.,Unspec.,BEV,SAIC,Maxus,LCV,Unspec.,2020-12-21,SAIC Maxus Unspec. LCVs/BEV/LCV/Unspec.
+"52,6",CATL,NMC,BEV,SAIC,MG,Car-C,GB/T,2020-12-21,"SAIC MG5 EV/BEV/Car-C/52,6"
+"9,1",Wanxiang 123 ,NMC,PHEV,SAIC,MG,Car-D,,2020-12-21,"SAIC MG6 PHEV/PHEV/Car-D/9,1"
+"44,9",CATL,NMC,BEV,SAIC,MG,SUV-C,GB/T,2020-12-21,"SAIC MG EZS EV/BEV/SUV-C/44,9"
+15,Unknown,NMC,PHEV,SAIC,MG,SUV-D,,2020-12-21,SAIC MG eHS PHEV/PHEV/SUV-D/15
+"22,4",Unknown,LFP,BEV,SAIC,Roewe,Car-A,GB/T,2020-12-21,"SAIC Roewe E50 EV/BEV/Car-A/22,4"
+27,CATL,NMC,BEV,SAIC,Roewe,Car-A,GB/T,2020-12-21,SAIC Roewe Clever EV/BEV/Car-A/27
+"11,8",Unknown,LFP,PHEV,SAIC,Roewe,Car-D,,2020-12-21,"SAIC Roewe e550 PHEV/PHEV/Car-D/11,8"
+"12,2",CATL,NMC,PHEV,SAIC,Roewe,Car-E,,2020-12-21,"SAIC Roewe e950 PHEV/PHEV/Car-E/12,2"
+"52,6",CATL,NMC,BEV,SAIC,Roewe,Car-C,GB/T,2020-12-21,"SAIC Roewe Ei5 EV/BEV/Car-C/52,6"
+"9,1",Wanxiang 123 ,NMC,PHEV,SAIC,Roewe,Car-D,,2020-12-21,"SAIC Roewe ei6 PHEV/PHEV/Car-D/9,1"
+65,Unknown,NMC,BEV,SAIC,Roewe,Car-D,GB/T,2020-12-21,SAIC Roewe ER6 EV/BEV/Car-D/65
+"48,3",Unknown,NMC,BEV,SAIC,Roewe,SUV-C,GB/T,2020-12-21,"SAIC Roewe eRX5 EV/BEV/SUV-C/48,3"
+"12,2",CATL,NMC,PHEV,SAIC,Roewe,SUV-C,,2020-12-21,"SAIC Roewe eRX5 PHEV/PHEV/SUV-C/12,2"
+"12,2",Unknown,NMC,PHEV,SAIC,Roewe,SUV-C,,2020-12-21,"SAIC Roewe eRX5 Max PHEV/PHEV/SUV-C/12,2"
+"52,6",CATL,NMC,BEV,SAIC,Roewe,SUV-D,GB/T,2020-12-21,"SAIC Roewe Marvel-X EV/BEV/SUV-D/52,6"
+72,ProLogium,Unknown Solid State,BEV,South East Motor,Enovate,SUV-D,GB/T,2020-12-21,Enovate ME7 EV/BEV/SUV-D/72
+21,Unknown,Unknown,BEV,South East Motor,Soueast,Car-A,Unknown,2020-12-21,Soueast Dearcc EV10/BEV/Car-A/21
+"43,1",Unknown,Unknown Li-Ion,BEV,South East Motor,Soueast,SUV-C,GB/T,2020-12-21,"Soueast DX3 EV/BEV/SUV-C/43,1"
+12,CATL,LFP,BEV,South East Motor,Soueast,Car-C,,2020-12-21,Soueast Lingyue V5/V3 EV/BEV/Car-C/12
+32,Hefei Guoxuan,LFP,BEV,Suzuki,Suzuki,MPV-A,Unknown,2020-12-21,Suzuki Beidouxing X5 EV/BEV/MPV-A/32
+62,LG Chem,NMC,BEV,Tesla Inc.,Tesla,Car-D,SC & GB/T,2020-12-21,Tesla Model 3/BEV/Car-D/62
+"54,3",Panasonic,NMC,BEV,Toyota Motor Corp.,Lexus,SUV-C,GB/T,2020-12-21,"Lexus UX300e/BEV/SUV-C/54,3"
+"58,8",CATL,NMC,BEV,Toyota Motor Corp.,Toyota,Car-D,GB/T,2020-12-21,"Toyota-GAC Leahead iA5 EV/BEV/Car-D/58,8"
+46,CATL,NMC,BEV,Toyota Motor Corp.,Toyota,SUV-C,GB/T,2020-12-21,Toyota-GAC Leahead iX4 EV/BEV/SUV-C/46
+"10,2",Panasonic,NCA,PHEV,Toyota Motor Corp.,Toyota,Car-C,,2020-12-21,"Toyota Corolla PHEV/PHEV/Car-C/10,2"
+8,Panasonic,NMC,PHEV,Toyota Motor Corp.,Toyota,Car-C,,2020-12-21,Toyota Levin PHEV/PHEV/Car-C/8
+"54,3",Panasonic,NCA,BEV,Toyota Motor Corp.,Toyota,SUV-C,GB/T,2020-12-21,"Toyota C-HR EV/BEV/SUV-C/54,3"
+"54,3",Panasonic,NCA,BEV,Toyota Motor Corp.,Toyota,SUV-C,GB/T,2020-12-21,"Toyota Izoa EV/BEV/SUV-C/54,3"
+Unspec.,Unspec.,Unspec.,BEV,Unspec.,Unspec.,LCV,Unspec.,2020-12-21,Unspec. LCVs/BEV/LCV/Unspec.
+12,LG Chem,NMC,PHEV,VW Group,Audi,Car-E,,2020-12-21,Audi A6L PHEV/PHEV/Car-E/12
+"14,1",LG Chem,NMC,PHEV,VW Group,Audi,Car-E,,2020-12-21,"Audi A6L PHEV/PHEV/Car-E/14,1"
+38,Unknown,NMC,BEV,VW Group,Audi,SUV-C,GB/T,2020-12-21,Audi Q2L e-tron EV/BEV/SUV-C/38
+14,Unknown,NMC,PHEV,VW Group,Audi,SUV-D,,2020-12-21,Audi Q5L PHEV/PHEV/SUV-D/14
+"17,3",Samsung SDI,NMC,PHEV,VW Group,Audi,SUV-E,,2020-12-21,"Audi Q7 PHEV/PHEV/SUV-E/17,3"
+"17,3",Samsung SDI,NMC,PHEV,VW Group,Bentley,SUV-F,,2020-12-21,"Bentley Bentayga PHEV/PHEV/SUV-F/17,3"
+40,Sinoev Battery System Co.,NMC,BEV,VW Group,Sol,SUV-B,GB/T,2020-12-21,Sol-JAC E20X EV/BEV/SUV-B/40
+"35,8",CATL,NMC,BEV,VW Group,VW,Car-C,GB/T,2020-12-21,"VW e-Lavida EV/BEV/Car-C/35,8"
+"35,8",CATL,NMC,BEV,VW Group,VW,Car-C,GB/T,2020-12-21,"VW e-Bora EV/BEV/Car-C/35,8"
+"35,8",Samsung SDI,NMC,BEV,VW Group,VW,Car-C,GB/T,2020-12-21,"VW e-Golf EV/BEV/Car-C/35,8"
+"18,7",Panasonic-Sanyo,NMC,BEV,VW Group,VW,Car-A,CCS,2020-12-21,"VW e-Up! EV/BEV/Car-A/18,7"
+"8,8",Panasonic-Sanyo,NMC,PHEV,VW Group,VW,Car-C,,2020-12-21,"VW Golf PHEV/PHEV/Car-C/8,8"
+"12,1",CATL,NMC,PHEV,VW Group,VW,Car-D,,2020-12-21,"VW Magotan PHEV/PHEV/Car-D/12,1"
+"12,1",CATL,NMC,PHEV,VW Group,VW,Car-D,,2020-12-21,"VW Passat PHEV/PHEV/Car-D/12,1"
+"13,1",Samsung SDI,NMC,PHEV,VW Group,VW,Car-D,,2020-12-21,"VW Passat PHEV/PHEV/Car-D/13,1"
+"12,1",CATL,NMC,PHEV,VW Group,VW,SUV-C,,2020-12-21,"VW Tayron PHEV/PHEV/SUV-C/12,1"
+"35,8",CATL,NMC,BEV,VW Group,VW,SUV-C,GB/T,2020-12-21,"VW e-Tharu EV/BEV/SUV-C/35,8"
+"12,1",CATL,NMC,PHEV,VW Group,VW,SUV-D,,2020-12-21,"VW Tiguan-L PHEV/PHEV/SUV-D/12,1"
+46/53/57/69,CATL,NMC,BEV,WM Motors,Weltmeister,SUV-C,GB/T,2020-12-21,Weltmeister EX5 EV/BEV/SUV-C/46/53/57/69
+69,CATL,NMC,BEV,WM Motors,Weltmeister,SUV-D,GB/T,2020-12-21,Weltmeister EX6 Plus EV/BEV/SUV-D/69
+"80,9",CATL,LFP,BEV,Xiaopeng,Xpeng,Car-E,GB/T,2020-12-21,"XPeng P7 EV/BEV/Car-E/80,9"
+"50,5 / 66,5",CATL,NMC,BEV,Xiaopeng,Xpeng,SUV-C,GB/T,2020-12-21,"XPeng G3 EV/BEV/SUV-C/50,5 / 66,5"
+17,Unknown,NMC,BEV,Yema Automobile,Levdeo,Car-A,,2020-12-21,Levdeo i3 EV/BEV/Car-A/17
+30,Unknown,NMC,BEV,Yema Automobile,Levdeo,Car-B,Unknown,2020-12-21,Levdeo i5 EV/BEV/Car-B/30
+"51,1",Unknown,Unknown,BEV,Yema Automobile,Levdeo,SUV-C,unknown,2020-12-21,"Levdeo i9 EV/BEV/SUV-C/51,1"
+47,Huizhou Blueway,NMC,BEV,Yema Automobile,Yema,MPV-D,Unknown,2020-12-21,Yema EC30 EV/BEV/MPV-D/47
+66,Soundun New Energy,NMC,BEV,Yema Automobile,Yema,SUV-C,GB/T,2020-12-21,Yema EC60 EV/BEV/SUV-C/66
+52,Wuhu ETC,LFP,BEV,Yema Automobile,Yema,SUV-D,Unknown,2020-12-21,Yema EC70 EV/BEV/SUV-D/52
+24 / 40,China BAK,NMC,BEV,Yudo Auto,Yudo,SUV-B,GB/T,2020-12-21,Yudo Pi1 EV/BEV/SUV-B/24 / 40
+40,Sinowatt,NMC,BEV,Yudo Auto,Yudo,SUV-C,GB/T,2020-12-21,Yudo Pi3 EV/BEV/SUV-C/40
+21,Lishen,NMC,BEV,Zhejiang Kandi ,Kandi,Car-A,,2020-12-21,Kandi K10 & K11 EV/BEV/Car-A/21
+20,Lishen,NMC,BEV,Zhejiang Kandi ,Kandi,Car-A,GB/T,2020-12-21,Kandi K12 Hawk EV/BEV/Car-A/20
+21,Lishen,NMC,BEV,Zhejiang Kandi ,Kandi,Car-B,,2020-12-21,Kandi K17 Cyclone EV/BEV/Car-B/21
+19,Lishen,NMC,BEV,Zhejiang Kandi ,Kandi,Car-A,,2020-12-21,Kandi K22 EV/BEV/Car-A/19
+42,Lishen,NMC,BEV,Zhejiang Kandi ,Kandi,Car-B,GB/T,2020-12-21,Kandi K27 EV/BEV/Car-B/42
+"41,5",Lishen,NMC,BEV,Zhejiang Kandi ,Kandi,SUV-B,GB/T,2020-12-21,"Kandi K28 (EX3) EV/BEV/SUV-B/41,5"
+15,CALB,Unknown Li-Ion,BEV,Zotye,Zotye,SUV-B,,2020-12-21,Zotye 5008 / T11 EV/BEV/SUV-B/15
+12,Harbin Coslight,LFP,BEV,Zotye,Zotye,Car-A,,2020-12-21,Zotye E20 EV/BEV/Car-A/12
+"24,5",Huizhou EV Energy,NMC,BEV,Zotye,Zotye,Car-A,,2020-12-21,"Zotye E200 EV/BEV/Car-A/24,5"
+32,Hefei Guoxuan,NMC,BEV,Zotye,Zotye,SUV-B,GB/T,2020-12-21,Zotye T200 EV/BEV/SUV-B/32
+43,Hefei Guoxuan,NMC,BEV,Zotye,Zotye,SUV-C,GB/T,2020-12-21,Zotye T300 EV/BEV/SUV-C/43
+22,China BAK,NMC,BEV,Zotye,Zotye,Car-A,,2020-12-21,Zotye Z100 / Cloud EV/BEV/Car-A/22
+39,Tianjin EV Energies,NMC,BEV,Zotye,Zotye,Car-D,GB/T,2020-12-21,Zotye Z500 EV/BEV/Car-D/39
+"17,6",Tianjin EV Energies,NMC,BEV,Zotye,Zotye,Car-A,,2020-12-21,"Zotye Zhi Ma E30 EV/BEV/Car-A/17,6"
+22/33/42,Samsung SDI,NMC,BEV,BMW Group,BMW,MPV-B,ChaDeMo,2020-12-21,BMW i3 EV / EREV/BEV/MPV-B/22/33/42
+"7,7 / 9,7",Samsung SDI,NMC,PHEV,BMW Group,BMW,MPV-C,,2020-12-21,"BMW 225xe PHEV/PHEV/MPV-C/7,7 / 9,7"
+"11,4",Unknown,NMC,PHEV,FCA,Jeep,SUV-B,,2020-12-21,"Jeep Renegade PHEV/PHEV/SUV-B/11,4"
+"13,5",SK-Group,NMC,PHEV,Daimler AG,Mercedes-Benz,Car-D,,2020-12-21,"Mercedes C300e/de PHEV/PHEV/Car-D/13,5"
+"8,7",LG Chem,NMC,PHEV,Daimler AG,Mercedes-Benz,Car-E,,2020-12-21,"Mercedes E350e PHEV/PHEV/Car-E/8,7"
+80,LG Chem,NMC,BEV,Daimler AG,Mercedes-Benz,SUV-D,CCS,2020-12-21,Mercedes EQC 400 EV/BEV/SUV-D/80
+16,GS Yuasa,LTO,BEV,R-N-M Alliance,Mitsubishi,MPV-A,ChaDeMo,2020-12-21,Mitsubishi Minicab Miev EV/BEV/MPV-A/16
+16,GS Yuasa,LTO,BEV,R-N-M Alliance,Mitsubishi,LCV,ChaDeMo,2020-12-21,Mitsubishi Minicab Miev Truck EV/BEV/LCV/16
+24 / 40,AESC,NMC,BEV,R-N-M Alliance,Nissan,LCV,ChaDeMo,2020-12-21,Nissan e-NV200 EV/BEV/LCV/24 / 40
+50,CATL,NMC,BEV,PSA Group,Peugeot,Car-B,CCS,2020-12-21,Peugeot e-208 EV/BEV/Car-B/50
+50,CATL,NMC,BEV,PSA Group,Peugeot,SUV-B,CCS,2020-12-21,Peugeot e-2008 EV/BEV/SUV-B/50
+33,Samsung SDI,NMC,BEV,Deutsche Post DHL Group,StreetScooter,LCV,,2020-12-21,StreetScooter Work EV/BEV/LCV/33
+"8,8",Panasonic,NMC,PHEV,Toyota Motor Corp.,Toyota,Car-C,ChaDeMo,2020-12-21,"Toyota Prius Gen-2 PHEV/PHEV/Car-C/8,8"
+"18,1",Panasonic,NMC,PHEV,Toyota Motor Corp.,Toyota,SUV-C,,2020-12-21,"Toyota RAV4 PHEV/PHEV/SUV-C/18,1"
+"10,7",LG Chem,NMC,PHEV,Geely-Volvo Cars,Volvo,SUV-C,,2020-12-21,"Volvo XC40 PHEV/PHEV/SUV-C/10,7"
+"10,4 / 11,6",LG Chem,NMC,PHEV,Geely-Volvo Cars,Volvo,Car-D,,2020-12-21,"Volvo V60 PHEV/PHEV/Car-D/10,4 / 11,6"
+"10,4 / 11,6",LG Chem,NMC,PHEV,Geely-Volvo Cars,Volvo,Car-E,,2020-12-21,"Volvo V90 PHEV/PHEV/Car-E/10,4 / 11,6"
+"14,1",LG Chem,NMC,PHEV,VW Group,Audi,Car-E,,2020-12-21,"Audi A6 PHEV/PHEV/Car-E/14,1"
+"14,1",LG Chem,NMC,PHEV,VW Group,Audi,Car-E,,2020-12-21,"Audi A7 PHEV/PHEV/Car-E/14,1"
+"71,5",Samsung SDI,NMC,BEV,VW Group,Audi,SUV-E,CCS,2020-12-21,"Audi e-tron Quattro EV/BEV/SUV-E/71,5"
+"82,8",BYD,NMC,BEV,BYD,BYD,SUV-E,CCS,2020-12-21,"BYD Tang EV/BEV/SUV-E/82,8"
+"9,7",Samsung SDI,NMC,PHEV,BMW Group,BMW,SUV-C,,2020-12-21,"BMW X1 25e PHEV/PHEV/SUV-C/9,7"
+"9,7",Samsung SDI,NMC,PHEV,BMW Group,BMW,SUV-C,,2020-12-21,"BMW X2 25e PHEV/PHEV/SUV-C/9,7"
+"22,5",GS Yuasa,LMO,BEV,PSA Group,Citroen,MPV-C,ChaDeMo,2020-12-21,"Citroen Berlingo Multispace EV/BEV/MPV-C/22,5"
+"22,5",GS Yuasa,LMO,BEV,PSA Group,Citroen,LCV,ChaDeMo,2020-12-21,"Citroen Berlingo EV/BEV/LCV/22,5"
+16,GS Yuasa,LTO,BEV,PSA Group,Citroen,Car-A,ChaDeMo,2020-12-21,Citroen C-Zero EV/BEV/Car-A/16
+50,CATL,NMC,BEV,PSA Group,DS,SUV-B,CCS,2020-12-21,DS-3 Crossback EV/BEV/SUV-B/50
+"13,2",LG Chem,NMC,PHEV,PSA Group,DS,SUV-D,,2020-12-21,"DS-7 Crossback PHEV/PHEV/SUV-D/13,2"
+"13,6",unknown,NMC,PHEV,Ford,Ford,SUV-E,,2020-12-21,"Ford Explorer PHEV/PHEV/SUV-E/13,6"
+"13,6",Unknown,NMC,PHEV,Ford,Ford,MPV-D,,2020-12-21,"Ford Tourneo Custom PHEV/PHEV/MPV-D/13,6"
+"13,6",Unknown,NMC,PHEV,Ford,Ford,LCV,,2020-12-21,"Ford Transit Custom PHEV/PHEV/LCV/13,6"
+53 / 72,CITIC MGL,LFP,BEV,SAIC,Maxus,LCV,CCS,2020-12-21,SAIC Maxus EV80/BEV/LCV/53 / 72
+"44,9",CATL,NMC,BEV,SAIC,MG,SUV-C,CCS,2020-12-21,"SAIC MG EZS EV/BEV/SUV-C/44,9"
+31,LG Chem,NMC,PHEV,Geely NECV Group,LEVC,MPV-E,ChaDeMo,2020-12-21,LEVC TX EREV/PHEV/MPV-E/31
+"35,5",Panasonic,Unknown Li-Ion,BEV,Honda Motor,Honda,Car-B,CCS,2020-12-21,"Honda e EV/BEV/Car-B/35,5"
+67,SK-Group,NMC,BEV,Hyundai Motor,Hyundai,SUV-C,CCS,2020-12-21,Hyundai Kona EV/BEV/SUV-C/67
+42,LG Chem,NMC,BEV,Hyundai Motor,Hyundai,SUV-C,CCS,2020-12-21,Hyundai Kona EV/BEV/SUV-C/42
+"28,2",FZ Sonick,Zebra,BEV,FCA,Iveco,LCV,,2020-12-21,"Iveco Daily Electric EV/BEV/LCV/28,2"
+"42,8",Hefei Guoxuan,LFP,BEV,JAC Motors,JAC iEV,SUV-B,Unknown,2020-12-21,"JAC iEV7S EV/BEV/SUV-B/42,8"
+"11,4",Unknown,NMC,PHEV,FCA,Jeep,SUV-C,,2020-12-21,"Jeep Compass PHEV/PHEV/SUV-C/11,4"
+"8,9",LG Chem,NMC,PHEV,Hyundai Motor,Kia,Car-C,,2020-12-21,"Kia Ceed PHEV/PHEV/Car-C/8,9"
+"35,8",Samsung SDI,NMC,BEV,VW Group,MAN,LCV,CCS,2020-12-21,"MAN e-TGE EV/BEV/LCV/35,8"
+"35,5",Panasonic,Unknown Li-Ion,BEV,Mazda,Mazda,SUV-C,CCS,2020-12-21,"Mazda MX-30 EV/BEV/SUV-C/35,5"
+"15,6",LG Chem,NMC,PHEV,Daimler AG,Mercedes-Benz,Car-C,CCS,2020-12-21,"Mercedes A250e PHEV/PHEV/Car-C/15,6"
+"15,6",LG Chem,NMC,PHEV,Daimler AG,Mercedes-Benz,Car-D,CCS,2020-12-21,"Mercedes CLA250e PHEV/PHEV/Car-D/15,6"
+"15,6",SK-Group,NMC,PHEV,Daimler AG,Mercedes-Benz,MPV-C,CCS,2020-12-21,"Mercedes B250e PHEV/PHEV/MPV-C/15,6"
+"31,2",LG Chem,NMC,PHEV,Daimler AG,Mercedes-Benz,SUV-E,CCS,2020-12-21,"Mercedes GLE350e/de PHEV/PHEV/SUV-E/31,2"
+100,Unknown,Unknown Li-Ion,BEV,Daimler AG,Mercedes-Benz,MPV-E,CCS,2020-12-21,Mercedes EQV EV/BEV/MPV-E/100
+"41,4",FZ SoNick,Zebra,BEV,Daimler AG,Mercedes-Benz,LCV,,2020-12-21,"Mercedes eVito Van EV/BEV/LCV/41,4"
+12,Unknown,Unknown,BEV,Other,Mia,Car-A,,2020-12-21,Mia Electric EV/BEV/Car-A/12
+24 / 40,AESC,NMC,BEV,R-N-M Alliance,Nissan,MPV-C,ChaDeMo,2020-12-21,Nissan e-NV200 Evalia EV/BEV/MPV-C/24 / 40
+"16 - 17,1",LG Chem,NMC,PHEV,GM,Opel / Vauxhall,Car-C,,2020-12-21,"Opel / Vxh Ampera EREV/PHEV/Car-C/16 - 17,1"
+50,CATL,NMC,BEV,PSA Group,Opel / Vauxhall,Car-B,CCS,2020-12-21,Opel/Vxh. Corsa EV/BEV/Car-B/50
+60,LG Chem,NMC,BEV,PSA Group,Opel / Vauxhall,MPV-B,CCS,2020-12-21,Opel/Vxh. Ampera-e EV/BEV/MPV-B/60
+"13,2",LG Chem,NMC,PHEV,PSA Group,Opel / Vauxhall,SUV-C,,2020-12-21,"Opel/Vxh. Grandland X PHEV/PHEV/SUV-C/13,2"
+16,GS Yuasa,LTO,BEV,PSA Group,Peugeot,Car-A,ChaDeMo,2020-12-21,Peugeot iOn EV/BEV/Car-A/16
+"13,2",LG Chem,NMC,PHEV,PSA Group,Peugeot,Car-D,,2020-12-21,"Peugeot 508 PHEV/PHEV/Car-D/13,2"
+"13,2",LG Chem,NMC,PHEV,PSA Group,Peugeot,SUV-C,,2020-12-21,"Peugeot 3008 PHEV/PHEV/SUV-C/13,2"
+"22,5",GS Yuasa,LMO,BEV,PSA Group,Peugeot,LCV,ChaDeMo,2020-12-21,"Peugeot Partner EV/BEV/LCV/22,5"
+"22,5",GS Yuasa,LMO,BEV,PSA Group,Peugeot,MPV-C,ChaDeMo,2020-12-21,"Peugeot Partner Tepee EV/BEV/MPV-C/22,5"
+27,Unknown,NMC,PHEV,Geely-Volvo Cars,Polestar,SS,CCS,2020-12-21,Polestar 1 PHEV/PHEV/SS/27
+78,CATL,NMC,BEV,Geely-Volvo Cars,Polestar,Car-D,CCS,2020-12-21,Polestar 2 EV/BEV/Car-D/78
+22,LG Chem,LMO,BEV,R-N-M Alliance,Renault,Car-C,,2020-12-21,Renault Fluence EV/BEV/Car-C/22
+22,AESC,LMO,BEV,R-N-M Alliance,Renault,LCV,,2020-12-21,Renault Kangoo EV/BEV/LCV/22
+33,LG Chem,NMC,BEV,R-N-M Alliance,Renault,LCV,,2020-12-21,Renault Kangoo EV/BEV/LCV/33
+"6,1",LG Chem,LMO,BEV,R-N-M Alliance,Renault,QC,,2020-12-21,"Renault Twizy EV/BEV/QC/6,1"
+33,LG Chem,NMC,BEV,R-N-M Alliance,Renault,LCV,,2020-12-21,Renault Master EV/BEV/LCV/33
+"53,3",LG Chem,NMC,BEV,R-N-M Alliance,Renault,Car-B,CCS,2020-12-21,"Renault Zoe EV/BEV/Car-B/53,3"
+22 / 41,LG Chem,NMC,BEV,R-N-M Alliance,Renault,Car-B,Type-2 AC,2020-12-21,Renault Zoe EV/BEV/Car-B/22 / 41
+35,CATL,Unknown Li-Ion,BEV,SAIC,Maxus,LCV,CCS,2020-12-21,SAIC Maxus EV30/BEV/LCV/35
+"36,8",LG Chem,NMC,BEV,VW Group,Seat,Car-A,CCS,2020-12-21,"Seat e-Mii EV/BEV/Car-A/36,8"
+"17,6",LG Chem,NMC,BEV,Daimler AG,Smart,Car-A,,2020-12-21,"Smart Forfour EV/BEV/Car-A/17,6"
+"36,8",LG Chem,NMC,BEV,VW Group,Skoda,Car-A,CCS,2020-12-21,"Skoda Citigo-e EV/BEV/Car-A/36,8"
+"13,1",Samsung SDI,NMC,PHEV,VW Group,Skoda,Car-D,,2020-12-21,"Skoda Superb PHEV/PHEV/Car-D/13,1"
+"18,1",Panasonic,NMC,PHEV,Suzuki,Suzuki,SUV-C,,2020-12-21,"Suzuki Across PHEV/PHEV/SUV-C/18,1"
+80 / 62,Panasonic,NCA,BEV,Tesla Inc.,Tesla,Car-D,SC & CCS,2020-12-21,Tesla Model 3/BEV/Car-D/80 / 62
+"11,2",LG Chem,NMC,PHEV,Geely-Volvo Cars,Volvo,Car-D,,2020-12-21,"Volvo V60 PHEV/PHEV/Car-D/11,2"
+62,LG Chem,NMC,BEV,VW Group,VW,Car-C,CCS,2020-12-21,VW ID.3 EV/BEV/Car-C/62
+"36,8",LG Chem,NMC,BEV,VW Group,VW,Car-A,CCS,2020-12-21,"VW e-Up! EV/BEV/Car-A/36,8"
+"9,9",Panasonic-Sanyo,NMC,PHEV,VW Group,VW,Car-D,,2020-12-21,"VW Passat PHEV/PHEV/Car-D/9,9"
+"35,8",Samsung SDI,NMC,BEV,VW Group,VW,LCV,CCS,2020-12-21,"VW e-Crafter EV/BEV/LCV/35,8"
+61 / 82,BYD,LFP,BEV,BYD,BYD,MPV-D,BYD,2020-12-21,BYD e6 EV/BEV/MPV-D/61 / 82
+50 / 75,CATL,NMC,BEV,PSA Group,Citroen,LCV,CCS,2020-12-21,Citroen e-Jumpy EV/BEV/LCV/50 / 75
+47 / 79,Unknown,Unknown Li-Ion,BEV,FCA,Fiat,LCV,CCS,2020-12-21,Fiat Ducato EV/BEV/LCV/47 / 79
+15,Unknown,Unknown,BEV,Other,Goupil,LSV,,2020-12-21,Goupil EV/BEV/LSV/15
+"8,9",LG Chem,NMC,PHEV,Hyundai Motor,Kia,Car-C,,2020-12-21,"Kia XCeed PHEV/PHEV/Car-C/8,9"
+"15,6",LG Chem,NMC,PHEV,Daimler AG,Mercedes-Benz,SUV-C,CCS,2020-12-21,"Mercedes GLA250e PHEV/PHEV/SUV-C/15,6"
+"41,4",FZ SoNick,Zebra,BEV,Daimler AG,Mercedes-Benz,MPV-E,,2020-12-21,"Mercedes eVito Tourer EV/BEV/MPV-E/41,4"
+100,Unknown,Unknown Li-Ion,BEV,Daimler AG,Mercedes-Benz,MPV-E,CCS,2020-12-21,Mercedes eVito Tourer EV/BEV/MPV-E/100
+55,Unknown,Unknown Li-Ion,BEV,Daimler AG,Mercedes-Benz,LCV,CCS,2020-12-21,Mercedes eSprinter Van EV/BEV/LCV/55
+50 / 75,CATL,NMC,BEV,PSA Group,Opel / Vauxhall,LCV,CCS,2020-12-21,Opel/Vxh. Vivaro EV/BEV/LCV/50 / 75
+"53,3",LG Chem,NMC,BEV,R-N-M Alliance,Renault,LCV,CCS,2020-12-21,"Renault Zoe EV/BEV/LCV/53,3"
+"9,8",LG Chem,NMC,PHEV,R-N-M Alliance,Renault,Car-C,,2020-12-21,"Renault Megane PHEV/PHEV/Car-C/9,8"
+"9,8",LG Chem,NMC,PHEV,R-N-M Alliance,Renault,SUV-B,,2020-12-21,"Renault Captur PHEV/PHEV/SUV-B/9,8"
+"20,4",Sony,Unknown Li-Ion,BEV,Deutsche Post DHL Group,StreetScooter,LCV,,2020-12-21,"StreetScooter Work EV/BEV/LCV/20,4"
+"18,7",Panasonic-Sanyo,NMC,BEV,VW Group,VW,LCV,CCS,2020-12-21,"VW e-Up! EV/BEV/LCV/18,7"
+"37,3 / 74,6",Unknown,Unknown Li-Ion,BEV,VW Group,VW,LCV,CCS,2020-12-21,"VW e-Transporter EV/BEV/LCV/37,3 / 74,6"
+65,Unknown,Unknown Li-Ion,BEV,Other,Aiways,SUV-D,CCS,2020-12-21,Aiways U5 EV/BEV/SUV-D/65
+30,Bollore,LMP,BEV,Other,Bollore,SUV-B,,2020-12-21,Bollore Blue Summer EV/BEV/SUV-B/30
+50 / 75,Unknown,NMC,BEV,PSA Group,Citroen,MPV-D,CCS,2020-12-21,Citroen e-SpaceTourer EV/BEV/MPV-D/50 / 75
+16,GS Yuasa,LTO,BEV,PSA Group,Citroen,LCV,ChaDeMo,2020-12-21,Citroen C-Zero EV/BEV/LCV/16
+30,Bollore,LMP,BEV,PSA Group,Citroen,SUV-B,,2020-12-21,Citroen e-Mehari EV/BEV/SUV-B/30
+50,CATL,NMC,BEV,PSA Group,Citroen,Car-C,CCS,2020-12-21,Citroen e-C4 EV/BEV/Car-C/50
+50,CATL,NMC,BEV,PSA Group,DS,LCV,CCS,2020-12-21,DS-3 Crossback EV/BEV/LCV/50
+42 / 67,LG Chem,NMC,BEV,Hyundai Motor,Hyundai,LCV,CCS,2020-12-21,Hyundai Kona EV/BEV/LCV/42 / 67
+"8,9",LG Chem,NMC,PHEV,Hyundai Motor,Kia,Car-C,,2020-12-21,"Kia Xceed PHEV/PHEV/Car-C/8,9"
+42 / 67,SK-Group,NMC,BEV,Hyundai Motor,Kia,LCV,CCS,2020-12-21,Kia Niro EV/BEV/LCV/42 / 67
+40 / 62,AESC,NMC,BEV,R-N-M Alliance,Nissan,LCV,ChaDeMo,2020-12-21,Nissan Leaf EV/BEV/LCV/40 / 62
+50,CATL,NMC,BEV,PSA Group,Opel / Vauxhall,LCV,CCS,2020-12-21,Opel/Vxh. Corsa EV/BEV/LCV/50
+16,GS Yuasa,LTO,BEV,PSA Group,Peugeot,LCV,ChaDeMo,2020-12-21,Peugeot iOn EV/BEV/LCV/16
+50 / 75,CATL,NMC,BEV,PSA Group,Peugeot,LCV,CCS,2020-12-21,Peugeot e-Expert EV/BEV/LCV/50 / 75
+50 / 75,CATL,NMC,BEV,PSA Group,Peugeot,MPV-D,CCS,2020-12-21,Peugeot e-Traveller EV/BEV/MPV-D/50 / 75
+50,CATL,NMC,BEV,PSA Group,Peugeot,LCV,CCS,2020-12-21,Peugeot e-208 EV/BEV/LCV/50
+22 / 41,LG Chem,NMC,BEV,R-N-M Alliance,Renault,LCV,Type-2 AC,2020-12-21,Renault Zoe EV/BEV/LCV/22 / 41
+"36,8",LG Chem,NMC,BEV,VW Group,Seat,LCV,CCS,2020-12-21,"Seat e-Mii EV/BEV/LCV/36,8"
+"36,8",LG Chem,NMC,BEV,VW Group,VW,LCV,CCS,2020-12-21,"VW e-Up! EV/BEV/LCV/36,8"
+"14,1",LG Chem,NMC,PHEV,VW Group,Audi,SUV-C,,2020-12-21,"Audi Q3 PHEV/PHEV/SUV-C/14,1"
+"17,9",LG Chem,NMC,PHEV,VW Group,Audi,SUV-E,,2020-12-21,"Audi Q8 PHEV/PHEV/SUV-E/17,9"
+80,CATL,NMC,BEV,BMW Group,BMW,SUV-D,CCS,2020-12-21,BMW iX3 EV/BEV/SUV-D/80
+"13,5",SK-Group,NMC,FCEV,Daimler AG,Mercedes-Benz,SUV-D,,2020-12-21,"Mercedes GLC F-Cell/FCEV/SUV-D/13,5"
+"13,5",SK-Group,NMC,PHEV,Daimler AG,Mercedes-Benz,SS,,2020-12-21,"Mercedes AMG GT73 PHEV/PHEV/SS/13,5"
+50 / 75,CATL,NMC,BEV,PSA Group,Opel / Vauxhall,MPV-D,CCS,2020-12-21,Opel/Vxh. Zafira Life EV/BEV/MPV-D/50 / 75
+"13,1",Samsung SDI,NMC,PHEV,VW Group,Seat,Car-C,,2020-12-21,"Seat Leon PHEV/PHEV/Car-C/13,1"
+"13,1",Samsung SDI,NMC,PHEV,VW Group,Seat,SUV-C,,2020-12-21,"Seat Cupra Formentor PHEV/PHEV/SUV-C/13,1"
+"13,1",Samsung SDI,NMC,PHEV,VW Group,Seat,SUV-D,,2020-12-21,"Seat Tarraco PHEV/PHEV/SUV-D/13,1"
+"13,1",Samsung SDI,NMC,PHEV,VW Group,VW,Car-C,,2020-12-21,"VW Golf PHEV/PHEV/Car-C/13,1"
+"13,1",Samsung SDI,NMC,PHEV,VW Group,VW,Car-D,,2020-12-21,"VW Arteon PHEV/PHEV/Car-D/13,1"
+"13,1",Samsung SDI,NMC,PHEV,VW Group,VW,SUV-D,,2020-12-21,"VW Tiguan PHEV/PHEV/SUV-D/13,1"
+"14,1",Samsung SDI,NMC,PHEV,VW Group,VW,SUV-E,,2020-12-21,"VW Touareg PHEV/PHEV/SUV-E/14,1"
+"13,1",Samsung SDI,NMC,PHEV,VW Group,VW,MPV-C,,2020-12-21,"VW Touran PHEV/PHEV/MPV-C/13,1"
+"37,3",Unknown,Unknown Li-Ion,BEV,VW Group,VW,LCV,CCS,2020-12-21,"VW e-Caddy EV/BEV/LCV/37,3"
+"15,6",LG Chem,NMC,PHEV,Daimler AG,Mercedes-Benz,Car-C,CCS,2020-12-21,"Mercedes CLA250e PHEV/PHEV/Car-C/15,6"
+12,GS Yuasa,LMO,PHEV,R-N-M Alliance,Mitsubishi,LCV,ChaDeMo,2020-12-21,Mitsubishi Outlander PHEV/PHEV/LCV/12
+"13,1",Samsung SDI,NMC,PHEV,VW Group,Seat,SUV-C,,2020-12-21,"Seat Ateca PHEV/PHEV/SUV-C/13,1"
+80,Panasonic,NCA,BEV,Tesla Inc.,Tesla,SUV-D,SC & CCS,2020-12-21,Tesla Model Y/BEV/SUV-D/80
+78,LG Chem,NMC,BEV,Geely-Volvo Cars,Volvo,SUV-C,CCS,2020-12-21,Volvo XC40 EV/BEV/SUV-C/78
+"8,9",SK-Group,NMC,PHEV,Hyundai Motor,Kia,LCV,,2020-12-21,"Kia Niro PHEV/PHEV/LCV/8,9"
+"54,3",Panasonic,NMC,BEV,Toyota Motor Corp.,Lexus,SUV-C,CCS,2020-12-21,"Lexus UX300e/BEV/SUV-C/54,3"
+"35,8",Samsung SDI,NMC,BEV,VW Group,VW,LCV,CCS,2020-12-21,"VW e-Golf EV/BEV/LCV/35,8"
+"13,6",unknown,NMC,PHEV,Ford,Ford,MPV-D,,2020-12-21,"Ford Tourneo Custom PHEV/PHEV/MPV-D/13,6"
+"13,6",unknown,NMC,PHEV,Ford,Ford,LCV,,2020-12-21,"Ford Transit Custom PHEV/PHEV/LCV/13,6"
+33,Samsung SDI,NMC,BEV,Deutsche Post DHL Group,StreetScooter,LCV,,2020-12-21,Streetscooter Work EV/BEV/LCV/33
+82,Unknown,NMC,BEV,VW Group,Seat,Car-C,CCS,2020-12-21,Seat Cupra El-Born EV/BEV/Car-C/82
+"10,4 / 11,6",LG Chem,NMC,PHEV,Geely-Volvo Cars,Volvo,LCV,,2020-12-21,"Volvo XC60 PHEV/PHEV/LCV/10,4 / 11,6"
+42,Unknown,NMC,BEV,FCA,Fiat,Car-A,CCS,2020-12-21,Fiat 500e EV/BEV/Car-A/42
+47 / 79,Unknown,Unknown Li-Ion,BEV,FCA,Fiat,MPV-E,CCS,2020-12-21,Fiat Ducato EV/BEV/MPV-E/47 / 79
+"32,9",CATL,NMC,BEV,Great Wall,Ora,Car-A,CCS,2020-12-21,"Great Wall Ora R1 EV/BEV/Car-A/32,9"
+42 / 67,SK-Group,NMC,BEV,Hyundai Motor,Kia,LCV,CCS,2020-12-21,Kia e-Soul EV/BEV/LCV/42 / 67
+28 / 42,LG Chem,NMC,BEV,Hyundai Motor,Hyundai,Car-C,ChaDeMo,2020-12-21,Hyundai Ioniq Electric EV/BEV/Car-C/28 / 42
+"58,8",SK-Group,NMC,BEV,Hyundai Motor,Hyundai,LCV,,2020-12-21,"Hyundai Porter EV/BEV/LCV/58,8"
+"16,3",SK-Group,NMC,BEV,Hyundai Motor,Kia,MPV-A,ChaDeMo,2020-12-21,"Kia Ray EV/BEV/MPV-A/16,3"
+"58,8",SK-Group,NMC,BEV,Hyundai Motor,Kia,LCV,,2020-12-21,"Kia Bongo EV/BEV/LCV/58,8"
+22,AESC,LMO,BEV,R-N-M Alliance,Samsung,Car-C,Type-2 AC,2020-12-21,Samsung SM3 EV/BEV/Car-C/22
+67,LG Chem,NMC,BEV,Hyundai Motor,Hyundai,SUV-C,CCS,2020-12-21,Hyundai Kona EV/BEV/SUV-C/67
+"13,6",Unknown,NMC,PHEV,Ford,Ford,LCV,,2020-12-21,"Ford Transit Van PHEV/PHEV/LCV/13,6"
+"16 - 17,1",LG Chem,NMC,PHEV,GM,Holden,Car-C,,2020-12-21,"Holden Volt EREV/PHEV/Car-C/16 - 17,1"
+93 / 79,LG Chem,NMC,BEV,VW Group,Porsche,Car-E,CCS,2020-12-21,Porsche Taycan EV/BEV/Car-E/93 / 79
+"13,1",Samsung SDI,NMC,PHEV,VW Group,Skoda,Car-C,,2020-12-21,"Skoda Octavia PHEV/PHEV/Car-C/13,1"
+67,Unknown,Unknown,BEV,JAC Motors,JAC iEV,PUP-D,Unknown,2020-12-21,JAC iEV330P EV/BEV/PUP-D/67
+"50,5 / 66,5",CATL,NMC,BEV,Xiaopeng,Xpeng,SUV-C,GB/T,2020-12-21,"Xpeng G3 EV/BEV/SUV-C/50,5 / 66,5"
+"17,6",E-One Moly,LFP,BEV,Other,Luxgen,MPV-E,,2020-12-21,"Yulon Luxgen M7 EV/BEV/MPV-E/17,6"
+33,Unknown,Unknown,BEV,Other,Luxgen,Car-C,GB/T,2020-12-21,Yulon Luxgen S3 EV/BEV/Car-C/33
+"13,5",SK-Group,NMC,PHEV,Daimler AG,Mercedes-Benz,Car-E,,2020-12-21,"Mercedes e300e/de PHEV/PHEV/Car-E/13,5"
+45,Unknown,Unknown Li-Ion,BEV,Geely Auto Group,Maple,SUV-B,GB/T,2020-12-21,Geely Maple 30x EV/BEV/SUV-B/45
+51,CATL,NMC,BEV,Dongfeng Motor,Fengshen,Car-D,GB/T,2020-12-21,Dongfeng Fengshen E70 EV/BEV/Car-D/51
+48,BYD,LFP,BEV,BYD,BYD,LCV,Unknown,2020-12-21,BYD T3 EV/BEV/LCV/48
+95,LG Chem,NMC,BEV,VW Group,Audi,SUV-E,CCS,2020-12-21,Audi e-Tron Quattro EV/BEV/SUV-E/95
+71,BYD,NMC,BEV,BYD,BYD,SUV-D,Unknown,2020-12-21,BYD Song Pro EV/BEV/SUV-D/71
+10,Unknown,LFP,BEV,Mahindra & Mahindra,Mahindra,LSV,,2020-12-21,Mahindra e2o EV/BEV/LSV/10
+19,Unknown,Unknown,BEV,Mahindra & Mahindra,Mahindra,Car-B,,2020-12-21,Mahindra e-Verito EV/BEV/Car-B/19
+"16,2",Unknown,NMC,BEV,Tata Motors,Tata,Car-B,,2020-12-21,"Tata Tigor / Tiago EV/BEV/Car-B/16,2"
+"30,2",Unknown,Unknown Li-Ion,BEV,Tata Motors,Tata,SUV-B,,2020-12-21,"Tata Nexon EV/BEV/SUV-B/30,2"
+17,Unknown,Unknown Li-Ion,BEV,Other,FOMM,Car-A,,2020-12-21,FOMM One EV/BEV/Car-A/17
+53,BYD,NMC,BEV,BYD,BYD,SUV-C,Unknown,2020-12-21,BYD Yuan EV535/BEV/SUV-C/53
+"47,3",BYD,NMC,BEV,BYD,BYD,Car-C,GB/T,2020-12-21,"BYD e3 sdn EV/BEV/Car-C/47,3"
+53,BYD,NMC,BEV,BYD,BYD,SUV-B,GB/T,2020-12-21,BYD Yuan EV535/BEV/SUV-B/53
+"52,6",CATL,NMC,BEV,Changan Automobile Group,Changan,Car-C,Unknown,2020-12-21,"Changan Eado EV/BEV/Car-C/52,6"

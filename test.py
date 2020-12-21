@@ -13,7 +13,6 @@ from utils import *
 
 
 
-
 class ProcessingData: 
     def __init__(self, ev_volume_csv_path=r'/mnt/c/Users/ArthurJacquemart/FIFTHDELTA/Engineering - Documents/Bart/Data/raw/ev_volume/10-31 Upload of PEV Master 2020-10-31.csv'):
         self.ev_volumes_raw=pd.read_csv(ev_volume_csv_path,sep=';',decimal=',')
@@ -100,54 +99,58 @@ for country in list_of_countries:
 
 registration_volumes_EV['SALES_COUNTRY']=registration_volumes_EV['sales country'].replace(dict_country_mapping)
 registration_volumes_EV['PROD_COUNTRY']=registration_volumes_EV['vehicle production country'].replace(dict_country_mapping)
+registration_volumes_EV_columns+=['SALES_COUNTRY','PROD_COUNTRY']
+other_cols=[col  for col in registration_volumes_EV_columns if (col not in years_available and col not in months_available)]
 
 registration_volumes_EV[years_available+months_available]=registration_volumes_EV[years_available+months_available].astype(float)
-
-###START CHECK###
-
-###check on annual data
-print('CHECK ANUAL DATA TO CUM DATA')
-diff_annual_cum=registration_volumes_EV[years_available].sum(axis=1)-registration_volumes_EV['cumulative sales'].fillna(0.0)
-boolean_check_annual_cum=registration_volumes_EV[years_available].sum(axis=1)==registration_volumes_EV['cumulative sales'].fillna(0.0)
-boolean_check_annual_cum=pd.DataFrame(boolean_check_annual_cum,columns=['bool'])
-false_index_annual_cum=boolean_check_annual_cum[boolean_check_annual_cum['bool']==False].index
-diff_annual_cum=pd.DataFrame(diff_annual_cum.loc[false_index_annual_cum].abs().sort_values(ascending=False),columns=['diff'])
-info_false_cum_annual=registration_volumes_EV.loc[false_index_annual_cum][['sales country','oem group','brand','make model']]
+registration_volumes_EV_columns=list(registration_volumes_EV.columns)
 
 
+# ##START CHECK###
 
-ERRROR_ANNUAL_DF=pd.concat([info_false_cum_annual,diff_annual_cum],axis=1)
-ERRROR_ANNUAL_DF['cummulative_sales']=registration_volumes_EV['cumulative sales'].loc[false_index_annual_cum]
-ERRROR_ANNUAL_DF['cummulative_computed']=registration_volumes_EV[years_available].sum(axis=1).loc[false_index_annual_cum]
-print(ERRROR_ANNUAL_DF.head(20))
+# ###check on annual data
+# print('CHECK ANUAL DATA TO CUM DATA')
+# diff_annual_cum=registration_volumes_EV[years_available].sum(axis=1)-registration_volumes_EV['cumulative sales'].fillna(0.0)
+# boolean_check_annual_cum=registration_volumes_EV[years_available].sum(axis=1)==registration_volumes_EV['cumulative sales'].fillna(0.0)
+# boolean_check_annual_cum=pd.DataFrame(boolean_check_annual_cum,columns=['bool'])
+# false_index_annual_cum=boolean_check_annual_cum[boolean_check_annual_cum['bool']==False].index
+# diff_annual_cum=pd.DataFrame(diff_annual_cum.loc[false_index_annual_cum].abs().sort_values(ascending=False),columns=['diff'])
+# info_false_cum_annual=registration_volumes_EV.loc[false_index_annual_cum][['sales country','oem group','brand','make model']]
 
 
-###check on monthly data
-import pandas as pd
-import openpyxl
-import xlsxwriter
-print('CHECK MONTHLY DATA TO ANNUAL DATA')
-months_to_check=[]
-years_available_with_month=years_available
-registration_volumes_EV.fillna(0,inplace=True)
-sum_by_year={}
-Excelwriter = pd.ExcelWriter("ERROR_BY_YEAR.xlsx",engine="xlsxwriter")
-for year in years_available:
-    if find_col(year[2:],months_available)==[]:
-        years_available_with_month.remove(year)
-    else:
-        months_to_check+=(find_col(year[2:],months_available))
+
+# ERRROR_ANNUAL_DF=pd.concat([info_false_cum_annual,diff_annual_cum],axis=1)
+# ERRROR_ANNUAL_DF['cummulative_sales']=registration_volumes_EV['cumulative sales'].loc[false_index_annual_cum]
+# ERRROR_ANNUAL_DF['cummulative_computed']=registration_volumes_EV[years_available].sum(axis=1).loc[false_index_annual_cum]
+# print(ERRROR_ANNUAL_DF.head(20))
+
+
+# ###check on monthly data
+# import pandas as pd
+# import openpyxl
+# import xlsxwriter
+# print('CHECK MONTHLY DATA TO ANNUAL DATA')
+# months_to_check=[]
+# years_available_with_month=years_available
+# registration_volumes_EV.fillna(0,inplace=True)
+# sum_by_year={}
+# Excelwriter = pd.ExcelWriter("ERROR_BY_YEAR.xlsx",engine="xlsxwriter")
+# for year in years_available:
+#     if find_col(year[2:],months_available)==[]:
+#         years_available_with_month.remove(year)
+#     else:
+#         months_to_check+=(find_col(year[2:],months_available))
         
-        sum_by_year[year]=pd.DataFrame(registration_volumes_EV[find_col(year[2:],months_available)].sum(axis=1))
-        sum_by_year[year].columns=['sum_computed_'+year]
-        sum_by_year[year]['diff']=sum_by_year[year]['sum_computed_'+year]-registration_volumes_EV[year]
-        sum_by_year[year][year]=registration_volumes_EV[year]
-        info_false_cum_month=registration_volumes_EV.loc[sum_by_year[year].index][['sales country','oem group','brand','make model']]
-        sum_by_year[year]=sum_by_year[year][sum_by_year[year]['diff']!=0]
-        info_false_cum_month=registration_volumes_EV.loc[sum_by_year[year].index][['sales country','oem group','brand','make model']]
-        sum_by_year[year]=pd.concat([info_false_cum_month,sum_by_year[year]],axis=1)
-        sum_by_year[year].to_excel(Excelwriter, sheet_name=year , freeze_panes=(1,1))
-Excelwriter.save()
+#         sum_by_year[year]=pd.DataFrame(registration_volumes_EV[find_col(year[2:],months_available)].sum(axis=1))
+#         sum_by_year[year].columns=['sum_computed_'+year]
+#         sum_by_year[year]['diff']=sum_by_year[year]['sum_computed_'+year]-registration_volumes_EV[year]
+#         sum_by_year[year][year]=registration_volumes_EV[year]
+#         info_false_cum_month=registration_volumes_EV.loc[sum_by_year[year].index][['sales country','oem group','brand','make model']]
+#         sum_by_year[year]=sum_by_year[year][sum_by_year[year]['diff']!=0]
+#         info_false_cum_month=registration_volumes_EV.loc[sum_by_year[year].index][['sales country','oem group','brand','make model']]
+#         sum_by_year[year]=pd.concat([info_false_cum_month,sum_by_year[year]],axis=1)
+#         sum_by_year[year].to_excel(Excelwriter, sheet_name=year , freeze_panes=(1,1))
+# Excelwriter.save()
 
 
 ###END CHECK###
@@ -212,14 +215,15 @@ with open(filename, "r") as f:
 tables_to_import={}
 for TABLE_NAME, cols_map_TABLE in columns_mapping.items():
     if TABLE_NAME != 'GEO_COUNTRY_TEST':
-        temp=registration_volumes_EV_transformed[list(cols_map_TABLE.keys())]
+        temp=registration_volumes_EV_transformed[list(cols_map_TABLE.keys())].copy()
         temp.columns=list(cols_map_TABLE.values())
+        print(temp)
         tables_to_import[TABLE_NAME]=temp.drop_duplicates()
         
     else:
-        sales_countries=registration_volumes_EV_transformed[['sales region','sales country']]
+        sales_countries=registration_volumes_EV_transformed[['sales region','SALES_COUNTRY']].copy()
         sales_countries.columns=list(cols_map_TABLE.values())
-        production_countries=registration_volumes_EV_transformed[['vehicle production region','vehicle production country']]
+        production_countries=registration_volumes_EV_transformed[['vehicle production region','PROD_COUNTRY']]
         production_countries.columns=list(cols_map_TABLE.values())
         temp=pd.concat([sales_countries,production_countries]).drop_duplicates()
         temp=temp[temp.REGION != 0]

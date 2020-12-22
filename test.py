@@ -347,3 +347,16 @@ for i,year in enumerate(years_available):
 
 fig.update_layout(height=2000, width=800, title_text="Side By Side Subplots")
 fig.show()
+
+from functest.utils.config_loader import ConfigLoader
+with open("conf/parameter.yml", "r") as file:
+    parameters = yaml.load(file, Loader=ConfigLoader)
+
+
+    
+conn = snowflake.connector.connect(
+    user=r'PYTHON_TEST',
+    password=r'qFPkPD)d4_NHD#w^9^wh',
+    account=r'cl19237.west-europe.azure',
+    **parameters["snowflake_config"]
+)    

@@ -6,6 +6,14 @@ EV_VOLUMES_TEST:
     DATE: DATE
     FORECAST_RELEASE_DATE: FORECAST_RELEASE_DATE
     MODEL_ID: MODEL_ID
+    oem group: OEM_GROUP
+    brand: BRAND
+    global segment: GLOBAL_SEGMENT
+    fast-charging: FAST_CHARGING
+    cell supplier: CELL_SUPPLIER
+    cathode chemistry: CATHODE
+    propulsion: PROPULTION
+
 GEO_COUNTRY_TEST: 
     REGION: REGION
     COUNTRY_CODE: COUNTRY_CODE

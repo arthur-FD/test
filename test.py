@@ -50,8 +50,7 @@ class ProcessingData:
             self.months_available=[col for col in elf.ev_volumes_raw.columns if re.search(self.regex_month, col)]
             self.other_cols=[col  for col in registration_volumes_EV_columns if (col not in years_available and col not in months_available)]
             self.check_col_names=1
-
-                
+          
 
 
             
@@ -212,6 +211,19 @@ with open(filename, "r") as f:
     columns_mapping=yaml.load(f)
 
 
+
+map_sales=registration_volumes_EV_transformed[['sales region','SALES_COUNTRY']]
+map_prod=registration_volumes_EV_transformed[['vehicle production region','PROD_COUNTRY']]
+map_sales.columns=['REGION','COUNTRY_CODE']
+map_prod.columns=['REGION','COUNTRY_CODE']
+mapping=pd.concat([map_sales,map_prod],axis=0)
+mapping['ID_country']=mapping['REGION']+'/'+mapping['COUNTRY_CODE']
+count_ID=mapping['ID_country'].value_counts()
+mapping=mapping.join(pd.DataFrame(count_ID), on ="ID_country",lsuffix='_left')
+mapping.drop(['ID_country_left'],axis=1,inplace=True)
+mapping.sort_values(by=['ID_country'],inplace=True,ascending=False)
+mapping=mapping[['REGION', 'COUNTRY_CODE']].drop_duplicates( subset=['COUNTRY_CODE'],keep='first').dropna()
+
 tables_to_import={}
 for TABLE_NAME, cols_map_TABLE in columns_mapping.items():
     if TABLE_NAME != 'GEO_COUNTRY_TEST':
@@ -352,7 +364,7 @@ for i,year in enumerate(years_available):
 fig.update_layout(height=2000, width=800, title_text="Side By Side Subplots")
 fig.show()
 
-from functest.utils.config_loader import ConfigLoader
+from utils.config_loader import ConfigLoader
 with open("conf/parameter.yml", "r") as file:
     parameters = yaml.load(file, Loader=ConfigLoader)
 

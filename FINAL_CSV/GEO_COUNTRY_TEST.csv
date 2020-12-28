@@ -1,106 +1,101 @@
-REGION,COUNTRY_CODE
-Americas,US
-Asia-Pacific,CN
-Asia-Pacific,JP
-Europe,NO
-Europe,NL
-Europe,FR
-Europe,DE
-Europe,GB
-Americas,CA
-Europe,SE
-Europe,BE
-Europe,CH
-Europe,AT
-Europe,ES
-Europe,DK
-Europe,IT
-Asia-Pacific,KR
-Europe,EE
-Europe,IE
-Europe,FI
-Asia-Pacific,NZ
-Africa & ME,IL
-Europe,PT
-Asia-Pacific,AU
-Asia-Pacific,HK
-Europe,IS
-Africa & ME,ZA
-Europe,PL
-Europe,CZ
-Americas,BR
-Europe,RO
-Europe,SI
-Europe,RU
-Europe,TR
-Americas,MX
-Americas,PR
-Africa & ME,MA
-Africa & ME,AE
-Africa & ME,SA
-Europe,SK
-Americas,CO
-Asia-Pacific,TW
-Europe,BG
-Europe,LT
-Europe,LV
-Europe,MC
-Europe,LU
-Asia-Pacific,MY
-Americas,EC
-Americas,CL
-Asia-Pacific,PF
-Europe,UA
-Europe,CY
-Europe,GR
-Asia-Pacific,LK
-Europe,HU
-Europe,HR
-Asia-Pacific,SG
-Americas,CR
-Asia-Pacific,CR
-Asia-Pacific,IN
-Asia-Pacific,TH
-Americas,BM
-Asia-Pacific,PH
-Americas,UY
-Africa & ME,JO
-Asia-Pacific,ID
-Asia-Pacific,KZ
-Africa & ME,OM
-Africa & ME,BH
-Europe,BA
-Africa & ME,EG
-Europe,MT
-Europe,MK
-Americas,PA
-Americas,PE
-Africa & ME,QA
-Europe,RS
-Africa & ME,MG
-Asia-Pacific,VN
-Europe,GE
-Europe,LI
-Asia-Pacific,MO
-Americas,AR
-Europe,BY
-Africa & ME,LB
-Europe,MD
-Asia-Pacific,NP
-Africa & ME,KW
-Africa & ME,MU
-Africa & ME,RE
-Europe,AD
-Africa & ME,IQ
-Americas,BS
-Africa & ME,RW
-Europe,SM
-Africa & ME,TN
-Asia-Pacific,FJ
-Europe,AZ
-Africa & ME,DZ
-,NO
-Europe,CN
-Europe,JP
-Europe,MX
-Americas,CN
+,region,country
+421927,Europe,Germany
+32338,Asia-Pacific,China
+224881,Americas,USA
+236770,Europe,France
+160821,Asia-Pacific,"Korea, Republic of"
+164929,Europe,Spain
+433360,Asia-Pacific,Japan
+336945,Europe,United Kingdom
+295805,Europe,Slovakia
+330926,Europe,Sweden
+144176,Europe,Belgium
+69104,Europe,Netherlands
+173439,Europe,Austria
+209821,Europe,Italy
+54711,Europe,Norway
+301988,Europe,Czech Rep
+166924,Europe,Switzerland
+241599,Europe,Finland
+195296,Europe,Denmark
+267948,Europe,Portugal
+374486,Europe,Luxembourg
+284633,Europe,Iceland
+295864,Europe,Poland
+321086,Europe,Slovenia
+232597,Europe,Ireland
+129725,Americas,Canada
+313855,Europe,Romania
+401763,Europe,Hungary
+309372,Americas,Mexico
+226316,Europe,Estonia
+392798,Europe,Greece
+254846,Asia-Pacific,New Zealand
+355934,Europe,Bulgaria
+388360,Europe,Ukraine
+357961,Europe,Lithuania
+257255,Africa & ME,Israel
+347916,Americas,Colombia
+272500,Asia-Pacific,Australia
+409482,Europe,Croatia
+329598,Europe,Turkey
+366155,Europe,Latvia
+278207,Asia-Pacific,Hong Kong
+391936,Europe,Cyprus
+412673,Asia-Pacific,Singapore
+430184,Europe,Malta
+414784,Americas,Costa Rica
+308934,Americas,Brazil
+418554,Asia-Pacific,Thailand
+326591,Europe,Russia
+379659,Asia-Pacific,Malaysia
+368134,Europe,Monaco
+338303,Africa & ME,United Arab Emirates
+434073,Europe,Serbia
+435222,Europe,Georgia
+351672,Asia-Pacific,Taiwan
+421914,Africa & ME,Jordan
+416768,Asia-Pacific,India
+437032,Europe,Liechtenstein
+382853,Americas,Chile
+424706,Asia-Pacific,Kazakhstan
+289875,Africa & ME,South Africa
+443165,Europe,Andorra
+334655,Americas,Puerto Rico
+421392,Americas,Uruguay
+398505,Asia-Pacific,Sri Lanka
+381823,Americas,Ecuador
+438996,Europe,Belarus
+441719,Africa & ME,Mauritius
+440410,Africa & ME,Lebanon
+424119,Asia-Pacific,Indonesia
+425606,Africa & ME,Oman
+339150,Africa & ME,Saudi Arabia
+426784,Europe,Bosnia
+431317,Americas,Panama
+336124,Africa & ME,Morocco
+442148,Africa & ME,Reunion
+431037,Europe,North Macedonia
+438579,Americas,Argentina
+432204,Africa & ME,Qatar
+420359,Asia-Pacific,Philippines
+426385,Africa & ME,Bahrain
+440964,Africa & ME,Kuwait
+431737,Americas,Peru
+427440,Africa & ME,Egypt
+444770,Europe,Kosovo
+438398,Asia-Pacific,Macao
+444095,Africa & ME,Tunisia
+444437,Asia-Pacific,Fiji
+434527,Africa & ME,Madagascar
+440681,Europe,Moldova
+440843,Asia-Pacific,Nepal
+384247,Asia-Pacific,French Polynesia
+444077,Europe,San Marino
+443822,Africa & ME,Iraq
+434708,Asia-Pacific,Vietnam
+420183,Americas,Bermuda
+443896,Americas,Bahamas
+444934,Europe,Azerbaijan
+443976,Africa & ME,Rwanda
+444998,Africa & ME,Algeria

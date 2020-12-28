@@ -370,9 +370,6 @@ with open("conf/parameter.yml", "r") as file:
 
 
     
-conn = snowflake.connector.connect(
-    user=r'PYTHON_TEST',
-    password=r'qFPkPD)d4_NHD#w^9^wh',
-    account=r'cl19237.west-europe.azure',
-    **parameters["snowflake_config"]
-)    
+
+
+write_pandas(conn, mapping, 'GEO_COUNTRY_TEST')

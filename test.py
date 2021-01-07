@@ -10,6 +10,8 @@ from datetime import time
 from datetime import datetime
 import pycountry
 from utils import * 
+import snowflake.connector
+from snowflake.connector.pandas_tools import write_pandas
 
 
 
@@ -50,7 +52,7 @@ class ProcessingData:
             self.months_available=[col for col in elf.ev_volumes_raw.columns if re.search(self.regex_month, col)]
             self.other_cols=[col  for col in registration_volumes_EV_columns if (col not in years_available and col not in months_available)]
             self.check_col_names=1
-          
+    
 
 
             
@@ -386,17 +388,17 @@ for i,year in enumerate(years_available):
 fig.update_layout(height=2000, width=800, title_text="Side By Side Subplots")
 fig.show()
 
-from utils.config_loader import ConfigLoader
+from config_loader import ConfigLoader
 with open("conf/parameter.yml", "r") as file:
     parameters = yaml.load(file, Loader=ConfigLoader)
 
 conn = snowflake.connector.connect(
     user='PYTHON_TEST',
-    password="qFPkPD)d4_NHD#w^9^wh",
-    account="cl19237.west-europe.azure",
+    password="",
+    account="",
     **parameters["snowflake_config"]
 ) 
 write_pandas(conn,new_data, 'EV_VOLUMES_TEST')
 
-
+tables_to_import['EV_VOLUMES_TEST'] .replace(to_replace=np.nan,value='',inplace=True)
 write_pandas(conn,tables_to_import['EV_VOLUMES_TEST'] , 'EV_VOLUMES_TEST')

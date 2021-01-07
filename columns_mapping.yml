@@ -9,10 +9,7 @@ EV_VOLUMES_TEST:
     oem group: OEM_GROUP
     brand: BRAND
     global segment: GLOBAL_SEGMENT
-    fast-charging: FAST_CHARGING
-    cell supplier: CELL_SUPPLIER
-    cathode chemistry: CATHODE
-    propulsion: PROPULTION
+    propulsion: PROPULSION
 
 GEO_COUNTRY_TEST: 
     REGION: REGION
@@ -21,7 +18,7 @@ VEHICLE_SPEC_TEST:
     battery kwh : BATTERY
     cell supplier: CELL_SUPPLIER
     cathode chemistry: CATHODE
-    propulsion: PROPULTION
+    propulsion: PROPULSION
     oem group: OEM_GROUP
     brand: BRAND
     global segment: GLOBAL_SEGMENT

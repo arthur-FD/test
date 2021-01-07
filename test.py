@@ -55,7 +55,7 @@ class ProcessingData:
 
             
 registration_volumes_EV=pd.read_csv(r'/mnt/c/Users/ArthurJacquemart/FIFTHDELTA/Engineering - Documents/Bart/Data/raw/ev_volume/10-31 Upload of PEV Master 2020-10-31.csv',sep=';',decimal=',')
-
+registration_volumes_EV=pd.read_csv(r'/mnt/c/Users/ArthurJacquemart/FIFTHDELTA/Engineering - Documents/Bart/Data/raw/ev_volume/HEV Volume MO 2020-12-03.csv',sep=';',decimal=',')
 ##REPLACE U.K and USA CSQ REP
 
 columns=list(registration_volumes_EV.columns)
@@ -71,6 +71,8 @@ registration_volumes_EV.columns=columns
 
 registration_volumes_EV.replace(' ',numpy.nan,inplace=True) # use regex to make it more robust
 registration_volumes_EV.dropna(how='all',inplace=True)
+registration_volumes_EV.dropna(how='all',inplace=True,axis=1)
+
 
 regex_year = r'^20[0-9]{2}$'
 regex_month = r'^[a-z]{3}-[0-9]{2}$'
@@ -86,6 +88,23 @@ import yaml
 filename=r'exception_countries.yml'
 with open(filename, "r") as f:
     premap_countries=yaml.load(f)
+
+#FOR HEV
+registration_volumes_EV['country']=registration_volumes_EV['country'].replace(premap_countries)
+list_of_countries=list(set(list(registration_volumes_EV['country'])))
+dict_country_mapping={}
+for country in list_of_countries:
+    dict_country_mapping[country]=pycountry.countries.search_fuzzy(country)[0].alpha_2
+registration_volumes_EV['SALES_COUNTRY']=registration_volumes_EV['country'].replace(dict_country_mapping)
+registration_volumes_EV['PROD_COUNTRY']='Unavailable'
+registration_volumes_EV_columns+=['SALES_COUNTRY','PROD_COUNTRY']
+other_cols=[col  for col in registration_volumes_EV_columns if (col not in years_available and col not in months_available)]
+registration_volumes_EV[years_available+months_available]=registration_volumes_EV[years_available+months_available].replace(to_replace ='[A-z]*-*', value = np.nan, regex = True)
+registration_volumes_EV[years_available+months_available]=registration_volumes_EV[years_available+months_available].astype(float)
+registration_volumes_EV.drop(['region','country'],axis=1,inplace=True)
+registration_volumes_EV_columns=list(registration_volumes_EV.columns)
+###
+
 
 registration_volumes_EV['sales country']=registration_volumes_EV['sales country'].replace(premap_countries)
 registration_volumes_EV['vehicle production country']=registration_volumes_EV['vehicle production country'].replace(premap_countries)
@@ -209,7 +228,10 @@ registration_volumes_EV_transformed['FORECAST_RELEASE_DATE']=date.today()
 filename=r'columns_mapping.yml'
 with open(filename, "r") as f:
     columns_mapping=yaml.load(f)
-
+###HEV
+filename=r'columns_mapping_HEV.yml'
+with open(filename, "r") as f:
+    columns_mapping=yaml.load(f)
 
 
 map_sales=registration_volumes_EV_transformed[['sales region','SALES_COUNTRY']]
@@ -368,8 +390,13 @@ from utils.config_loader import ConfigLoader
 with open("conf/parameter.yml", "r") as file:
     parameters = yaml.load(file, Loader=ConfigLoader)
 
+conn = snowflake.connector.connect(
+    user='PYTHON_TEST',
+    password="qFPkPD)d4_NHD#w^9^wh",
+    account="cl19237.west-europe.azure",
+    **parameters["snowflake_config"]
+) 
+write_pandas(conn,new_data, 'EV_VOLUMES_TEST')
 
-    
 
-
-write_pandas(conn, mapping, 'GEO_COUNTRY_TEST')
+write_pandas(conn,tables_to_import['EV_VOLUMES_TEST'] , 'EV_VOLUMES_TEST')

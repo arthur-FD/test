@@ -55,11 +55,12 @@ class ProcessingData:
     
 
 
-            
-registration_volumes_EV=pd.read_csv(r'/mnt/c/Users/ArthurJacquemart/FIFTHDELTA/Engineering - Documents/Bart/Data/raw/ev_volume/10-31 Upload of PEV Master 2020-10-31.csv',sep=';',decimal=',')
-registration_volumes_EV=pd.read_csv(r'/mnt/c/Users/ArthurJacquemart/FIFTHDELTA/Engineering - Documents/Bart/Data/raw/ev_volume/HEV Volume MO 2020-12-03.csv',sep=';',decimal=',')
-##REPLACE U.K and USA CSQ REP
+registration_volumes_EV=pd.read_csv(r'/mnt/c/Users/ArthurJacquemart/FIFTHDELTA/Engineering - Documents/Bart/Data/raw/ev_volume/01-09 Upload of PEV Master 2021-01-09.csv',sep=';',decimal=',')
+registration_volumes_EV=pd.read_excel('lastEVs.xls')
 
+# registration_volumes_EV=pd.read_csv(r'/mnt/c/Users/ArthurJacquemart/FIFTHDELTA/Engineering - Documents/Bart/Data/raw/ev_volume/10-31 Upload of PEV Master 2020-10-31.csv',sep=';',decimal=',')
+# registration_volumes_EV=pd.read_csv(r'/mnt/c/Users/ArthurJacquemart/FIFTHDELTA/Engineering - Documents/Bart/Data/raw/ev_volume/HEV Volume MO 2020-12-03.csv',sep=';',decimal=',')
+##REPLACE U.K and USA CSQ REP
 columns=list(registration_volumes_EV.columns)
 
 weird_months={'maj':'may','okt':'oct'}
@@ -72,6 +73,8 @@ for i,col in enumerate(columns):
 registration_volumes_EV.columns=columns
 
 registration_volumes_EV.replace(' ',numpy.nan,inplace=True) # use regex to make it more robust
+registration_volumes_EV.replace('-',numpy.nan,inplace=True) # use regex to make it more robust
+
 registration_volumes_EV.dropna(how='all',inplace=True)
 registration_volumes_EV.dropna(how='all',inplace=True,axis=1)
 
@@ -83,6 +86,10 @@ registration_volumes_EV_columns=list(map(lambda x: x.lower(),list(registration_v
 registration_volumes_EV.columns=registration_volumes_EV_columns
 years_available=[col  for col in registration_volumes_EV_columns if re.search(regex_year, col)]
 months_available=[col  for col in registration_volumes_EV_columns if re.search(regex_month, col)]
+
+
+
+registration_volumes_EV[months_available]=registration_volumes_EV[months_available].astype(float)
 other_cols=[col  for col in registration_volumes_EV_columns if (col not in years_available and col not in months_available)]
 #registration_volumes_EV[['sales country','vehicle production country']]=registration_volumes_EV[['sales country','vehicle production country']].applymap(lambda ctry: ctry_preprocessing(ctry.replace('.','')))
 
@@ -91,20 +98,25 @@ filename=r'exception_countries.yml'
 with open(filename, "r") as f:
     premap_countries=yaml.load(f)
 
+
+
+
 #FOR HEV
-registration_volumes_EV['country']=registration_volumes_EV['country'].replace(premap_countries)
-list_of_countries=list(set(list(registration_volumes_EV['country'])))
-dict_country_mapping={}
-for country in list_of_countries:
-    dict_country_mapping[country]=pycountry.countries.search_fuzzy(country)[0].alpha_2
-registration_volumes_EV['SALES_COUNTRY']=registration_volumes_EV['country'].replace(dict_country_mapping)
-registration_volumes_EV['PROD_COUNTRY']='Unavailable'
-registration_volumes_EV_columns+=['SALES_COUNTRY','PROD_COUNTRY']
-other_cols=[col  for col in registration_volumes_EV_columns if (col not in years_available and col not in months_available)]
-registration_volumes_EV[years_available+months_available]=registration_volumes_EV[years_available+months_available].replace(to_replace ='[A-z]*-*', value = np.nan, regex = True)
-registration_volumes_EV[years_available+months_available]=registration_volumes_EV[years_available+months_available].astype(float)
-registration_volumes_EV.drop(['region','country'],axis=1,inplace=True)
-registration_volumes_EV_columns=list(registration_volumes_EV.columns)
+# registration_volumes_EV['country']=registration_volumes_EV['country'].replace(premap_countries)
+# list_of_countries=list(set(list(registration_volumes_EV['country'])))
+# dict_country_mapping={}
+# for country in list_of_countries:
+#     dict_country_mapping[country]=pycountry.countries.search_fuzzy(country)[0].alpha_2
+# registration_volumes_EV['SALES_COUNTRY']=registration_volumes_EV['country'].replace(dict_country_mapping)
+# registration_volumes_EV['PROD_COUNTRY']='Unavailable'
+# registration_volumes_EV_columns+=['SALES_COUNTRY','PROD_COUNTRY']
+# other_cols=[col  for col in registration_volumes_EV_columns if (col not in years_available and col not in months_available)]
+# registration_volumes_EV[years_available+months_available]=registration_volumes_EV[years_available+months_available].replace(to_replace ='[A-z]*-*', value = np.nan, regex = True)
+# registration_volumes_EV[years_available+months_available]=registration_volumes_EV[years_available+months_available].astype(float)
+# registration_volumes_EV.drop(['region','country'],axis=1,inplace=True)
+# registration_volumes_EV_columns=list(registration_volumes_EV.columns)
+
+
 ###
 
 
@@ -126,7 +138,7 @@ registration_volumes_EV[years_available+months_available]=registration_volumes_E
 registration_volumes_EV_columns=list(registration_volumes_EV.columns)
 
 
-# ##START CHECK###
+##START CHECK###
 
 # ###check on annual data
 # print('CHECK ANUAL DATA TO CUM DATA')
@@ -202,7 +214,12 @@ registration_volumes_EV_transformed.GRANULARITY[registration_volumes_EV_transfor
 registration_volumes_EV_transformed.GRANULARITY[registration_volumes_EV_transformed.DATE.str.contains(regex_month)]='MONTH'
 registration_volumes_EV_transformed.GRANULARITY[registration_volumes_EV_transformed.DATE.str.contains(regex_quarter)]='QUARTER'
 
-registration_volumes_EV_transformed['MODEL_ID']=registration_volumes_EV_transformed['make model']+'/'+registration_volumes_EV_transformed['propulsion']+'/'+registration_volumes_EV_transformed['global segment']+'/'+registration_volumes_EV_transformed['battery kwh']
+
+# BEV
+registration_volumes_EV_transformed=registration_volumes_EV_transformed.replace(np.nan,'')
+registration_volumes_EV_transformed['MODEL_ID']=registration_volumes_EV_transformed['make model']+'||'+registration_volumes_EV_transformed['propulsion']+'||'+registration_volumes_EV_transformed['global segment']+'||'+registration_volumes_EV_transformed['cell supplier']+'||'+registration_volumes_EV_transformed['fast-charging']+'||'+registration_volumes_EV_transformed['battery kwh']
+#HEV
+# registration_volumes_EV_transformed['MODEL_ID']=registration_volumes_EV_transformed['make model']+'||'+registration_volumes_EV_transformed['propulsion']+'||'+registration_volumes_EV_transformed['global segment']+'||'+registration_volumes_EV_transformed['battery supplier']+'||'+registration_volumes_EV_transformed['battery kwh']
 
 
 registration_volumes_EV_transformed_monthly=registration_volumes_EV_transformed[registration_volumes_EV_transformed['GRANULARITY']=='MONTH']
@@ -394,11 +411,11 @@ with open("conf/parameter.yml", "r") as file:
 
 conn = snowflake.connector.connect(
     user='PYTHON_TEST',
-    password="",
-    account="",
+    password=PSW_SF,
+    account=ACCOUNT_SF,
     **parameters["snowflake_config"]
 ) 
 write_pandas(conn,new_data, 'EV_VOLUMES_TEST')
 
 tables_to_import['EV_VOLUMES_TEST'] .replace(to_replace=np.nan,value='',inplace=True)
-write_pandas(conn,tables_to_import['EV_VOLUMES_TEST'] , 'EV_VOLUMES_TEST')
+write_pandas(conn,tables_to_import['EV_VOLUMES_TEST'] , 'EV_VOLUMES_TEST')  
